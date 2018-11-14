@@ -1,0 +1,12 @@
+  {% assign filterTypes = "couleurs|matieres|motifs" | split: "|" %}
+  {% for filterType in filterTypes %}
+    {% assign filterAttrs = site.vetements | map: filterType | uniq %}
+    <p class="mb-0 mt-3">{{filterType}}</p>    
+    {{filterAttrs}}
+    {% for item in filterAttrs %}
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="colorClick(this)">
+        <label class="custom-control-label" for="{{item}}">{{item}}</label>
+      </div>
+    {% endfor %}
+  {% endfor %}

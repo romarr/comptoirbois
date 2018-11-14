@@ -1,0 +1,56 @@
+---
+layout: default
+title: Accueil
+place: menu
+pos: 0
+---
+<div class="col-12">
+    <div class="row justify-content-center text-center">
+        {% for item in site.data.features.items %}
+        <div class="col mx-1">
+            <span class="fa-stack fa-lg"> 
+                <i class="fa fa-circle fa-stack-2x text-wood"></i>
+                <i class="{{item.icon}} fa-stack-1x text-light"></i>
+                </span>
+            <h5>{{item.titre}}</h5>
+            <p class="text-justify">{{item.text}}</p>
+        </div>
+        {% endfor %}
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

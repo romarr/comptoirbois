@@ -1,0 +1,58 @@
+---
+layout: default
+title: Services
+subtitle: Prestations sur commande
+img: bg-wood.jpg
+place: menu
+pos: 8
+---
+<div class="col-10 offset-1">
+    {%- for item in site.prestations -%}
+    {%- assign mod = forloop.index | modulo: 2 -%}
+    {% if mod == 0 %}
+    <div class="row">
+        <div class="col-4">
+            <img class="img-fluid img-thumbnail rounded" src="{{site.baseurl}}{{item.image}}">
+        </div>
+        <div class="col">
+            <h3>{{item.title}}</h3>
+            <p>{{item.desc}}</p>
+            <p>{{item.content}}</p>
+            <button class="btn btn-primary btn-dark btn-block bg-wood snipcart-add-item"
+            data-item-id="{{item.sku}}"
+            data-item-weight="{{item.poids}}"
+            data-item-name="{{item.title}}"
+            data-item-price="{{item.price}}"
+            data-item-url="{{site.baseurl}}{{page.url}}"
+            data-item-custom1-name="Type"
+            data-item-custom1-options="{{item.variations | join: '|'}}"
+            data-item-description="{{item.desc}}">
+            <i class="fas fa-2x fa-file-invoice"></i><p>Passer commande</p></button>
+        </div>
+    </div>
+    <hr>
+    {% else %}
+    <div class="row">
+        <div class="col">
+                <h3>{{item.title}}</h3>
+                <p>{{item.desc}}</p>
+                <p>{{item.content}}</p>
+                <button class="btn btn-primary btn-dark btn-block bg-wood snipcart-add-item"
+                data-item-id="{{item.sku}}"
+                data-item-weight="{{item.poids}}"
+                data-item-name="{{item.title}}"
+                data-item-price="{{item.price}}"
+                data-item-url="{{site.baseurl}}{{page.url}}"
+                data-item-custom1-name="Type"
+                data-item-custom1-options="{{item.variations | join: '|'}}"
+                data-item-description="{{item.desc}}">
+                <i class="fas fa-2x fa-file-invoice"></i><p>Passer commande</p></button>
+        </div>
+        <div class="col-4">
+            <img class="img-fluid img-thumbnail rounded" src="{{site.baseurl}}{{item.image}}">
+        </div>
+    </div>
+    <hr>
+    {% endif %}
+    {% endfor %}
+</div>

@@ -1,0 +1,54 @@
+<header>
+  <section id="header-top">
+    <div class="container">
+      <div class="row text-center d-flex justify-content-between align-items-center">
+        <div class="col-sm-4 col-xs-12">
+          <p class="my-0 py-0 mx-0 px-0"><a href="{{site.fb-url}}" class="text-light"><i class="fab fa-facebook-square"></i></a>
+            <a href="{{site.ig-url}}" class="text-light"><i class="fab fa-instagram"></i></a></p>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <h4 class="my-auto py-auto mx-auto px-auto">{{site.title}}</h4>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <p class="my-0 py-0 mx-0 px-0"><a href="#" class="snipcart-user-profile text-light"><small><i class="fas fa-user"></i>
+                Mon compte</a> <a href="#" class="snipcart-checkout text-light"><i class="fas fa-shopping-cart"></i>
+              Panier</a></small></p>
+        </div>
+      </div>
+  </section>
+  <section id="header-main">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-wood">
+      <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mx-auto">
+            {% assign sorted = site.pages | sort:"pos" %}
+            {% for p in sorted %}
+            {% if p.place == "menu" %}
+            <li class="nav-item {% if p.url == page.url %}active{% endif %}">
+              <a class="nav-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </section>
+  {% if page.img %}
+  <section id="header-bottom" style="background: url({{site.baseurl}}/img/{{page.img | default: 'ban-default.jpg'}}) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;">
+    <div class="container h-100 d-flex flex-column align-items-center justify-content-center">
+        <h3>{{page.title}}</h3>
+        <h3><small>{{page.subtitle}}</small></h3>
+      </div>
+  </section>
+  {% endif %}
+</header>

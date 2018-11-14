@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<h3>{{ page.title }}</h3>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ page.video }}"></iframe>
+</div>
+<div class="row">
+    <div class="col-8">
+      <h6><small><i class="fa fa-tag"></i> {% for tags in page.tags %} {{ tags }} {% endfor %}</small></h6>
+    </div>
+    <div class="col-4">
+      <span class="label label-primary"><i class="fas fa-clock"></i> {{ page.date | date: "%b %-d, %Y" }}</span> &#8226;
+      {% if page.categories %}<span><i class="fas fa-clipboard"></i> {% for cat in page.categories %} <a href="/categories.html#{{cat}}">{{ cat }}</a> {% endfor %}</span>{%endif%}
+    </div>
+    <div class="col-md-12">
+    <hr>
+        <article>
+            {{ content }}
+        </article>
+        <div class="share-footer pull-right">
+            Partager sur
+            <a class="btn btn-primary btn-sm" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}"
+                rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+            <a class="btn btn-primary btn-sm" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank"
+                title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+        </div>
+        <hr>
+        <h5>Annonce</h5>
+        <div class="card">
+            <img class="img-fluid" src="http://placehold.it/400x200">
+        </div>
+    </div>
+</div>

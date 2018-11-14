@@ -1,0 +1,61 @@
+---
+---
+
+@import 'fontawesome/fontawesome';
+@import "fontawesome/solid";
+@import "fontawesome/brands";
+@import "fontawesome/regular";
+@import 'bootstrap/bootstrap';
+@import "variables";
+@import "bootswatch";
+
+#header-top {
+  background-color: $dark;
+  h4 {
+    color: $light;
+  }
+}
+
+#header-bottom {
+  height: 200px;
+  h3 {
+    color: $gray-400;
+  }
+}
+
+#header-jumbo {
+  background-image: url({{site.baseurl}}/img/bg-wood.jpg);
+  background-size: cover;
+  height: 350px;
+  .jumbotron {
+    background: rgba(0, 0, 0, 0.5);
+    color: $gray-400;
+  }
+}
+
+#main-container {
+  background-color: $gray-100;
+}
+
+#page-footer {
+  background-color: $dark;
+  color: $gray-400;
+  h6 {
+    color: $white;
+  };
+  pre {
+    color: $gray-400;
+  };
+}
+
+.page-content {
+  background-image: url({{site.baseurl}}/img/retina_wood_@2X.png);
+}
+
+.bg-wood {
+  background-color: $wood;
+}
+
+.text-wood {
+  color: $wood;
+}

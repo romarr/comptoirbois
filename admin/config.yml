@@ -1,0 +1,78 @@
+backend:
+  name: github
+  repo: romarr/bamshop # Path to your GitHub repository
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://rsoauth.herokuapp.com
+
+media_folder: "img/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "data"
+    label: "Données"
+    files:
+      - label: "Bandeau"
+        name: "scroller"
+        file: "_data/scroller.yml"
+        fields: 
+          - label: Images
+            name: images
+            widget: list
+            fields:
+              - {label: Titre, name: titre, widget: string}
+              - {label: Texte, name: alt, widget: string}
+              - {label: Photo, name: photo, widget: image}
+
+  - name: "chaussures"
+    label: "Chaussures"
+    folder: "produits/_chaussures"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "sku", widget: "string"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
+      - {label: "Matières", name: "matiere", widget: "list"}
+      - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Taille", name: "taille", widget: "list"}
+      - {label: "Sexe", name: "sexe", widget: "select", options: ["Femme", "Homme", "Unisex"]}
+      - {label: "Photo", name: "image", widget: "image"}
+      - {label: "Poids", name: "poids", widget: "number"}
+      - {label: "Texte", name: "body", widget: "markdown"}
+
+  - name: "vetements"
+    label: "Vêtements"
+    folder: "produits/_vetements"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "sku", widget: "string"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
+      - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Taille", name: "taille", widget: "list"}
+      - {label: "Manches", name: "manche", widget: "string"}
+      - {label: "Sexe", name: "sexe", widget: "select", options: ["Femme", "Homme", "Unisex"]}
+      - {label: "Photo", name: "image", widget: "image"}
+      - {label: "Poids", name: "poids", widget: "number"}
+      - {label: "Texte", name: "body", widget: "markdown"}
+
+  - name: "accessoires"
+    label: "Accessoires"
+    folder: "produits/_accessoires"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "sku", widget: "string"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
+      - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "Photo", name: "image", widget: "image"}
+      - {label: "Poids", name: "poids", widget: "number"}
+      - {label: "Texte", name: "body", widget: "markdown"}

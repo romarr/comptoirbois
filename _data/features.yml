@@ -1,0 +1,13 @@
+items:
+  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    icon: fas fa-certificate
+    titre: Essences
+  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    icon: fas fa-tree
+    titre: Déclinaisons
+  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    icon: fas fa-brush
+    titre: Prestations
+  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    icon: fas fa-screwdriver
+    titre: Réalisations
