@@ -4,8 +4,8 @@ subtitle: Du bois
 email: admin@bois.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Du bois
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dubois.fr" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "bois" # the subpath of your site, e.g. /blog
+url: "https://https://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
 fb-url: https://www.facebook.com/dubois/
