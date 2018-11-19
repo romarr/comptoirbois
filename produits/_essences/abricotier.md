@@ -4,7 +4,8 @@ sku: '101'
 price: '1'
 desc: 'Bois abricotier'
 region: Europe
-variations:
+essence: abricotier
+variantes:
   - quillon
   - plaquette
 tons:

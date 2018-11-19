@@ -4,7 +4,8 @@ sku: '201'
 price: '1'
 desc: 'Bois ébènes Mun'
 region: Asie
-variations:
+essence: ebene
+variantes:
   - carrelet
   - plaquette
 tons:
