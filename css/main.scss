@@ -9,29 +9,68 @@
 @import "variables";
 @import "bootswatch";
 
+/* amatic-sc-700 - latin */
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Amatic SC Bold'), local('AmaticSC-Bold'),
+       url('../webfonts/amatic-sc-v11-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../webfonts/amatic-sc-v11-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 #header-top {
   background-color: $dark;
   h2 {
     color: $light;
+    font-size: 1.3em;
+    margin: auto;
   }
-  height: 50px;
+  p {
+    font-size: 1.1em;
+    margin: auto;
+  }
 }
 
 #header-bottom {
   height: 200px;
   h3 {
-    color: $gray-400;
+  color: $light;
+  text-shadow: 0px 0px 10px $black;
   }
 }
 
 #header-jumbo {
-  background-image: url({{site.baseurl}}/img/bg-wood.jpg);
+  height: 50vh;
+  display: grid;
+  h1 {
+    font-family: 'Amatic SC', cursive;
+    color: $wood-light;
+    text-align: center;
+    margin: auto 0;
+    font-size: 10vh;
+    text-shadow: 0px 0px 10px $black;
+    }
+}
+
+.separator {
+  height: 20vh;
+  display: grid;
+  p {
+    color: $white;
+    text-align: center;
+    margin: auto 0;
+    font-size: 5vh;
+    text-shadow: 0px 0px 10px $black;
+    }
+}
+
+.parallax-bg {
+  background-image: url({{site.baseurl}}/img/bg.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  height: 350px;
-  .jumbotron {
-    background: rgba(0, 0, 0, 0.5);
-    color: $gray-400;
-  }
 }
 
 #main-container {
@@ -59,4 +98,12 @@
 
 .text-wood {
   color: $wood;
+}
+
+.text-darkwood {
+  color: $wood-dark;
+}
+
+.jplist-selected {
+  @extend .active;
 }

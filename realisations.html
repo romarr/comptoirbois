@@ -5,45 +5,97 @@ subtitle: Réalisations en bois
 img: bg-ban.jpg
 place: menu
 pos: 10
+shop: true
 ---
 
 <div class="col-xs-12 col-md-2 collapse d-md-block" id="asideCol">
     <div class="sticky-top">
-        <h4>Affiner</h4>
+      <!-- hidden sort control -->
+      <div
+      style="display: none"
+      data-jplist-control="hidden-sort"
+      data-group="group1"
+      data-path=".essence"
+      data-order="asc"
+      data-type="text">
+      </div>
+
+        <h4 class="text-darkwood">Filtres</h4>
         {%assign attributs = "tons,variantes" | split: "," %}
         {% for attribut in attributs %}
-        {% assign filtre = site.essences | map: attribut | uniq %}
-        <p class="mb-0 mt-3"><strong>{{attribut | capitalize }}</strong></p>
+        {% assign filtre = site.realisations | map: attribut | uniq %}
+        <p class="mb-0 mt-3 text-darkwood"><strong>{{attribut | capitalize }}</strong></p>
         {% for item in filtre %}
         <div class="custom-control custom-checkbox">
-            <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item | slugify}}">
-            <label data-multifilter="{{item | slugify}}" class="custom-control-label" for="{{item | slugify}}">{{item | capitalize}}</label>
+            <input type="checkbox" class="custom-control-input filtr-input"
+            name="filter{{attribut | slugify}}" id="check{{item | slugify}}""
+            data-jplist-control="checkbox-text-filter"
+            data-path=".{{attribut}}"
+            data-group="group1"
+            data-name=filter{{attribut}}
+            value="{{item | slugify}}">
+            <label class="custom-control-label" for="check{{item | slugify}}">{{item | capitalize}}</label>
         </div>
         {% endfor %}
         {% endfor %}
     </div>
 </div>
 <div class="col">
-    <div class="btn-group d-flex justify-content-center" role="group" aria-label="Basic example">
-      {% assign filtre = site.essences | map: 'region' | uniq %}
-      <div class="btn-group btn-group-toggle" data-toggle="buttons">
-        <label data-filter="all" class="btn btn-secondary active">
-          <input type="radio" checked>Tout</input>
-        </label>
-        {% for item in filtre %}
-        <label data-filter="{{item | slugify}}" class="btn btn-secondary">
-          <input type="radio">{{item}}</input>
-        </label>
-        {% endfor %}
+    <div class="col">
+        <button class="btn btn-secondary btn-block d-sm-block d-md-none" type="button" data-toggle="collapse" aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
+          <i class="fas fa-bars"></i> Filtres
+        </button>
+      <div class="row mb-2">
+          <div class="col-md-12 col-lg-4 text-darkwood">
+          <h5>Produits - <small>
+              <span
+              data-jplist-control="counter"
+              data-group="group1"
+              data-format="{count}"
+              data-mode="dynamic"
+              data-name="counter-desc-filter"
+              data-filter-type="path"></span></small>
+          </h5>
+          </div>
+          <div class="col-md-12 col-lg-4 text-center">
+            <div class="btn-group" role="group" aria-label="btnRegions">
+            <button class="btn btn-secondary"
+            type="button"
+            data-jplist-control="buttons-text-filter"
+            data-path="default"
+            data-group="group1"
+            data-mode="radio"
+            data-selected="true"
+            data-name="region">
+            Tout
+            </button>
+            {% assign filtre = site.realisations | map: 'region' | uniq %}
+            {% for item in filtre %}
+            <button class="btn btn-secondary"
+            type="button"
+            data-jplist-control="buttons-text-filter"
+            data-path=".region"
+            data-group="group1"
+            data-mode="radio"
+            data-text="{{item | slugify}}"
+            data-name="region">
+            {{item | Capitalize}}
+            </button>
+            {% endfor %}
+            </div>
+        </div>
       </div>
+  <div data-jplist-group="group1" class="row">
+    {%- for item in site.realisations -%}
+    <div class="col-sm-12 col-md-6 col-lg-4 name"
+    data-category="{{item.marque | slugify}}, {{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}, {{item.matiere | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}"
+    data-jplist-item>
+    <div style="display: none">
+    <span class="essence">{{item.essence | slugify}}</span>
+    <span class="region">{{item.region | slugify}}</span>
+    <span class="variantes">{{item.variantes | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
+    <span class="tons">{{item.tons | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
     </div>
-    <button class="btn btn-secondary btn-block d-sm-block d-md-none" type="button" data-toggle="collapse" aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
-      <i class="fas fa-bars"></i> Affiner
-    </button>
-  <h4>Produits</h4>
-  <div class="row filtr-container">
-    {%- for item in site.essences -%}
-    <div data-category="{{item.region | slugify}}, {{item.essence | slugify}}, {{item.tons | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}" class="col-sm-12 col-md-6 col-lg-4 filtr-item">
     <div class="card mb-3 bg-light border-light">
         <a href="#" data-toggle="modal" data-target="#img{{forloop.index}}"><img class="card-img-top img-produit img-fluid" src="{{site.baseurl}}{{item.image | first | map: 'photo'}}" alt="Card image cap"></a>
         <div class="card-body">
@@ -58,7 +110,7 @@ pos: 10
           data-item-price="{{item.price}}"
           data-item-url="{{site.baseurl}}{{page.url}}"
           data-item-custom1-name="Type"
-          data-item-custom1-options="{{item.variations | join: '|'}}"
+          data-item-custom1-options="{{item.variantes | join: '|'}}"
           data-item-description="{{item.desc}}"><i class="fas fa-cart-plus"></i> Ajouter</button>
         </div>
       </div>
@@ -69,7 +121,7 @@ pos: 10
 
 
 
-{%- for item in site.essences -%}
+{%- for item in site.realisations -%}
 <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="img{{forloop.index}}" aria-hidden="true" id="img{{forloop.index}}">
   <div class="modal-dialog" role="document">
     <div class="modal-content">

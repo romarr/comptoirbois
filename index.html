@@ -12,45 +12,51 @@ pos: 0
                 <i class="fa fa-circle fa-stack-2x text-wood"></i>
                 <i class="{{item.icon}} fa-stack-1x text-light"></i>
                 </span>
-            <h5>{{item.titre}}</h5>
+            <h5 class="text-wood">{{item.titre}}</h5>
             <p class="text-justify">{{item.text}}</p>
         </div>
         {% endfor %}
     </div>
-    <hr>
-    <div class="row">
+    <div class="row parallax-bg my-4">
+        <div class="col-12">
+            <div class="separator parallax-bg">
+                <p>{{site.subtitle}}</p>
+            </div>
+        </div>
+    </div>
+    {% assign essence = site.essences | sample:1 %}
+    {% assign prestation = site.prestations | sample:1 %}
+    {% assign realisation = site.realisations | sample:1 %}
+    <div class="row mb-4">
         <div class="col-md-4">
             <div class="card">
-                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
+                <img class="card-img-top" src="{{site.baseurl}}{{essence.image | first | map: 'photo'}}" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
-                    <a href="#" class="btn btn-secondary bg-wood">Go somewhere</a>
+                    <h5 class="card-title">{{essence.title | capitalize}}</h5>
+                    <p class="card-text">{{essence.desc}}</p>
+                    <a href="#" class="btn btn-secondary bg-wood">Plus d'essences</a>
                 </div>
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card">
-                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
-                    <a href="#" class="btn btn-secondary bg-wood">Go somewhere</a>
+                <div class="card">
+                    <img class="card-img-top" src="{{site.baseurl}}{{prestation.image}}" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">{{prestation.title | capitalize}}</h5>
+                        <p class="card-text">{{prestation.desc}}</p>
+                        <a href="#" class="btn btn-secondary bg-wood">Plus de prestations</a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <img class=" card-img-top" src="http://placehold.it/200x200" alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
-                    <a href="#" class="btn btn-secondary bg-wood">Go somewhere</a>
+            <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="{{site.baseurl}}{{realisation.image | first | map: 'photo'}}" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">{{realisation.title | capitalize}}</h5>
+                            <p class="card-text">{{realisation.desc}}</p>
+                            <a href="#" class="btn btn-secondary bg-wood">Plus de réalisations</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
     </div>
 </div>

@@ -5,54 +5,73 @@ subtitle: Prestations sur commande
 img: bg-ban.jpg
 place: menu
 pos: 8
+shop: true
 ---
-<div class="col-10 offset-1">
+<div class="col-3">
+
+</div>
+
+<div class="col-8">
     {%- for item in site.prestations -%}
-    {%- assign mod = forloop.index | modulo: 2 -%}
-    {% if mod == 0 %}
     <div class="row">
-        <div class="col-4">
+        <div class="col-5">
             <img class="img-fluid img-thumbnail rounded" src="{{site.baseurl}}{{item.image}}">
         </div>
         <div class="col">
-            <h3>{{item.title}}</h3>
+            <h3 class="text-darkwood">{{item.title}}</h3>
             <p>{{item.desc}}</p>
             <p>{{item.content}}</p>
-            <button class="btn btn-secondary btn-block bg-wood snipcart-add-item"
-            data-item-id="{{item.sku}}"
-            data-item-weight="{{item.poids}}"
-            data-item-name="{{item.title}}"
-            data-item-price="{{item.price}}"
-            data-item-url="{{site.baseurl}}{{page.url}}"
-            data-item-custom1-name="Type"
-            data-item-custom1-options="{{item.variations | join: '|'}}"
-            data-item-description="{{item.desc}}">
-            <i class="fas fa-2x fa-file-invoice"></i><p>Passer commande</p></button>
+            <button type="button" class="btn btn-secondary bg-wood btn-block " data-toggle="modal" data-target="#prod{{forloop.index}}">
+            <i class="fas fa-2x fa-file-invoice"></i><p>Demander un devis</p></button>
         </div>
     </div>
     <hr>
-    {% else %}
-    <div class="row">
-        <div class="col">
-                <h3>{{item.title}}</h3>
-                <p>{{item.desc}}</p>
-                <p>{{item.content}}</p>
-                <button class="btn btn-secondary btn-block bg-wood snipcart-add-item"
-                data-item-id="{{item.sku}}"
-                data-item-weight="{{item.poids}}"
-                data-item-name="{{item.title}}"
-                data-item-price="{{item.price}}"
-                data-item-url="{{site.baseurl}}{{page.url}}"
-                data-item-custom1-name="Type"
-                data-item-custom1-options="{{item.variations | join: '|'}}"
-                data-item-description="{{item.desc}}">
-                <i class="fas fa-2x fa-file-invoice"></i><p>Passer commande</p></button>
-        </div>
-        <div class="col-4">
-            <img class="img-fluid img-thumbnail rounded" src="{{site.baseurl}}{{item.image}}">
-        </div>
-    </div>
-    <hr>
-    {% endif %}
-    {% endfor %}
+    {%- endfor -%}
 </div>
+
+{%- for item in site.prestations -%}
+<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="prod{{forloop.index}}" aria-hidden="true" id="prod{{forloop.index}}">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{item.title}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form>
+              <div class="form-group">
+                <label for="exampleFormControlInput1">Email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlSelect1">Example select</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                  <option>1</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlSelect2">Example multiple select</label>
+                <select multiple class="form-control" id="exampleFormControlSelect2">
+                  <option>1</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlTextarea1">Example textarea</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+            </form>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endfor -%}
