@@ -1,9 +1,0 @@
----
-title: amarante
-sku: '304'
-region: amériques
-price: '1'
-desc: 'amarante'
-essence: amarante
-poids: 100
----

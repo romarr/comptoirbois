@@ -1,9 +1,0 @@
----
-title: noyer
-sku: '147'
-region: europe
-price: '1'
-desc: 'noyer'
-essence: noyer
-poids: 100
----

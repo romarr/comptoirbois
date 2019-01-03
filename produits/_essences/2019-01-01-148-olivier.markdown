@@ -1,9 +1,0 @@
----
-title: olivier
-sku: '148'
-region: europe
-price: '1'
-desc: 'olivier'
-essence: olivier
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: frêne ondé
-sku: '133'
-region: europe
-price: '1'
-desc: 'frêne'
-essence: frêne
-poids: 100
----

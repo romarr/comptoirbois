@@ -1,9 +1,0 @@
----
-title: laurier royal
-sku: '139'
-region: europe
-price: '1'
-desc: 'laurier'
-essence: laurier
-poids: 100
----

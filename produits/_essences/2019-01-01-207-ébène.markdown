@@ -1,9 +1,0 @@
----
-title: ébène dot
-sku: '207'
-region: asie
-price: '1'
-desc: 'ébène'
-essence: ébène
-poids: 100
----

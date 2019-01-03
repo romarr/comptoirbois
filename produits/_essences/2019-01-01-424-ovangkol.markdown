@@ -1,9 +1,0 @@
----
-title: ovangkol
-sku: '424'
-region: afrique
-price: '1'
-desc: 'ovangkol'
-essence: ovangkol
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: red heart 
-sku: '340'
-region: amériques
-price: '1'
-desc: 'heart'
-essence: heart
-poids: 100
----

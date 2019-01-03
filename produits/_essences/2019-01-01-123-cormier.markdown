@@ -1,9 +1,0 @@
----
-title: cormier
-sku: '123'
-region: europe
-price: '1'
-desc: 'cormier'
-essence: cormier
-poids: 100
----

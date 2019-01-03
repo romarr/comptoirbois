@@ -1,9 +1,0 @@
----
-title: poirier
-sku: '153'
-region: europe
-price: '1'
-desc: 'poirier'
-essence: poirier
-poids: 100
----

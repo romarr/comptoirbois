@@ -1,9 +1,0 @@
----
-title: manguier
-sku: '215'
-region: asie
-price: '1'
-desc: 'manguier'
-essence: manguier
-poids: 100
----

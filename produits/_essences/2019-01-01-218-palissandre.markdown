@@ -1,9 +1,0 @@
----
-title: palissandre des Indes
-sku: '218'
-region: asie
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

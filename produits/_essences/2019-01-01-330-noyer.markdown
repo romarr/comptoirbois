@@ -1,9 +1,0 @@
----
-title: noyer noir
-sku: '330'
-region: amériques
-price: '1'
-desc: 'noyer'
-essence: noyer
-poids: 100
----

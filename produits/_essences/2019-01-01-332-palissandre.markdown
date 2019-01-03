@@ -1,9 +1,0 @@
----
-title: palissandre du Honduras
-sku: '332'
-region: amériques
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: zébrano 
-sku: '432'
-region: afrique
-price: '1'
-desc: 'zébrano '
-essence: zébrano 
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: palissandre de Bornéo
-sku: '217'
-region: asie
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

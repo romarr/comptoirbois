@@ -1,9 +1,0 @@
----
-title: ébène noir
-sku: '412'
-region: afrique
-price: '1'
-desc: 'ébène'
-essence: ébène
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: pin parana
-sku: '339'
-region: amériques
-price: '1'
-desc: 'pin'
-essence: pin
-poids: 100
----

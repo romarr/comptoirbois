@@ -1,9 +1,0 @@
----
-title: loupe red gum
-sku: '507'
-region: océanie
-price: '1'
-desc: 'gum'
-essence: gum
-poids: 100
----

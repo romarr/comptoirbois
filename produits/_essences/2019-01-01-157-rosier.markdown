@@ -1,9 +1,0 @@
----
-title: rosier
-sku: '157'
-region: europe
-price: '1'
-desc: 'rosier'
-essence: rosier
-poids: 100
----

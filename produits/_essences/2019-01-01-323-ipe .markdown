@@ -1,9 +1,0 @@
----
-title: ipe 
-sku: '323'
-region: amériques
-price: '1'
-desc: 'ipe '
-essence: ipe 
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: belinga
-sku: '406'
-region: afrique
-price: '1'
-desc: 'belinga'
-essence: belinga
-poids: 100
----

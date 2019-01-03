@@ -1,9 +1,0 @@
----
-title: érable du Canada 
-sku: '320'
-region: amériques
-price: '1'
-desc: 'érable'
-essence: érable
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: avodiré
-sku: '404'
-region: afrique
-price: '1'
-desc: 'avodiré'
-essence: avodiré
-poids: 100
----

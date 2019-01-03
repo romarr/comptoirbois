@@ -1,9 +1,0 @@
----
-title: difou
-sku: '409'
-region: afrique
-price: '1'
-desc: 'difou'
-essence: difou
-poids: 100
----

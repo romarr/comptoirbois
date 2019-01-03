@@ -1,9 +1,0 @@
----
-title: goncalo alves
-sku: '322'
-region: amériques
-price: '1'
-desc: 'alves'
-essence: alves
-poids: 100
----

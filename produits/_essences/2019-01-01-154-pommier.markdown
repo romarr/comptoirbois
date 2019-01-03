@@ -1,9 +1,0 @@
----
-title: pommier
-sku: '154'
-region: europe
-price: '1'
-desc: 'pommier'
-essence: pommier
-poids: 100
----

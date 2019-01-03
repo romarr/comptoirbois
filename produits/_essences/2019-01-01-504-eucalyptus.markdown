@@ -1,9 +1,0 @@
----
-title: loupe d'eucalyptus à miel 
-sku: '504'
-region: océanie
-price: '1'
-desc: 'eucalyptus'
-essence: eucalyptus
-poids: 100
----

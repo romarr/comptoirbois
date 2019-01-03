@@ -1,9 +1,0 @@
----
-title: palmier rouge
-sku: '335'
-region: amériques
-price: '1'
-desc: 'palmier'
-essence: palmier
-poids: 100
----

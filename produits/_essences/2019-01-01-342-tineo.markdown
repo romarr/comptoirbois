@@ -1,9 +1,0 @@
----
-title: tineo
-sku: '342'
-region: amériques
-price: '1'
-desc: 'tineo'
-essence: tineo
-poids: 100
----

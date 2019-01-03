@@ -1,9 +1,0 @@
----
-title: buis
-sku: '112'
-region: europe
-price: '1'
-desc: 'buis'
-essence: buis
-poids: 100
----

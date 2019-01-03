@@ -1,9 +1,0 @@
----
-title: cumaru 
-sku: '319'
-region: amériques
-price: '1'
-desc: 'cumaru '
-essence: cumaru 
-poids: 100
----

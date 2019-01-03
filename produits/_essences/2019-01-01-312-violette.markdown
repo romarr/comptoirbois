@@ -1,9 +1,0 @@
----
-title: bois de violette
-sku: '312'
-region: amériques
-price: '1'
-desc: 'violette'
-essence: violette
-poids: 100
----

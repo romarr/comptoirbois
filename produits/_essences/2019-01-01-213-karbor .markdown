@@ -1,9 +1,0 @@
----
-title: karbor 
-sku: '213'
-region: asie
-price: '1'
-desc: 'karbor '
-essence: karbor 
-poids: 100
----

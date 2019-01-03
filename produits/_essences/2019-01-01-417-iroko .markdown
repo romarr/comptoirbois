@@ -1,9 +1,0 @@
----
-title: iroko 
-sku: '417'
-region: afrique
-price: '1'
-desc: 'iroko '
-essence: iroko 
-poids: 100
----

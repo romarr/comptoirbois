@@ -1,9 +1,0 @@
----
-title: aubépine
-sku: '107'
-region: europe
-price: '1'
-desc: 'aubépine'
-essence: aubépine
-poids: 100
----

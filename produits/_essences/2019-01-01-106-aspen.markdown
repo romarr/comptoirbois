@@ -1,9 +1,0 @@
----
-title: aspen
-sku: '106'
-region: europe
-price: '1'
-desc: 'aspen'
-essence: aspen
-poids: 100
----

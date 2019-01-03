@@ -1,9 +1,0 @@
----
-title: louro preto
-sku: '328'
-region: amériques
-price: '1'
-desc: 'louro'
-essence: louro
-poids: 100
----

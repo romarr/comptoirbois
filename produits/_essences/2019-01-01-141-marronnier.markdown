@@ -1,9 +1,0 @@
----
-title: marronnier
-sku: '141'
-region: europe
-price: '1'
-desc: 'marronnier'
-essence: marronnier
-poids: 100
----

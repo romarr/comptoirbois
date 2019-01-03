@@ -1,9 +1,0 @@
----
-title: cerisier
-sku: '116'
-region: europe
-price: '1'
-desc: 'cerisier'
-essence: cerisier
-poids: 100
----

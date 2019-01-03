@@ -1,9 +1,0 @@
----
-title: ébène mun
-sku: '208'
-region: asie
-price: '1'
-desc: 'ébène'
-essence: ébène
-poids: 100
----

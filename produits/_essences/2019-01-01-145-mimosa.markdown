@@ -1,9 +1,0 @@
----
-title: mimosa
-sku: '145'
-region: europe
-price: '1'
-desc: 'mimosa'
-essence: mimosa
-poids: 100
----

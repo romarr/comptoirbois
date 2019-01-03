@@ -1,9 +1,0 @@
----
-title: loupe d'eucalyptus
-sku: '503'
-region: océanie
-price: '1'
-desc: 'eucalyptus'
-essence: eucalyptus
-poids: 100
----

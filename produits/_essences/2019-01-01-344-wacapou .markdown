@@ -1,9 +1,0 @@
----
-title: wacapou 
-sku: '344'
-region: amériques
-price: '1'
-desc: 'wacapou '
-essence: wacapou 
-poids: 100
----

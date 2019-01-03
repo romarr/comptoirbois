@@ -1,9 +1,0 @@
----
-title: cade
-sku: '113'
-region: europe
-price: '1'
-desc: 'cade'
-essence: cade
-poids: 100
----

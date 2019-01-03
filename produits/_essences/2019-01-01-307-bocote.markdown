@@ -1,9 +1,0 @@
----
-title: bocote
-sku: '307'
-region: amériques
-price: '1'
-desc: 'bocote'
-essence: bocote
-poids: 100
----

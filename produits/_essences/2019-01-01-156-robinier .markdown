@@ -1,9 +1,0 @@
----
-title: robinier 
-sku: '156'
-region: europe
-price: '1'
-desc: 'robinier '
-essence: robinier 
-poids: 100
----

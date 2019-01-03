@@ -1,9 +1,0 @@
----
-title: bois de judée
-sku: '109'
-region: europe
-price: '1'
-desc: 'judée'
-essence: judée
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: érable champêtre  
-sku: '127'
-region: europe
-price: '1'
-desc: 'érable'
-essence: érable
-poids: 100
----

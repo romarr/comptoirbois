@@ -1,9 +1,0 @@
----
-title: teck 
-sku: '228'
-region: asie
-price: '1'
-desc: 'teck '
-essence: teck 
-poids: 100
----

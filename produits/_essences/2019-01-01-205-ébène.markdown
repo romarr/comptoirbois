@@ -1,9 +1,0 @@
----
-title: ébène de macassar
-sku: '205'
-region: asie
-price: '1'
-desc: 'ébène'
-essence: ébène
-poids: 100
----

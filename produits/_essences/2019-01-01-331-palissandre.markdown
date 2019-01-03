@@ -1,9 +1,0 @@
----
-title: palissandre du Bélize
-sku: '331'
-region: amériques
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: palissandre granadillo
-sku: '333'
-region: amériques
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

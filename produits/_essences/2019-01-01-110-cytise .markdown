@@ -1,9 +1,0 @@
----
-title: cytise 
-sku: '110'
-region: europe
-price: '1'
-desc: 'cytise '
-essence: cytise 
-poids: 100
----

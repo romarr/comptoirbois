@@ -1,9 +1,0 @@
----
-title: chêne
-sku: '120'
-region: europe
-price: '1'
-desc: 'chêne'
-essence: chêne
-poids: 100
----

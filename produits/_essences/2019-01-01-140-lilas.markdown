@@ -1,9 +1,0 @@
----
-title: lilas
-sku: '140'
-region: europe
-price: '1'
-desc: 'lilas'
-essence: lilas
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: sequoia
-sku: '341'
-region: amériques
-price: '1'
-desc: 'sequoia'
-essence: sequoia
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: acajou de Cuba
-sku: '303'
-region: amériques
-price: '1'
-desc: 'acajou'
-essence: acajou
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: wengé 
-sku: '431'
-region: afrique
-price: '1'
-desc: 'wengé '
-essence: wengé 
-poids: 100
----

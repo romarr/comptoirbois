@@ -1,9 +1,0 @@
----
-title: sindora
-sku: '226'
-region: asie
-price: '1'
-desc: 'sindora'
-essence: sindora
-poids: 100
----

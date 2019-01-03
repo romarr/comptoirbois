@@ -1,9 +1,0 @@
----
-title: satin
-sku: '225'
-region: asie
-price: '1'
-desc: 'satin'
-essence: satin
-poids: 100
----

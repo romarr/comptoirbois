@@ -1,8 +1,8 @@
 ---
 title: Bois abricotier
 sku: '101'
-price: '1'
-desc: 'Bois abricotier'
+prix: '1'
+description: 'Bois abricotier'
 region: europe
 essence: abricotier
 variantes:

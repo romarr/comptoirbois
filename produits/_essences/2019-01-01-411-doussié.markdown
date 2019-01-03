@@ -1,9 +1,0 @@
----
-title: doussié
-sku: '411'
-region: afrique
-price: '1'
-desc: 'doussié'
-essence: doussié
-poids: 100
----

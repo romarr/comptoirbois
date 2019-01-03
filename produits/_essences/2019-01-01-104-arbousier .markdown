@@ -1,9 +1,0 @@
----
-title: arbousier 
-sku: '104'
-region: europe
-price: '1'
-desc: 'arbousier '
-essence: arbousier 
-poids: 100
----

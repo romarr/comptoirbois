@@ -1,9 +1,0 @@
----
-title: abricotier
-sku: '101'
-region: europe
-price: '1'
-desc: 'abricotier'
-essence: abricotier
-poids: 100
----

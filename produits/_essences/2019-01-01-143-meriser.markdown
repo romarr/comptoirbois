@@ -1,9 +1,0 @@
----
-title: meriser
-sku: '143'
-region: europe
-price: '1'
-desc: 'meriser'
-essence: meriser
-poids: 100
----

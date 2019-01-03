@@ -1,9 +1,0 @@
----
-title: golden madrone 
-sku: '211'
-region: asie
-price: '1'
-desc: 'mardrone'
-essence: mardrone
-poids: 100
----

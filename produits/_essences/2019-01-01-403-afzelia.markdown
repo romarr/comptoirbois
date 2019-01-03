@@ -1,9 +1,0 @@
----
-title: afzelia
-sku: '403'
-region: afrique
-price: '1'
-desc: 'afzelia'
-essence: afzelia
-poids: 100
----

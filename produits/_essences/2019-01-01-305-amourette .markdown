@@ -1,9 +1,0 @@
----
-title: amourette 
-sku: '305'
-region: amériques
-price: '1'
-desc: 'amourette '
-essence: amourette 
-poids: 100
----

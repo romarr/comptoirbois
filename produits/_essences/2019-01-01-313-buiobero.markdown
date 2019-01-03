@@ -1,9 +1,0 @@
----
-title: buiobero
-sku: '313'
-region: amériques
-price: '1'
-desc: 'buiobero'
-essence: buiobero
-poids: 100
----

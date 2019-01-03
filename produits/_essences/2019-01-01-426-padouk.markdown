@@ -1,9 +1,0 @@
----
-title: padouk
-sku: '426'
-region: afrique
-price: '1'
-desc: 'padouk'
-essence: padouk
-poids: 100
----

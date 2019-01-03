@@ -1,9 +1,0 @@
----
-title: charme
-sku: '118'
-region: europe
-price: '1'
-desc: 'charme'
-essence: charme
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: bois de nara
-sku: '202'
-region: asie
-price: '1'
-desc: 'nara'
-essence: nara
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: grenadille
-sku: '416'
-region: afrique
-price: '1'
-desc: 'grenadille'
-essence: grenadille
-poids: 100
----

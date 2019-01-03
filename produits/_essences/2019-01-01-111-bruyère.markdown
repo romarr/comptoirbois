@@ -1,9 +1,0 @@
----
-title: bruyère
-sku: '111'
-region: europe
-price: '1'
-desc: 'bruyère'
-essence: bruyère
-poids: 100
----

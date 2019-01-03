@@ -1,9 +1,0 @@
----
-title: courbaril
-sku: '318'
-region: amériques
-price: '1'
-desc: 'courbaril'
-essence: courbaril
-poids: 100
----

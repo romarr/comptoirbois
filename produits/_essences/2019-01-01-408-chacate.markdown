@@ -1,9 +1,0 @@
----
-title: chacate noir
-sku: '408'
-region: afrique
-price: '1'
-desc: 'chacate'
-essence: chacate
-poids: 100
----

@@ -1,9 +1,0 @@
----
-title: loupe de gimlet
-sku: '505'
-region: océanie
-price: '1'
-desc: 'gimlet'
-essence: gimlet
-poids: 100
----

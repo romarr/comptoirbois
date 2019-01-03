@@ -1,9 +1,0 @@
----
-title: kamphi
-sku: '212'
-region: asie
-price: '1'
-desc: 'kamphi'
-essence: kamphi
-poids: 100
----

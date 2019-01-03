@@ -1,9 +1,0 @@
----
-title: palissandre rouge
-sku: '219'
-region: asie
-price: '1'
-desc: 'palissandre'
-essence: palissandre
-poids: 100
----

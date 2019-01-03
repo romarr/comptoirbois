@@ -1,9 +1,0 @@
----
-title: laurier cerise
-sku: '138'
-region: europe
-price: '1'
-desc: 'laurier'
-essence: laurier
-poids: 100
----

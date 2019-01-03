@@ -1,9 +1,0 @@
----
-title: orme
-sku: '149'
-region: europe
-price: '1'
-desc: 'orme'
-essence: orme
-poids: 100
----

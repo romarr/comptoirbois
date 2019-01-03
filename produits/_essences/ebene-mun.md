@@ -1,8 +1,8 @@
 ---
 title: ébène mun
 sku: '201'
-price: '1'
-desc: 'Bois ébènes Mun'
+prix: '1'
+description: 'Bois ébènes Mun'
 region: asie
 essence: ebene
 variantes:

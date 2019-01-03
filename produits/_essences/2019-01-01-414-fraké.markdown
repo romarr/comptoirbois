@@ -1,9 +1,0 @@
----
-title: fraké
-sku: '414'
-region: afrique
-price: '1'
-desc: 'fraké'
-essence: fraké
-poids: 100
----
