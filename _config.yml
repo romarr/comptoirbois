@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bois de coutellerie, tournage & bijouterie.  
   Plaquettes, quillons & carrelets.  
   Bruts ou stabilisés.  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bois" # the subpath of your site, e.g. /blog
 url: "https://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
