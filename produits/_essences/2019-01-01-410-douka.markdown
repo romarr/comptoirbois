@@ -1,0 +1,9 @@
+---
+title: douka
+sku: '410'
+region: afrique
+price: '1'
+desc: 'douka'
+essence: douka
+poids: 100
+---

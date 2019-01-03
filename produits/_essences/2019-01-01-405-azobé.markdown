@@ -1,0 +1,9 @@
+---
+title: azobé
+sku: '405'
+region: afrique
+price: '1'
+desc: 'azobé'
+essence: azobé
+poids: 100
+---

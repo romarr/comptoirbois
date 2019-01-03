@@ -1,0 +1,9 @@
+---
+title: trebol
+sku: '343'
+region: amériques
+price: '1'
+desc: 'trebol'
+essence: trebol
+poids: 100
+---

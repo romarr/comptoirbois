@@ -1,0 +1,9 @@
+---
+title: prunier
+sku: '155'
+region: europe
+price: '1'
+desc: 'prunier'
+essence: prunier
+poids: 100
+---

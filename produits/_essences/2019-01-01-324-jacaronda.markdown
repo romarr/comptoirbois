@@ -1,0 +1,9 @@
+---
+title: jacaronda
+sku: '324'
+region: amériques
+price: '1'
+desc: 'jacaronda'
+essence: jacaronda
+poids: 100
+---

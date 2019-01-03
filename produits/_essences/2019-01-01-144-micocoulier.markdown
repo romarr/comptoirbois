@@ -1,0 +1,9 @@
+---
+title: micocoulier
+sku: '144'
+region: europe
+price: '1'
+desc: 'micocoulier'
+essence: micocoulier
+poids: 100
+---

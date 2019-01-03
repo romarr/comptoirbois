@@ -1,0 +1,9 @@
+---
+title: niové
+sku: '423'
+region: afrique
+price: '1'
+desc: 'niové'
+essence: niové
+poids: 100
+---

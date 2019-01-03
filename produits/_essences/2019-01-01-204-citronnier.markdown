@@ -1,0 +1,9 @@
+---
+title: citronnier de Ceylan
+sku: '204'
+region: asie
+price: '1'
+desc: 'citronnier'
+essence: citronnier
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: mélèze
+sku: '142'
+region: europe
+price: '1'
+desc: 'mélèze'
+essence: mélèze
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: tamarin
+sku: '227'
+region: asie
+price: '1'
+desc: 'tamarin'
+essence: tamarin
+poids: 100
+---

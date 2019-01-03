@@ -1,0 +1,9 @@
+---
+title: phaesant
+sku: '222'
+region: asie
+price: '1'
+desc: 'phaesant'
+essence: phaesant
+poids: 100
+---

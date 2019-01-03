@@ -1,0 +1,9 @@
+---
+title: pao rosa
+sku: '427'
+region: afrique
+price: '1'
+desc: 'pao'
+essence: pao
+poids: 100
+---

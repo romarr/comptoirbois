@@ -1,0 +1,9 @@
+---
+title: loupe red mallee 
+sku: '508'
+region: océanie
+price: '1'
+desc: 'mallee'
+essence: mallee
+poids: 100
+---

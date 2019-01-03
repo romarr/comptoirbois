@@ -1,0 +1,9 @@
+---
+title: cocobolo
+sku: '316'
+region: amériques
+price: '1'
+desc: 'cocobolo'
+essence: cocobolo
+poids: 100
+---

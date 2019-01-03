@@ -1,0 +1,9 @@
+---
+title: argelas
+sku: '105'
+region: europe
+price: '1'
+desc: 'argelas'
+essence: argelas
+poids: 100
+---

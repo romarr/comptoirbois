@@ -1,0 +1,9 @@
+---
+title: jatoba 
+sku: '325'
+region: amériques
+price: '1'
+desc: 'jatoba '
+essence: jatoba 
+poids: 100
+---

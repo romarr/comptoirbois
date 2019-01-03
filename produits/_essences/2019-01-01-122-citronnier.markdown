@@ -1,0 +1,9 @@
+---
+title: citronnier
+sku: '122'
+region: europe
+price: '1'
+desc: 'citronnier'
+essence: citronnier
+poids: 100
+---

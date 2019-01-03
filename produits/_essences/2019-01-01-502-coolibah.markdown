@@ -1,0 +1,9 @@
+---
+title: loupe de coolibah
+sku: '502'
+region: océanie
+price: '1'
+desc: 'coolibah'
+essence: coolibah
+poids: 100
+---

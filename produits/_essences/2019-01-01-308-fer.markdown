@@ -1,0 +1,9 @@
+---
+title: bois de fer du désert
+sku: '308'
+region: amériques
+price: '1'
+desc: 'fer'
+essence: fer
+poids: 100
+---

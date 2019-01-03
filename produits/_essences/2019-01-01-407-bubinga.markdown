@@ -1,0 +1,9 @@
+---
+title: bubinga
+sku: '407'
+region: afrique
+price: '1'
+desc: 'bubinga'
+essence: bubinga
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: amandier
+sku: '103'
+region: europe
+price: '1'
+desc: 'amandier'
+essence: amandier
+poids: 100
+---

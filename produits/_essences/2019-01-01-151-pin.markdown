@@ -1,0 +1,9 @@
+---
+title: pin
+sku: '151'
+region: europe
+price: '1'
+desc: 'pin'
+essence: pin
+poids: 100
+---

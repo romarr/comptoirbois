@@ -1,0 +1,9 @@
+---
+title: châtaignier
+sku: '119'
+region: europe
+price: '1'
+desc: 'châtaignier'
+essence: châtaignier
+poids: 100
+---

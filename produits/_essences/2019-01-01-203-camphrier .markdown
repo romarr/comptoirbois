@@ -1,0 +1,9 @@
+---
+title: camphrier 
+sku: '203'
+region: asie
+price: '1'
+desc: 'camphrier '
+essence: camphrier 
+poids: 100
+---

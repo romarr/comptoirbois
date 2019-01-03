@@ -1,0 +1,9 @@
+---
+title: bois de serpent
+sku: '310'
+region: amériques
+price: '1'
+desc: 'serpent'
+essence: serpent
+poids: 100
+---

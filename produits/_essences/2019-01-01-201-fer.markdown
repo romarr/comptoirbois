@@ -1,0 +1,9 @@
+---
+title: bois de fer
+sku: '201'
+region: asie
+price: '1'
+desc: 'fer'
+essence: fer
+poids: 100
+---

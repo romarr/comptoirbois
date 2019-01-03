@@ -1,0 +1,9 @@
+---
+title: sipo
+sku: '430'
+region: afrique
+price: '1'
+desc: 'sipo'
+essence: sipo
+poids: 100
+---

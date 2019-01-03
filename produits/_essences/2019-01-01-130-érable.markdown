@@ -1,0 +1,9 @@
+---
+title: érable négondo 
+sku: '130'
+region: europe
+price: '1'
+desc: 'érable'
+essence: érable
+poids: 100
+---

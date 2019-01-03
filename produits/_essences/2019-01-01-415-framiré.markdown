@@ -1,0 +1,9 @@
+---
+title: framiré
+sku: '415'
+region: afrique
+price: '1'
+desc: 'framiré'
+essence: framiré
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: chêne liège
+sku: '121'
+region: europe
+price: '1'
+desc: 'chêne'
+essence: chêne
+poids: 100
+---

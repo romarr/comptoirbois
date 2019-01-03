@@ -1,0 +1,9 @@
+---
+title: moabi
+sku: '419'
+region: afrique
+price: '1'
+desc: 'moabi'
+essence: moabi
+poids: 100
+---

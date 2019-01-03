@@ -1,0 +1,9 @@
+---
+title: louro faïa
+sku: '327'
+region: amériques
+price: '1'
+desc: 'louro'
+essence: louro
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: ébène royal 
+sku: '209'
+region: asie
+price: '1'
+desc: 'ébène'
+essence: ébène
+poids: 100
+---

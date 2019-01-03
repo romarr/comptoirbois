@@ -1,0 +1,9 @@
+---
+title: perussier
+sku: '150'
+region: europe
+price: '1'
+desc: 'perussier'
+essence: perussier
+poids: 100
+---

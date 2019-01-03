@@ -1,0 +1,9 @@
+---
+title: cèdre
+sku: '115'
+region: europe
+price: '1'
+desc: 'cèdre'
+essence: cèdre
+poids: 100
+---

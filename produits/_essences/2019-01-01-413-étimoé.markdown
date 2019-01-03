@@ -1,0 +1,9 @@
+---
+title: étimoé
+sku: '413'
+region: afrique
+price: '1'
+desc: 'étimoé'
+essence: étimoé
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: mopane
+sku: '420'
+region: afrique
+price: '1'
+desc: 'mopane'
+essence: mopane
+poids: 100
+---

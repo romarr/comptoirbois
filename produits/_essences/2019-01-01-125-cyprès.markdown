@@ -1,0 +1,9 @@
+---
+title: cyprès
+sku: '125'
+region: europe
+price: '1'
+desc: 'cyprès'
+essence: cyprès
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: loupe brown mallee
+sku: '501'
+region: océanie
+price: '1'
+desc: 'mallee'
+essence: mallee
+poids: 100
+---

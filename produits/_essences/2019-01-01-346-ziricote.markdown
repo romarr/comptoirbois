@@ -1,0 +1,9 @@
+---
+title: ziricote
+sku: '346'
+region: amériques
+price: '1'
+desc: 'ziricote'
+essence: ziricote
+poids: 100
+---

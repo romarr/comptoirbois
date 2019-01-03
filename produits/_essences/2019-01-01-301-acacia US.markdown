@@ -1,0 +1,9 @@
+---
+title: acacia US
+sku: '301'
+region: amériques
+price: '1'
+desc: 'acacia US'
+essence: acacia US
+poids: 100
+---

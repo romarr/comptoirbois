@@ -1,0 +1,9 @@
+---
+title: érable de Montpellier
+sku: '128'
+region: europe
+price: '1'
+desc: 'érable'
+essence: érable
+poids: 100
+---

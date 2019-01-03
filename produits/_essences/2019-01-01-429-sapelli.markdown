@@ -1,0 +1,9 @@
+---
+title: sapelli
+sku: '429'
+region: afrique
+price: '1'
+desc: 'sapelli'
+essence: sapelli
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: merbau
+sku: '216'
+region: asie
+price: '1'
+desc: 'merbau'
+essence: merbau
+poids: 100
+---

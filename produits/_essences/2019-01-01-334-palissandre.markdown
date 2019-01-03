@@ -1,0 +1,9 @@
+---
+title: palissandre santos
+sku: '334'
+region: amériques
+price: '1'
+desc: 'palissandre'
+essence: palissandre
+poids: 100
+---

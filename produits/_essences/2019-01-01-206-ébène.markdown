@@ -1,0 +1,9 @@
+---
+title: ébène de Malaisie
+sku: '206'
+region: asie
+price: '1'
+desc: 'ébène'
+essence: ébène
+poids: 100
+---

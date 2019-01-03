@@ -1,0 +1,9 @@
+---
+title: katalox 
+sku: '326'
+region: amériques
+price: '1'
+desc: 'katalox '
+essence: katalox 
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: hêtre
+sku: '135'
+region: europe
+price: '1'
+desc: 'hêtre'
+essence: hêtre
+poids: 100
+---

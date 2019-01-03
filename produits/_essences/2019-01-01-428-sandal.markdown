@@ -1,0 +1,9 @@
+---
+title: sandal
+sku: '428'
+region: afrique
+price: '1'
+desc: 'sandal'
+essence: sandal
+poids: 100
+---

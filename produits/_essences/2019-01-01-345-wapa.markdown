@@ -1,0 +1,9 @@
+---
+title: wapa
+sku: '345'
+region: amériques
+price: '1'
+desc: 'wapa'
+essence: wapa
+poids: 100
+---

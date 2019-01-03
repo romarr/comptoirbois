@@ -1,0 +1,9 @@
+---
+title: pin d'Orégon
+sku: '338'
+region: amériques
+price: '1'
+desc: 'pin'
+essence: pin
+poids: 100
+---

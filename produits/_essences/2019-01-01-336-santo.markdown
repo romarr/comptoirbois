@@ -1,0 +1,9 @@
+---
+title: palo santo
+sku: '336'
+region: amériques
+price: '1'
+desc: 'santo'
+essence: santo
+poids: 100
+---

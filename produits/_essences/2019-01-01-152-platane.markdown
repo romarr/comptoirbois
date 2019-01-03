@@ -1,0 +1,9 @@
+---
+title: platane
+sku: '152'
+region: europe
+price: '1'
+desc: 'platane'
+essence: platane
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: movingui
+sku: '421'
+region: afrique
+price: '1'
+desc: 'movingui'
+essence: movingui
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: caroubier
+sku: '114'
+region: europe
+price: '1'
+desc: 'caroubier'
+essence: caroubier
+poids: 100
+---

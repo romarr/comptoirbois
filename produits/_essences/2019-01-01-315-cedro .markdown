@@ -1,0 +1,9 @@
+---
+title: cedro 
+sku: '315'
+region: amériques
+price: '1'
+desc: 'cedro '
+essence: cedro 
+poids: 100
+---

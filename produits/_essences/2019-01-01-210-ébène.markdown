@@ -1,0 +1,9 @@
+---
+title: ébène des Philippines
+sku: '210'
+region: asie
+price: '1'
+desc: 'ébène'
+essence: ébène
+poids: 100
+---

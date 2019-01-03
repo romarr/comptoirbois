@@ -3,7 +3,7 @@ title: Bois abricotier
 sku: '101'
 price: '1'
 desc: 'Bois abricotier'
-region: Europe
+region: europe
 essence: abricotier
 variantes:
   - quillon

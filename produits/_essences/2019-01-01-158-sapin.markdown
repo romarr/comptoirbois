@@ -1,0 +1,9 @@
+---
+title: sapin
+sku: '158'
+region: europe
+price: '1'
+desc: 'sapin'
+essence: sapin
+poids: 100
+---

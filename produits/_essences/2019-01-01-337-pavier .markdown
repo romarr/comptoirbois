@@ -1,0 +1,9 @@
+---
+title: pavier 
+sku: '337'
+region: amériques
+price: '1'
+desc: 'pavier '
+essence: pavier 
+poids: 100
+---

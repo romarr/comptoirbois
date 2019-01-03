@@ -1,0 +1,9 @@
+---
+title: bois de rose
+sku: '309'
+region: amériques
+price: '1'
+desc: 'rose'
+essence: rose
+poids: 100
+---

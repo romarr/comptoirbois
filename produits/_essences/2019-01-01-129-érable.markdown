@@ -1,0 +1,9 @@
+---
+title: érable moucheté
+sku: '129'
+region: europe
+price: '1'
+desc: 'érable'
+essence: érable
+poids: 100
+---

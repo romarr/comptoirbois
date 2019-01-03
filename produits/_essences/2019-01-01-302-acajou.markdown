@@ -1,0 +1,9 @@
+---
+title: acajou
+sku: '302'
+region: amériques
+price: '1'
+desc: 'acajou'
+essence: acajou
+poids: 100
+---

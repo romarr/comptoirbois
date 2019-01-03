@@ -1,0 +1,9 @@
+---
+title: balata rouge
+sku: '306'
+region: amériques
+price: '1'
+desc: 'balata rouge'
+essence: balata rouge
+poids: 100
+---

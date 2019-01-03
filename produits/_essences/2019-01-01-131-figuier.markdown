@@ -1,0 +1,9 @@
+---
+title: figuier
+sku: '131'
+region: europe
+price: '1'
+desc: 'figuier'
+essence: figuier
+poids: 100
+---

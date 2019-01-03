@@ -3,7 +3,7 @@ title: ébène mun
 sku: '201'
 price: '1'
 desc: 'Bois ébènes Mun'
-region: Asie
+region: asie
 essence: ebene
 variantes:
   - carrelet

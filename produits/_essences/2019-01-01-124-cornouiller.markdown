@@ -1,0 +1,9 @@
+---
+title: cornouiller
+sku: '124'
+region: europe
+price: '1'
+desc: 'cornouiller'
+essence: cornouiller
+poids: 100
+---

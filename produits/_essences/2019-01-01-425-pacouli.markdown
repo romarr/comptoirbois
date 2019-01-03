@@ -1,0 +1,9 @@
+---
+title: pacouli melegba
+sku: '425'
+region: afrique
+price: '1'
+desc: 'pacouli'
+essence: pacouli
+poids: 100
+---

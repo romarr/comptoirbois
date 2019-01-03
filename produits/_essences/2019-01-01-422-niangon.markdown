@@ -1,0 +1,9 @@
+---
+title: niangon
+sku: '422'
+region: afrique
+price: '1'
+desc: 'niangon'
+essence: niangon
+poids: 100
+---

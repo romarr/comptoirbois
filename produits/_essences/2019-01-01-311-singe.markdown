@@ -1,0 +1,9 @@
+---
+title: bois de singe
+sku: '311'
+region: amériques
+price: '1'
+desc: 'singe'
+essence: singe
+poids: 100
+---

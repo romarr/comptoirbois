@@ -1,0 +1,9 @@
+---
+title: koa ondé
+sku: '214'
+region: asie
+price: '1'
+desc: 'koa ondé'
+essence: koa ondé
+poids: 100
+---

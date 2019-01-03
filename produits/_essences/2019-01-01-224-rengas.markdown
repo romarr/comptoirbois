@@ -1,0 +1,9 @@
+---
+title: rengas
+sku: '224'
+region: asie
+price: '1'
+desc: 'rengas'
+essence: rengas
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: loupe de jarrah 
+sku: '506'
+region: océanie
+price: '1'
+desc: 'jarrah'
+essence: jarrah
+poids: 100
+---

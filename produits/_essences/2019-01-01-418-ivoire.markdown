@@ -1,0 +1,9 @@
+---
+title: ivoire rose
+sku: '418'
+region: afrique
+price: '1'
+desc: 'ivoire'
+essence: ivoire
+poids: 100
+---

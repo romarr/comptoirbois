@@ -1,0 +1,9 @@
+---
+title: gaïac
+sku: '321'
+region: amériques
+price: '1'
+desc: 'gaïac'
+essence: gaïac
+poids: 100
+---

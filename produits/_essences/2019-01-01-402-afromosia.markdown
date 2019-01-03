@@ -1,0 +1,9 @@
+---
+title: afromosia
+sku: '402'
+region: afrique
+price: '1'
+desc: 'afromosia'
+essence: afromosia
+poids: 100
+---

@@ -1,0 +1,9 @@
+---
+title: cèdre rouge
+sku: '314'
+region: amériques
+price: '1'
+desc: 'cèdre'
+essence: cèdre
+poids: 100
+---

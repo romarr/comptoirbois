@@ -1,0 +1,9 @@
+---
+title: frêne
+sku: '132'
+region: europe
+price: '1'
+desc: 'frêne'
+essence: frêne
+poids: 100
+---

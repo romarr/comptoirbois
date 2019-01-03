@@ -1,0 +1,9 @@
+---
+title: acacia
+sku: '102'
+region: europe
+price: '1'
+desc: 'acacia'
+essence: acacia
+poids: 100
+---

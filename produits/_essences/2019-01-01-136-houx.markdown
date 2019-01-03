@@ -1,0 +1,9 @@
+---
+title: houx
+sku: '136'
+region: europe
+price: '1'
+desc: 'houx'
+essence: houx
+poids: 100
+---

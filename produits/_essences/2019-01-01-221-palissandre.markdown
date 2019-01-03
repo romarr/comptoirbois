@@ -1,0 +1,9 @@
+---
+title: palissandre thaï 
+sku: '221'
+region: asie
+price: '1'
+desc: 'palissandre'
+essence: palissandre
+poids: 100
+---
