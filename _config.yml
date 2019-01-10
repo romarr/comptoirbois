@@ -5,8 +5,8 @@ email: admin@bois.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Bois de coutellerie, tournage & bijouterie en plaquettes, quillons & carrelets.  
   Bois bruts, stabilisés, hybrides et créations. 
-baseurl: "/bois" # the subpath of your site, e.g. /blog
-url: "https://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lecomptoirdesboisdu83.fr" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
 fb-url: https://www.facebook.com/dubois/
