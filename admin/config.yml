@@ -15,11 +15,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
-      - {label: "Prix", name: "price", widget: "number"}
-      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Prix", name: "prix", widget: "number"}
+      - {label: "Description", name: "description", widget: "string"}
       - {label: "Région", name: "region", widget: "string"}
-      - {label: "Tons", name: "tons", widget: "list"}
-      - {label: "Variantes", name: "variantes", widget: "list"}
       - label: "Photo"
         name: "image"
         widget: "list"
