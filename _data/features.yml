@@ -1,13 +1,10 @@
 items:
-  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  - text: La passion du bois à travers une multitude d’essences du monde entier.
     icon: fas fa-certificate
     titre: Essences
-  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  - text: Blocs, quillons, plaquettes et planchettes calibrées pour des utilisations multiples.
     icon: fas fa-tree
     titre: Déclinaisons
-  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  - text: Production de bois stabilisés et hybrides et prestations sur demande.
     icon: fas fa-brush
     titre: Prestations
-  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    icon: fas fa-screwdriver
-    titre: Réalisations

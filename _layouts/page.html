@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+    {% unless page.img %}
+        {% include header_home.html %}
+    {% endunless %}
+
+    <div class="page-content">
+        <section id="main-container" class="container w-md-75 px-4">
+            <div class="row pt-3">
+                {{ content }}
+            </div>
+        </section>
+    </div>
+    {% include footer.html %}
+</body>
+
+</html>
