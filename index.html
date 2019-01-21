@@ -5,13 +5,13 @@ place: menu
 pos: 0
 ---
 <div class="col-12">
-    <div class="row justify-content-center text-center">
+    <div class="row justify-content-around text-center">
         {% for item in site.data.features.items %}
         <div class="col-6 col-md-3">
-            <span class="fa-stack fa-lg"> 
+            <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x text-wood"></i>
                 <i class="{{item.icon}} fa-stack-1x text-light"></i>
-                </span>
+            </span>
             <h5 class="text-wood">{{item.titre}}</h5>
             <p>{{item.text}}</p>
         </div>
@@ -24,39 +24,33 @@ pos: 0
             </div>
         </div>
     </div>
-    {% assign essence = site.essences | sample:1 %}
-    {% assign prestation = site.prestations | sample:1 %}
-    {% assign realisation = site.realisations | sample:1 %}
+    {% assign essence = site.essences | sample:4 %}
+    <h5>Essences</h5>
     <div class="row mb-4">
-        <div class="col-md-4">
-            <div class="card">
-                <img class="card-img-top" src="{{site.baseurl}}{{essence.image | first | map: 'photo'}}" alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title">{{essence.title | capitalize}}</h5>
-                    <p class="card-text">{{essence.desc}}</p>
-                    <a href="#" class="btn btn-secondary bg-wood">Plus d'essences</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-                <div class="card">
-                    <img class="card-img-top" src="{{site.baseurl}}{{prestation.image}}" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">{{prestation.title | capitalize}}</h5>
-                        <p class="card-text">{{prestation.desc}}</p>
-                        <a href="#" class="btn btn-secondary bg-wood">Plus de prestations</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
+        <div class="row">
+            <div class="col-11">
+                <div class="row">
+                {% for item in essence %}
+                <div class="col-md-3">
                     <div class="card">
-                        <img class="card-img-top" src="{{site.baseurl}}{{realisation.image | first | map: 'photo'}}" alt="Card image cap">
-                        <div class="card-body">
-                            <h5 class="card-title">{{realisation.title | capitalize}}</h5>
-                            <p class="card-text">{{realisation.desc}}</p>
-                            <a href="#" class="btn btn-secondary bg-wood">Plus de réalisations</a>
+                        <img class="card-img-top" src="{{site.baseurl}}{{item.image | first | map: 'photo'}}" alt="Card image cap">
+                        <div class="card-body px-3 py-3">
+                            <p class="mb-1">{{item.title | capitalize}}</p>
+                            <p class="card-text py-0 my-0"><small><i class="fas fa-palette"></i> {{item.tons | join: ', ' | capitalize}} - <i class="fas fa-globe-africa"></i> {{item.region | capitalize}}</small></p>
+                            <p>{{item.desc}}</p>
+                            <hr class="py-1 my-1">
+                            <div class="row text-center">
+                                <div class="col-6 mx-0">+ Ajouter</div>
+                                <div class="col-6 mx-0">{{ item.prix }} €</div>
+                            </div>
                         </div>
                     </div>
                 </div>
+                {% endfor %}
+               </div>  
+            </div>
+            <div class="col-1"><button type="button" class="btn btn-secondary bg-wood btn-block h-100">+</button>
+                        </div>
+        </div>
     </div>
 </div>
