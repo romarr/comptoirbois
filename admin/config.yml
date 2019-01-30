@@ -15,7 +15,12 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
-      - {label: "Prix", name: "prix", widget: "number"}
+      - {label: "Prix Bloc", name: "prixbloc", widget: "number"}
+      - {label: "Prix Plaquette", name: "prixplaq", widget: "number"}
+      - {label: "Prix Carrelet", name: "prixcarr", widget: "number"}
+      - {label: "Poids Bloc", name: "prixbloc", widget: "number"}
+      - {label: "Poids Plaquette", name: "poidsplaq", widget: "number"}
+      - {label: "Poids Carrelet", name: "poidscarr", widget: "number"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Région", name: "region", widget: "string"}
       - label: "Photo"
