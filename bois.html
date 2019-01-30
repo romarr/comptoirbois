@@ -7,7 +7,6 @@ place: menu
 pos: 6
 shop: true
 ---
-
 <div class="col-xs-12 col-md-2 collapse d-md-block" id="asideCol">
     <div class="sticky-top mb-3">
       <!-- hidden sort control -->
@@ -21,21 +20,23 @@ shop: true
       </div>
 
         <h4 class="text-darkwood">Filtres</h4>
-        {%assign attributs = "tons,variantes" | split: "," %}
+        {%assign attributs = "couleur,veines,rarete" | split: "," %}
         {% for attribut in attributs %}
         {% assign filtre = site.essences | map: attribut | uniq %}
         <p class="mb-0 mt-3 text-wood"><strong>{{attribut | capitalize }}</strong></p>
         {% for item in filtre %}
+        {% unless item == nil %}
         <div class="custom-control custom-checkbox">
             <input type="checkbox" class="custom-control-input filtr-input"
-            name="filter{{attribut | slugify}}" id="check{{item | slugify}}""
+            name="filter{{attribut | slugify}}" id="check{{attribut}}{{item | slugify}}""
             data-jplist-control="checkbox-text-filter"
             data-path=".{{attribut}}"
             data-group="group1"
             data-name=filter{{attribut}}
             value="{{item | slugify}}">
-            <label class="custom-control-label" for="check{{item | slugify}}">{{item | capitalize}}</label>
+            <label class="custom-control-label" for="check{{attribut}}{{item | slugify}}">{{item | capitalize}}</label>
         </div>
+        {% endunless %}
         {% endfor %}
         {% endfor %}
         <p class="mb-0 mt-3 text-wood"><strong>Essence</strong></p>
@@ -101,14 +102,14 @@ shop: true
     <div data-jplist-control="no-results" data-group="group1" data-name="no-results">Aucun produit correspondant aux filtres appliqués</div>
 
     {%- for item in site.essences -%}
-    <div class="col-md-12 col-lg-6 px-1"
-    data-category="{{item.marque | slugify}}, {{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}, {{item.matiere | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}"
-    data-jplist-item>
+    <div class="col-md-12 col-lg-6 px-1" data-jplist-item>
     <div style="display: none">
     <span class="essence">{{item.essence | slugify}}</span>
     <span class="region">{{item.region | slugify}}</span>
-    <span class="variantes">{{item.variantes | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
-    <span class="tons">{{item.tons | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
+    <span class="veines">{{item.veines | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
+    <span class="couleur">{{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
+    {% if item.rarete %}<span class="rarete">{{item.rarete | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
+    {% endif %}
     </div>
     <div class="card mb-3 bg-light border-light">
       <div class="row">
@@ -121,14 +122,14 @@ shop: true
           <div class="card-body card-h py-2">
             <h6>{{ item.title | capitalize }}</h6>
             <p class="card-text">{{ item.description }}</p>
-            <p class="card-text py-0 my-0"><small><i class="fas fa-palette"></i> {{item.tons | join: ', '}} - <i class="fas fa-globe-africa"></i>
+            <p class="card-text py-0 my-0"><small><i class="fas fa-palette"></i> {{item.couleur | join: ', '}} - <i class="fas fa-globe-africa"></i>
                 {{item.region}}</small></p>
             <hr class="py-1 my-1">            
           </div>
           <div class="row text-center">
-              <div class="col">{{ item.prix }} €</div>
+              <div class="col">{{ item.prixbloc }} €</div>
               <div class="col">
-                <button type="button" class="btn btn-sm btn-block btn-secondary bg-wood snipcart-add-item" data-item-id="{{item.sku}}" data-item-weight="{{item.poids}}" data-item-name="{{item.title}}"
+                <button type="button" class="snipcart-add-item btn-link bg-transparent border-0" data-item-id="{{item.sku}}" data-item-weight="{{item.poids}}" data-item-name="{{item.title}}"
                   data-item-price="{{item.prix}}" data-item-url="{{site.baseurl}}{{page.url}}" data-item-custom1-name="Type"
                   data-item-custom1-options="{{item.variantes | join: '|'}}" data-item-description="{{item.description}}"><i
                     class="fas fa-cart-plus"></i> Ajouter</button>
