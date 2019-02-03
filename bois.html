@@ -135,7 +135,14 @@ shop: true
             <hr class="py-1 my-1">            
           </div>
           <div class="row text-center">
-              <div class="col">{{ item.prixbloc }} €</div>
+              <div class="col-8">
+              {%- if item.produits -%}
+                {%- assign sorted_prod = item.produits | sort: 'prix' -%}
+                A partir de {{ sorted_prod.first.prix }}€
+              {% else %}
+                Rupture
+              {%- endif -%}
+              </div>
               <div class="col">
                 <button type="button" class="btn-link bg-transparent border-0" data-toggle="modal" data-target="#img{{forloop.index}}">
                   <i class="fas fa-expand"></i> Voir
