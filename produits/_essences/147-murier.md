@@ -2,22 +2,11 @@
 permalink: 147-murier
 title: murier
 sku: 147
-image: 
-  - alt: bois
-    photo: /img/produits/default.jpg
+image: /img/produits/default.jpg
 essence: murier
 region: europe
-poidsbloc: 100
-poidsplaq: 100
-poidscarr: 100
-prixbloc: 1
-prixplaq: 1
-prixcarr: 1
 details: 
-description: 
-dimbloc: 
-dimplaq: 
-dimcarr: 
+produits: 
 couleur: 
 densite: 
 veines: sans

@@ -2,22 +2,11 @@
 permalink: 103-amandier
 title: amandier
 sku: 103
-image: 
-  - alt: bois
-    photo: /img/produits/default.jpg
+image: /img/produits/default.jpg
 essence: amandier
 region: europe
-poidsbloc: 100
-poidsplaq: 100
-poidscarr: 100
-prixbloc: 1
-prixplaq: 1
-prixcarr: 1
 details: 
-description: 
-dimbloc: 
-dimplaq: 
-dimcarr: 
+produits: 
 couleur: 
 densite: 
 veines: sans
