@@ -1,5 +1,4 @@
 ---
-permalink: 215-jatoba
 title: jatoba 
 sku: 215
 image: /img/produits/default.jpg

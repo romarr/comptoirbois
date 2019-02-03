@@ -1,5 +1,4 @@
 ---
-permalink: 105-argelas
 title: argelas
 sku: 105
 image: /img/produits/default.jpg

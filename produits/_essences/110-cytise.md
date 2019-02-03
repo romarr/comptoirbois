@@ -1,5 +1,4 @@
 ---
-permalink: 110-cytise
 title: cytise 
 sku: 110
 image: /img/produits/default.jpg

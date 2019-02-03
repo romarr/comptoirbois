@@ -1,5 +1,4 @@
 ---
-permalink: 145-mimosa
 title: mimosa
 sku: 145
 image: /img/produits/default.jpg

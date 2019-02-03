@@ -1,5 +1,4 @@
 ---
-permalink: 180-palissandre
 title: palissandre des Indes
 sku: 180
 image: /img/produits/default.jpg

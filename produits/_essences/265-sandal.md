@@ -1,5 +1,4 @@
 ---
-permalink: 265-sandal
 title: sandal
 sku: 265
 image: /img/produits/default.jpg

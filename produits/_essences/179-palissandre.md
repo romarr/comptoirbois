@@ -1,5 +1,4 @@
 ---
-permalink: 179-palissandre
 title: palissandre de Bornéo
 sku: 179
 image: /img/produits/default.jpg

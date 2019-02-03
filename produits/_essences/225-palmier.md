@@ -1,5 +1,4 @@
 ---
-permalink: 225-palmier
 title: palmier rouge
 sku: 225
 image: /img/produits/default.jpg

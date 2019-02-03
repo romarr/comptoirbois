@@ -1,5 +1,4 @@
 ---
-permalink: 100-test
 title: Essence test
 sku: 206
 image: /img/produits/default.jpg

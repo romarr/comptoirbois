@@ -1,5 +1,4 @@
 ---
-permalink: 235-wapa
 title: wapa
 sku: 235
 image: /img/produits/default.jpg

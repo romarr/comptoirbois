@@ -1,5 +1,4 @@
 ---
-permalink: 271-coolibah
 title: loupe de coolibah
 sku: 271
 image: /img/produits/default.jpg

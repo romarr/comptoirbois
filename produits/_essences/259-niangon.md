@@ -1,5 +1,4 @@
 ---
-permalink: 259-niangon
 title: niangon
 sku: 259
 image: /img/produits/default.jpg

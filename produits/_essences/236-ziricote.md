@@ -1,5 +1,4 @@
 ---
-permalink: 236-ziricote
 title: ziricote
 sku: 236
 image: /img/produits/default.jpg

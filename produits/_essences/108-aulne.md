@@ -1,5 +1,4 @@
 ---
-permalink: 108-aulne
 title: aulne 
 sku: 108
 image: /img/produits/default.jpg

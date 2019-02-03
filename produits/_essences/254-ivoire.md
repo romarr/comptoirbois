@@ -1,5 +1,4 @@
 ---
-permalink: 254-ivoire
 title: ivoire rose
 sku: 254
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 251-framiré
 title: framiré
 sku: 251
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 218-louro
 title: louro preto
 sku: 218
 image: /img/produits/default.jpg

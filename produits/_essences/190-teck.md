@@ -1,5 +1,4 @@
 ---
-permalink: 190-teck
 title: teck 
 sku: 190
 image: /img/produits/default.jpg

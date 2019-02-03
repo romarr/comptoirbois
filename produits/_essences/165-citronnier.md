@@ -1,5 +1,4 @@
 ---
-permalink: 165-citronnier
 title: citronnier de Ceylan
 sku: 165
 image: /img/produits/default.jpg

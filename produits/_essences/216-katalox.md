@@ -1,5 +1,4 @@
 ---
-permalink: 216-katalox
 title: katalox 
 sku: 216
 image: /img/produits/default.jpg

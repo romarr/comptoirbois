@@ -1,5 +1,4 @@
 ---
-permalink: 173-kamphi
 title: kamphi
 sku: 173
 image: /img/produits/default.jpg

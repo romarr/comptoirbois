@@ -1,5 +1,4 @@
 ---
-permalink: 107-aubépine
 title: aubépine
 sku: 107
 image: /img/produits/default.jpg

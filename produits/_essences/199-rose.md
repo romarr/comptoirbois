@@ -1,5 +1,4 @@
 ---
-permalink: 199-rose
 title: bois de rose
 sku: 199
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 275-jarrah
 title: loupe de jarrah 
 sku: 275
 image: /img/produits/default.jpg

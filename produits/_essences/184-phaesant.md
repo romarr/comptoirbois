@@ -1,5 +1,4 @@
 ---
-permalink: 184-phaesant
 title: phaesant
 sku: 184
 image: /img/produits/default.jpg

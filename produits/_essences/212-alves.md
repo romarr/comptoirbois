@@ -1,5 +1,4 @@
 ---
-permalink: 212-alves
 title: goncalo alves
 sku: 212
 image: /img/produits/default.jpg

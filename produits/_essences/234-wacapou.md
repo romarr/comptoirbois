@@ -1,5 +1,4 @@
 ---
-permalink: 234-wacapou
 title: wacapou 
 sku: 234
 image: /img/produits/default.jpg

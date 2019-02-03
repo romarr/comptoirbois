@@ -1,5 +1,4 @@
 ---
-permalink: 189-tamarin
 title: tamarin
 sku: 189
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 247-doussié
 title: doussié
 sku: 247
 image: /img/produits/default.jpg

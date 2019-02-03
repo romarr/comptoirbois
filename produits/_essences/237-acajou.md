@@ -1,5 +1,4 @@
 ---
-permalink: 237-acajou
 title: acajou
 sku: 237
 image: /img/produits/default.jpg

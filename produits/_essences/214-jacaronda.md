@@ -1,5 +1,4 @@
 ---
-permalink: 214-jacaronda
 title: jacaronda
 sku: 214
 image: /img/produits/default.jpg

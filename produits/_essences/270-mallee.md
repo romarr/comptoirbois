@@ -1,5 +1,4 @@
 ---
-permalink: 270-mallee
 title: loupe brown mallee
 sku: 270
 image: /img/produits/default.jpg

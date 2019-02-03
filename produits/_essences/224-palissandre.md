@@ -1,5 +1,4 @@
 ---
-permalink: 224-palissandre
 title: palissandre santos
 sku: 224
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 242-belinga
 title: belinga
 sku: 242
 image: /img/produits/default.jpg

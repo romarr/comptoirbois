@@ -1,5 +1,4 @@
 ---
-permalink: 113-cade
 title: cade
 sku: 113
 image: /img/produits/default.jpg

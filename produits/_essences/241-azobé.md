@@ -1,5 +1,4 @@
 ---
-permalink: 241-azobé
 title: azobé
 sku: 241
 image: /img/produits/default.jpg

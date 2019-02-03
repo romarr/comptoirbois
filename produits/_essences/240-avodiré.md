@@ -1,5 +1,4 @@
 ---
-permalink: 240-avodiré
 title: avodiré
 sku: 240
 image: /img/produits/default.jpg

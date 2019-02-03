@@ -1,5 +1,4 @@
 ---
-permalink: 257-mopane
 title: mopane
 sku: 257
 image: /img/produits/default.jpg

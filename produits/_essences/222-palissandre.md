@@ -1,5 +1,4 @@
 ---
-permalink: 222-palissandre
 title: palissandre du Honduras
 sku: 222
 image: /img/produits/default.jpg

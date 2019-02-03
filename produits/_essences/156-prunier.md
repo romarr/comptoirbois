@@ -1,5 +1,4 @@
 ---
-permalink: 156-prunier
 title: prunier
 sku: 156
 image: /img/produits/default.jpg

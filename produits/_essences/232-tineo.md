@@ -1,5 +1,4 @@
 ---
-permalink: 232-tineo
 title: tineo
 sku: 232
 image: /img/produits/default.jpg

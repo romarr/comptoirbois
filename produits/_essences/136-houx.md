@@ -1,5 +1,4 @@
 ---
-permalink: 136-houx
 title: houx
 sku: 136
 image: /img/produits/default.jpg

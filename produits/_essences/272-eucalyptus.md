@@ -1,5 +1,4 @@
 ---
-permalink: 272-eucalyptus
 title: loupe d'eucalyptus
 sku: 272
 image: /img/produits/default.jpg

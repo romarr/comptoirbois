@@ -15,21 +15,24 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
-      - {label: "Prix Bloc", name: "prixbloc", widget: "number"}
-      - {label: "Prix Plaquette", name: "prixplaq", widget: "number"}
-      - {label: "Prix Carrelet", name: "prixcarr", widget: "number"}
-      - {label: "Poids Bloc", name: "prixbloc", widget: "number"}
-      - {label: "Poids Plaquette", name: "poidsplaq", widget: "number"}
-      - {label: "Poids Carrelet", name: "poidscarr", widget: "number"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Essence", name: "essence", widget: "string"}
       - {label: "Région", name: "region", widget: "string"}
-      - label: "Photo"
-        name: "image"
+      - {label: "Détails", name: "details", widget: "text"}
+      - {label: "Couleurs", name: "couleurs", widget: "string"}
+      - {label: "Densité", name: "densite", widget: "number"}
+      - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
+      - {label: "Rareté", name: "rarete", widget: "select", options: ["Précieux", "Exotique"], multiple: true}
+      - label: "Produits"
+        name: "produits"
         widget: "list"
         fields:
-          - {label: Texte, name: alt, widget: string}
-          - {label: Photo, name: photo, widget: image}
-      - {label: "Poids", name: "poids", widget: "number"}
+          - {label: "Type", name: "type", widget: "select", options: ["Bloc", "Carrelet", "Plaquette"]}
+          - {label: "Photo", name: "photo", widget: "image"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Dimensions", name: "dimensions", widget: "string"}
+          - {label: "Poids", name: "poids", widget: "number"}
+          - {label: "Prix", name: "prix", widget: "number"}
       - {label: "Texte", name: "body", widget: "markdown"}
 
   - name: "prestations"

@@ -1,5 +1,4 @@
 ---
-permalink: 139-laurier
 title: laurier royal
 sku: 139
 image: /img/produits/default.jpg

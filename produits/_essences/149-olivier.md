@@ -1,5 +1,4 @@
 ---
-permalink: 149-olivier
 title: olivier
 sku: 149
 image: /img/produits/default.jpg

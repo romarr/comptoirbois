@@ -1,5 +1,4 @@
 ---
-permalink: 131-figuier
 title: figuier
 sku: 131
 image: /img/produits/default.jpg

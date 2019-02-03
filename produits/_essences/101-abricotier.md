@@ -1,5 +1,4 @@
 ---
-permalink: 101-abricotier
 title: abricotier
 sku: 101
 image: /img/produits/default.jpg

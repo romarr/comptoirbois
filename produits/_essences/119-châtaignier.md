@@ -1,5 +1,4 @@
 ---
-permalink: 119-châtaignier
 title: châtaignier
 sku: 119
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 114-caroubier
 title: caroubier
 sku: 114
 image: /img/produits/default.jpg

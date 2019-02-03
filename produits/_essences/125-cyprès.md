@@ -1,5 +1,4 @@
 ---
-permalink: 125-cyprès
 title: cyprès
 sku: 125
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 209-cumaru
 title: cumaru 
 sku: 209
 image: /img/produits/default.jpg

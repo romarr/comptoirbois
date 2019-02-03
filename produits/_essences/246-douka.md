@@ -1,5 +1,4 @@
 ---
-permalink: 246-douka
 title: douka
 sku: 246
 image: /img/produits/default.jpg

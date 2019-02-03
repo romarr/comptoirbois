@@ -1,5 +1,4 @@
 ---
-permalink: 146-morta
 title: morta (chêne des marais)
 sku: 146
 image: /img/produits/default.jpg

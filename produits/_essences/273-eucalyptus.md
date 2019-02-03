@@ -1,5 +1,4 @@
 ---
-permalink: 273-eucalyptus
 title: loupe d'eucalyptus & miel 
 sku: 273
 image: /img/produits/default.jpg

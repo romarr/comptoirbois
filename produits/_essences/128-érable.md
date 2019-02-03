@@ -1,5 +1,4 @@
 ---
-permalink: 128-érable
 title: érable de Montpellier
 sku: 128
 image: /img/produits/default.jpg

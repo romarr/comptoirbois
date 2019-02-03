@@ -1,5 +1,4 @@
 ---
-permalink: 135-hêtre
 title: hêtre
 sku: 135
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 141-marronnier
 title: marronnier
 sku: 141
 image: /img/produits/default.jpg

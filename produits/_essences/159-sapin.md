@@ -1,5 +1,4 @@
 ---
-permalink: 159-sapin
 title: sapin
 sku: 159
 image: /img/produits/default.jpg

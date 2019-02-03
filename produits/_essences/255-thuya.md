@@ -1,5 +1,4 @@
 ---
-permalink: 255-thuya
 title: loupe de thuya
 sku: 255
 image: /img/produits/default.jpg

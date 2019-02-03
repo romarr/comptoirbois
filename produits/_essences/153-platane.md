@@ -1,5 +1,4 @@
 ---
-permalink: 153-platane
 title: platane
 sku: 153
 image: /img/produits/default.jpg

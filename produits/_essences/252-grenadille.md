@@ -1,5 +1,4 @@
 ---
-permalink: 252-grenadille
 title: grenadille
 sku: 252
 image: /img/produits/default.jpg

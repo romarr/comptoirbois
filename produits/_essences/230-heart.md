@@ -1,5 +1,4 @@
 ---
-permalink: 230-heart
 title: red heart 
 sku: 230
 image: /img/produits/default.jpg

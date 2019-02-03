@@ -1,5 +1,4 @@
 ---
-permalink: 151-perussier
 title: perussier
 sku: 151
 image: /img/produits/default.jpg

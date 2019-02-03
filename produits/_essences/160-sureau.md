@@ -1,5 +1,4 @@
 ---
-permalink: 160-sureau
 title: sureau noir
 sku: 160
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 261-ovangkol
 title: ovangkol
 sku: 261
 image: /img/produits/default.jpg

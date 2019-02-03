@@ -1,5 +1,4 @@
 ---
-permalink: 263-padouk
 title: padouk
 sku: 263
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 172-mardrone
 title: golden madrone 
 sku: 172
 image: /img/produits/default.jpg

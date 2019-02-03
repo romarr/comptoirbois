@@ -1,5 +1,4 @@
 ---
-permalink: 133-frêne
 title: frêne ondé
 sku: 133
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 181-palissandre
 title: palissandre rouge
 sku: 181
 image: /img/produits/default.jpg

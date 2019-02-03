@@ -1,5 +1,4 @@
 ---
-permalink: 244-chacate
 title: chacate noir
 sku: 244
 image: /img/produits/default.jpg

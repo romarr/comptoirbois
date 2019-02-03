@@ -1,5 +1,4 @@
 ---
-permalink: 200-serpent
 title: bois de serpent
 sku: 200
 image: /img/produits/default.jpg

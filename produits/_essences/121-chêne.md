@@ -1,5 +1,4 @@
 ---
-permalink: 121-chêne
 title: chêne liège
 sku: 121
 image: /img/produits/default.jpg

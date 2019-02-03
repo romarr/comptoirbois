@@ -1,5 +1,4 @@
 ---
-permalink: 231-sequoia
 title: sequoia
 sku: 231
 image: /img/produits/default.jpg

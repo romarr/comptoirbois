@@ -1,5 +1,4 @@
 ---
-permalink: 187-satin
 title: satin
 sku: 187
 image: /img/produits/default.jpg

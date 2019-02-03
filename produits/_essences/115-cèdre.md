@@ -1,5 +1,4 @@
 ---
-permalink: 115-cèdre
 title: cèdre
 sku: 115
 image: /img/produits/default.jpg

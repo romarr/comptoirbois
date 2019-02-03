@@ -1,5 +1,4 @@
 ---
-permalink: 266-sapelli
 title: sapelli
 sku: 266
 image: /img/produits/default.jpg

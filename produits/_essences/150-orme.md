@@ -1,5 +1,4 @@
 ---
-permalink: 150-orme
 title: orme
 sku: 150
 image: /img/produits/default.jpg

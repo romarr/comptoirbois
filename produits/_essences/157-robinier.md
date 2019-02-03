@@ -1,5 +1,4 @@
 ---
-permalink: 157-robinier
 title: robinier 
 sku: 157
 image: /img/produits/default.jpg

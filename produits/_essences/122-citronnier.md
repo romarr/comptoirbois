@@ -1,5 +1,4 @@
 ---
-permalink: 122-citronnier
 title: citronnier
 sku: 122
 image: /img/produits/default.jpg

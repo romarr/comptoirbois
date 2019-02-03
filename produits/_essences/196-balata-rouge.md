@@ -1,5 +1,4 @@
 ---
-permalink: 196-balata-rouge
 title: balata rouge
 sku: 196
 image: /img/produits/default.jpg

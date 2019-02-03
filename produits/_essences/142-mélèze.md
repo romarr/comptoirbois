@@ -1,5 +1,4 @@
 ---
-permalink: 142-mélèze
 title: mélèze
 sku: 142
 image: /img/produits/default.jpg

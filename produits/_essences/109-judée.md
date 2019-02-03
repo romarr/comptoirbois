@@ -1,5 +1,4 @@
 ---
-permalink: 109-judée
 title: bois de judée
 sku: 109
 image: /img/produits/default.jpg

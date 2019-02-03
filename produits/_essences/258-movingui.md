@@ -1,5 +1,4 @@
 ---
-permalink: 258-movingui
 title: movingui
 sku: 258
 image: /img/produits/default.jpg

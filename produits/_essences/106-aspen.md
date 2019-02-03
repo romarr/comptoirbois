@@ -1,5 +1,4 @@
 ---
-permalink: 106-aspen
 title: aspen
 sku: 106
 image: /img/produits/default.jpg

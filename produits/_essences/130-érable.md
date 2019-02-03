@@ -1,5 +1,4 @@
 ---
-permalink: 130-érable
 title: érable négondo 
 sku: 130
 image: /img/produits/default.jpg

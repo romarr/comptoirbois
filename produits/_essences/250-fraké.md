@@ -1,5 +1,4 @@
 ---
-permalink: 250-fraké
 title: fraké
 sku: 250
 image: /img/produits/default.jpg

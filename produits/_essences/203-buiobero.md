@@ -1,5 +1,4 @@
 ---
-permalink: 203-buiobero
 title: buiobero
 sku: 203
 image: /img/produits/default.jpg

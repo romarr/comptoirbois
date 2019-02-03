@@ -1,5 +1,4 @@
 ---
-permalink: 269-zébrano
 title: zébrano 
 sku: 269
 image: /img/produits/default.jpg

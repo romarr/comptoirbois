@@ -1,5 +1,4 @@
 ---
-permalink: 120-chêne
 title: chêne
 sku: 120
 image: /img/produits/default.jpg

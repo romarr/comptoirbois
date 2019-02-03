@@ -1,5 +1,4 @@
 ---
-permalink: 223-palissandre
 title: palissandre granadillo
 sku: 223
 image: /img/produits/default.jpg

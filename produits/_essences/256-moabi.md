@@ -1,5 +1,4 @@
 ---
-permalink: 256-moabi
 title: moabi
 sku: 256
 image: /img/produits/default.jpg

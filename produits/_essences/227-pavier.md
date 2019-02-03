@@ -1,5 +1,4 @@
 ---
-permalink: 227-pavier
 title: pavier 
 sku: 227
 image: /img/produits/default.jpg

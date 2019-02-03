@@ -1,5 +1,4 @@
 ---
-permalink: 132-frêne
 title: frêne
 sku: 132
 image: /img/produits/default.jpg

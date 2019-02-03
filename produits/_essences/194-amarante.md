@@ -1,5 +1,4 @@
 ---
-permalink: 194-amarante
 title: amarante
 sku: 194
 image: /img/produits/default.jpg

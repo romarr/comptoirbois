@@ -1,5 +1,4 @@
 ---
-permalink: 117-catalpa
 title: catalpa
 sku: 117
 image: /img/produits/default.jpg

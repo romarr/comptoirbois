@@ -1,5 +1,4 @@
 ---
-permalink: 193-acajou
 title: acajou de Cuba
 sku: 193
 image: /img/produits/default.jpg

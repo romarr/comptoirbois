@@ -1,5 +1,4 @@
 ---
-permalink: 202-violette
 title: bois de violette
 sku: 202
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 260-niové
 title: niové
 sku: 260
 image: /img/produits/default.jpg

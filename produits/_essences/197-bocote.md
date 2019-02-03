@@ -1,5 +1,4 @@
 ---
-permalink: 197-bocote
 title: bocote
 sku: 197
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 243-bubinga
 title: bubinga
 sku: 243
 image: /img/produits/default.jpg

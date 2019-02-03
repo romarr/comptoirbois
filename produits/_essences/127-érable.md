@@ -1,5 +1,4 @@
 ---
-permalink: 127-érable
 title: érable champêtre  
 sku: 127
 image: /img/produits/default.jpg

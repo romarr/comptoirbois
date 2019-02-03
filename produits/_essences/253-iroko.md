@@ -1,5 +1,4 @@
 ---
-permalink: 253-iroko
 title: iroko 
 sku: 253
 image: /img/produits/default.jpg

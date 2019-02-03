@@ -1,5 +1,4 @@
 ---
-permalink: 144-micocoulier
 title: micocoulier
 sku: 144
 image: /img/produits/default.jpg

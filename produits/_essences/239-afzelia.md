@@ -1,5 +1,4 @@
 ---
-permalink: 239-afzelia
 title: afzelia
 sku: 239
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 217-louro
 title: louro faïa
 sku: 217
 image: /img/produits/default.jpg

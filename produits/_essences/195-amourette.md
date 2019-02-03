@@ -1,5 +1,4 @@
 ---
-permalink: 195-amourette
 title: amourette 
 sku: 195
 image: /img/produits/default.jpg

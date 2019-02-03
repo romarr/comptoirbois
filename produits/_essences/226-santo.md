@@ -1,5 +1,4 @@
 ---
-permalink: 226-santo
 title: palo santo
 sku: 226
 image: /img/produits/default.jpg

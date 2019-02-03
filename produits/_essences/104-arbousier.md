@@ -1,5 +1,4 @@
 ---
-permalink: 104-arbousier
 title: arbousier 
 sku: 104
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 262-pacouli
 title: pacouli melegba
 sku: 262
 image: /img/produits/default.jpg

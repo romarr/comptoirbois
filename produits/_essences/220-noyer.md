@@ -1,5 +1,4 @@
 ---
-permalink: 220-noyer
 title: noyer noir
 sku: 220
 image: /img/produits/default.jpg

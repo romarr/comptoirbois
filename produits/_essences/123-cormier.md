@@ -1,5 +1,4 @@
 ---
-permalink: 123-cormier
 title: cormier
 sku: 123
 image: /img/produits/default.jpg

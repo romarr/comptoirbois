@@ -1,5 +1,4 @@
 ---
-permalink: 183-palissandre
 title: palissandre thaï 
 sku: 183
 image: /img/produits/default.jpg

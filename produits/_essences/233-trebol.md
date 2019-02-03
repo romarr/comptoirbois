@@ -1,5 +1,4 @@
 ---
-permalink: 233-trebol
 title: trebol
 sku: 233
 image: /img/produits/default.jpg

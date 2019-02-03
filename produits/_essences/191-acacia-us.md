@@ -1,5 +1,4 @@
 ---
-permalink: 191-acacia-US
 title: acacia US
 sku: 191
 image: /img/produits/default.jpg

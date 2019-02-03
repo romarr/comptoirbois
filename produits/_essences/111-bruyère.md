@@ -1,5 +1,4 @@
 ---
-permalink: 111-bruyère
 title: bruyère
 sku: 111
 image: /img/produits/default.jpg

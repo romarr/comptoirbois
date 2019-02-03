@@ -1,5 +1,4 @@
 ---
-permalink: 154-poirier
 title: poirier
 sku: 154
 image: /img/produits/default.jpg

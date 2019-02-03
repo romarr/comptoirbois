@@ -1,5 +1,4 @@
 ---
-permalink: 188-sindora
 title: sindora
 sku: 188
 image: /img/produits/default.jpg

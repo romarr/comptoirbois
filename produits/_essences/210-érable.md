@@ -1,5 +1,4 @@
 ---
-permalink: 210-érable
 title: érable du Canada 
 sku: 210
 image: /img/produits/default.jpg

@@ -1,5 +1,4 @@
 ---
-permalink: 182-palissandre
 title: palissandre du surinam
 sku: 182
 image: /img/produits/default.jpg

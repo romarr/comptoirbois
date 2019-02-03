@@ -1,5 +1,4 @@
 ---
-permalink: 174-karbor
 title: karbor 
 sku: 174
 image: /img/produits/default.jpg

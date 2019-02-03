@@ -1,5 +1,4 @@
 ---
-permalink: 129-érable
 title: érable moucheté
 sku: 129
 image: /img/produits/default.jpg

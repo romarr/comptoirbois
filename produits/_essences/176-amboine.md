@@ -1,5 +1,4 @@
 ---
-permalink: 176-amboine
 title: loupe d'amboine
 sku: 176
 image: /img/produits/default.jpg

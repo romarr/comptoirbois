@@ -1,5 +1,4 @@
 ---
-permalink: 126-érable
 title: érable
 sku: 126
 image: /img/produits/default.jpg

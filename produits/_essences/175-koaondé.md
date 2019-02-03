@@ -1,5 +1,4 @@
 ---
-permalink: 175-koaondé
 title: koa ondé
 sku: 175
 image: /img/produits/default.jpg

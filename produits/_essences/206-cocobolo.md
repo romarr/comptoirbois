@@ -1,5 +1,4 @@
 ---
-permalink: 206-cocobolo
 title: cocobolo
 sku: 206
 image: /img/produits/default.jpg
