@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: mardrone
 region: asie
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

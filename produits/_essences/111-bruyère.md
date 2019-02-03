@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: bruyère
 region: europe
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

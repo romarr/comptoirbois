@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: bocote
 region: amériques
 details: Bois dur et dense, exceptionnel par ses dessins irréguliers
-produits: bloc bocote - qualité A
+produits:
 couleur: brun
 densite: 1,1
 veines: avec

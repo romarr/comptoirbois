@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: cerisier
 region: europe
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

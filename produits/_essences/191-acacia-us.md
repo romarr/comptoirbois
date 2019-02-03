@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: acacia US
 region: amériques
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

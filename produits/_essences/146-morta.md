@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: morta
 region: europe
 details: Bois millénaire, souvent du chêne extrait des tourbières.
-produits: carrelet morta - qualité A+
+produits:
 couleur: gris
 densite: 0,8
 veines: foncées

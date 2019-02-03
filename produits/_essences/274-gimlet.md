@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: gimlet
 region: océanie
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

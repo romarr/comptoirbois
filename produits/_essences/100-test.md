@@ -10,7 +10,7 @@ couleur: rouge
 densite: 0,9
 veines: avec
 rarete: précieux
-produits: 
+produits:
   - type: bloc
     description: Bloc d'essence de test avec une description beaucoup trop longue pour le tableau
     photo: /img/produits/default.jpg

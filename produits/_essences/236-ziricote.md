@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: ziricote
 region: amériques
 details: Beau bois dur et dense, poli incomparable.
-produits: plaquettes appairées avec aubier - qualité A+
+produits:
 couleur: brun
 densite: 0,95
 veines: foncées

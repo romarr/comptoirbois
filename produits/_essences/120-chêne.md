@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: chêne
 region: europe
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

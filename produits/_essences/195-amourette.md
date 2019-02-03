@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: amourette 
 region: amériques
 details: Bois moucheté dur et très dense.
-produits: planchette amourette - qualité A
+produits:
 couleur: brun
 densite: 1,22
 veines: sans

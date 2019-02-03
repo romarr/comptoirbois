@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: teck 
 region: asie
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

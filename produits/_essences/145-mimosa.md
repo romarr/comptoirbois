@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: mimosa
 region: europe
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

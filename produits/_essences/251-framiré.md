@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: framiré
 region: afrique
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans

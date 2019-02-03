@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: serpent
 region: amériques
 details: Bois dur et dense, très abrasif pour les outils.
-produits: carrelet bois de serpent - qualité A
+produits:
 couleur: marron
 densite: 0,83
 veines: foncées

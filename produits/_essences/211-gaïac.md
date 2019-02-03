@@ -6,7 +6,7 @@ image: /img/produits/default.jpg
 essence: gaïac
 region: amériques
 details: 
-produits: 
+produits:
 couleur: 
 densite: 
 veines: sans
