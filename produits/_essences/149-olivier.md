@@ -8,6 +8,6 @@ details: Bois méditérranéen, par excellence, symbole de paix.
 produits:
 couleur: beige
 densite: 0,99
-veines: brunes
+veines:
 rarete: 
 ---

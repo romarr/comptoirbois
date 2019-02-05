@@ -8,6 +8,6 @@ details: Beau bois dur et dense, poli incomparable.
 produits:
 couleur: brun
 densite: 0,95
-veines: foncées
+veines:
 rarete: précieux
 ---

@@ -8,6 +8,6 @@ details: Bois millénaire, souvent du chêne extrait des tourbières.
 produits:
 couleur: gris
 densite: 0,8
-veines: foncées
+veines:
 rarete: précieux
 ---
