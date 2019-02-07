@@ -51,7 +51,7 @@ shop: true
         {% unless item == nil %}
         <div class="custom-control custom-checkbox">
             <input type="checkbox" class="custom-control-input filtr-input"
-            name="filterType" id="checkType{{item | slugify}}""
+            name="filterType" id="checkType{{item | slugify}}"
             data-jplist-control="checkbox-text-filter"
             data-path=".type"
             data-group="group1"
@@ -124,9 +124,6 @@ shop: true
         </div>
       </div>
   <div data-jplist-group="group1" class="row">
-    <!-- no results control -->               
-    <div data-jplist-control="no-results" data-group="group1" data-name="no-results">Aucun produit correspondant aux filtres appliqués</div>
-
     {%- for item in site.essences -%}
     <div class="col-md-12 col-lg-6 px-1" data-jplist-item>
     <div style="display: none">
@@ -173,6 +170,8 @@ shop: true
     </div>
     </div>
     {%- endfor -%}
+    <!-- no results control -->               
+    <div data-jplist-control="no-results" data-group="group1" data-name="no-results">Aucun produit correspondant aux filtres appliqués</div>
   </div>
   <!-- pagination control -->
   <nav
@@ -247,14 +246,12 @@ shop: true
         </div>
             <div class="col">
               <p class="my-0 text-center">
-                  <i class="fas fa-certificate"></i> {{item.rarete | join: ', '}} -
-                  <i class="fas fa-palette"></i> {{item.couleur | join: ', '}} -
-                  <i class="fas fa-globe-africa"></i> {{item.region}}
+                  <i class="fas fa-certificate"></i> {{item.rarete | capitalize | join: ', '}} -
+                  <i class="fas fa-palette"></i> {{item.couleur | capitalize | join: ', '}} -
+                  <i class="fas fa-globe-africa"></i> {{item.region | capitalize}}
               </p>
               <p class="my-0 text-center">
-                <small>
-                  {%if item.veines%}Veines: {{item.veines}} - {%endif%}Densité: {{item.densite}}%
-                </small>
+                  {%if item.veines%}Veines: {{item.veines | capitalize }} - {%endif%}Densité: {{item.densite}}%
               </p>
               <hr class="my-0 py-1">
               <p>{{item.details}}</p>
@@ -283,9 +280,17 @@ shop: true
                         <td>{{produit.dimensions}}</td>
                         <td>{{produit.poids}}</td>
                         <td>
-                            <button type="button" class="btn btn-sm btn-secondary bg-wood float-right" data-toggle="modal" data-target="#img{{forloop.index}}">
+                            <button data-toggle="modal" data-target="#img{{itemindex}}"
+                            class="snipcart-add-item btn btn-sm btn-secondary bg-wood float-right"
+                            data-item-id="{{item.sku}}{{produit.id}}"
+                            data-item-name="{{item.title}}"
+                            data-item-price="{{produit.prix}}"
+                            data-item-weight="{{produit.poids}}"
+                            data-item-url="{{page.url}}"
+                            data-item-description="{{item.title}} - {{produit.type}}">
                             <i class="fas fa-cart-plus"></i> {{ produit.prix }} €
-                            </button></td>
+                            </button>
+                          </td>
                         </tr>
                     {% endfor %}
                     </tbody>
