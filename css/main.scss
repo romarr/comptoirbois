@@ -98,6 +98,11 @@
   object-fit: cover;
 }
 
+.img-fiche {
+  height: 19em;
+  object-fit: cover;
+}
+
 .parallax-bg {
   background-image: url({{site.baseurl}}/img/bg.jpg);
   background-attachment: fixed;

@@ -1,6 +1,6 @@
 ---
 title: Hybride test
-sku: 100
+gid: 100
 traitement: stabilisé, échauffé
 image: /img/produits/default.jpg
 essence: aaatest
@@ -12,6 +12,7 @@ veines: avec
 rarete: précieux
 produits:
   - type: bloc
+    pid: 11
     description: Bloc d'essence de test avec une description beaucoup trop longue pour le tableau
     traitement: 
       - stabilisé
@@ -20,6 +21,7 @@ produits:
     poids: 100
     prix: 50
   - type: carrelet
+    pid: 21
     description: Carrelet d'essence de test
     traitement: 
       - stabilisé

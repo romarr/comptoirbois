@@ -16,10 +16,9 @@ collections:
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Essence", name: "essence", widget: "string"}
       - {label: "Région", name: "region", widget: "select", options: ["europe", "amériques", "asie", "océanie", "afrique"]}
       - {label: "Détails", name: "details", widget: "text"}
-      - {label: "Couleurs", name: "couleurs", widget: "string"}
+      - {label: "Couleurs", name: "couleurs", widget: "list"}
       - {label: "Densité", name: "densite", widget: "number"}
       - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
       - {label: "Rareté", name: "rarete", widget: "select", options: ["Précieux", "Exotique"], multiple: true}
@@ -28,12 +27,11 @@ collections:
         widget: "list"
         fields:
           - {label: "Type", name: "type", widget: "select", options: ["Bloc", "Carrelet", "Plaquette"]}
-          - {label: "Photo", name: "photo", widget: "image"}
+          - {label: "Photos", name: "photos", widget: "list", field: {label: Photo, name: photo, widget: image}}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
           - {label: "Poids", name: "poids", widget: "number"}
           - {label: "Prix", name: "prix", widget: "number"}
-      - {label: "Texte", name: "body", widget: "markdown"}
 
   - name: "prestations"
     label: "Prestations"

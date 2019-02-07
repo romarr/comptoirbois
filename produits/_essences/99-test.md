@@ -1,5 +1,5 @@
 ---
-title: A0Essence test
+title: A1Essence test
 gid: 206
 image: /img/produits/default.jpg
 region: europe
@@ -31,8 +31,8 @@ produits:
     pid: 12
     description: Autre bloc d'essence de test
     photos: 
-      - /img/produits/default.jpg
       - /img/produits/abricotier.jpg
+      - /img/produits/default.jpg
     dimensions: 15x15x40
     poids: 150
     prix: 60
