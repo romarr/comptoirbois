@@ -139,7 +139,7 @@ shop: true
       <div class="row">
         <div class="col-5 mr-0 pr-0">
           <a href="#" data-toggle="modal" data-target="#img{{forloop.index}}"><img class="img-produit img-fluid"
-              src="{{item.image}}"
+              src="{%if item.image%}{{item.image}}{%else%}/img/produits/default.jpg{%endif%}"
               alt="Card image cap"></a>
         </div>
         <div class="col ml-0 pl-0">
@@ -227,7 +227,7 @@ shop: true
             <div id="scroller{{itemindex}}" class="carousel slide carousel-fade" data-interval="false">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img data-toggle="magnify" class="d-block w-100 img-fiche" src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
+                    <img data-toggle="magnify" class="d-block w-100 img-fiche" src="{%if item.image%}{{item.image}}{%else%}/img/produits/default.jpg{%endif%}" alt="{{item.title}}">
                     </div>
                 {% for pic in item.produits %}
                 {% for photo in pic.photos %}

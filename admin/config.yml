@@ -14,18 +14,19 @@ collections:
     slug: "{{day}}-{{second}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
-      - {label: "Id", name: "sku", widget: "string"}
+      - {label: "Id", name: "gid", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Région", name: "region", widget: "select", options: ["europe", "amériques", "asie", "océanie", "afrique"]}
       - {label: "Détails", name: "details", widget: "text"}
-      - {label: "Couleurs", name: "couleurs", widget: "list"}
-      - {label: "Densité", name: "densite", widget: "number"}
+      - {label: "Couleurs", name: "couleur", widget: "list"}
+      - {label: "Densité", name: "densite", widget: "string"}
       - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
-      - {label: "Rareté", name: "rarete", widget: "select", options: ["Précieux", "Exotique"], multiple: true}
+      - {label: "Rareté", required: "false", name: "rarete", widget: "select", options: ["Précieux", "Exotique", "Ronce", "Loupe"], multiple: true}
       - label: "Produits"
         name: "produits"
         widget: "list"
         fields:
+          - {label: "Id produit", name: "pid", widget: "number"}
           - {label: "Type", name: "type", widget: "select", options: ["Bloc", "Carrelet", "Plaquette"]}
           - {label: "Photos", name: "photos", widget: "list", field: {label: Photo, name: photo, widget: image}}
           - {label: "Description", name: "description", widget: "text"}
@@ -33,38 +34,29 @@ collections:
           - {label: "Poids", name: "poids", widget: "number"}
           - {label: "Prix", name: "prix", widget: "number"}
 
-  - name: "prestations"
-    label: "Prestations"
-    folder: "produits/_prestations"
+  - name: "hybrides"
+    label: "Hybrides"
+    folder: "produits/hybrides"
     create: true
     slug: "{{day}}-{{second}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
-      - {label: "Prix", name: "price", widget: "number"}
-      - {label: "Description", name: "desc", widget: "string"}
-      - {label: "Type", name: "type", widget: "list"}
-      - {label: "Photo", name: "image", widget: "image"}
-      - {label: "Texte", name: "body", widget: "markdown"}
-
-  - name: "realisations"
-    label: "Réalisations"
-    folder: "produits/_realisations"
-    create: true
-    slug: "{{day}}-{{second}}_{{slug}}"
-    fields: # The fields for each document, usually in front matter
-      - {label: "Nom", name: "title", widget: "string"}
-      - {label: "Id", name: "sku", widget: "string"}
-      - {label: "Prix", name: "price", widget: "number"}
-      - {label: "Description", name: "desc", widget: "string"}
-      - {label: "Région", name: "region", widget: "string"}
-      - {label: "Tons", name: "tons", widget: "list"}
-      - {label: "Variantes", name: "variantes", widget: "list"}
-      - label: "Photo"
-        name: "image"
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Région", name: "region", widget: "select", options: ["europe", "amériques", "asie", "océanie", "afrique"]}
+      - {label: "Détails", name: "details", widget: "text"}
+      - {label: "Couleurs", name: "couleurs", widget: "list", pattern: ["[^,]+"]}
+      - {label: "Densité", name: "densite", widget: "number"}
+      - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
+      - {label: "Rareté", required: "false", name: "rarete", widget: "select", options: ["Précieux", "Exotique"], multiple: true}
+      - label: "Produits"
+        name: "produits"
         widget: "list"
         fields:
-          - {label: Texte, name: alt, widget: string}
-          - {label: Photo, name: photo, widget: image}
-      - {label: "Poids", name: "poids", widget: "number"}
-      - {label: "Texte", name: "body", widget: "markdown"}
+          - {label: "Id produit", name: "pid", widget: "number"}
+          - {label: "Type", name: "type", widget: "select", options: ["Bloc", "Carrelet", "Plaquette"]}
+          - {label: "Photos", name: "photos", widget: "list", field: {label: Photo, name: photo, widget: image}}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Dimensions", name: "dimensions", widget: "string"}
+          - {label: "Poids", name: "poids", widget: "number"}
+          - {label: "Prix", name: "prix", widget: "number"}
