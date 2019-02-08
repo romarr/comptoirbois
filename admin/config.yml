@@ -23,6 +23,7 @@ collections:
       - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
       - {label: "Rareté", required: false, name: "rarete", widget: "select", options: ["Précieux", "Exotique", "Ronce", "Loupe"], multiple: true}
       - label: "Produits"
+        required: false
         name: "produits"
         widget: "list"
         fields:
@@ -45,7 +46,7 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Région", name: "region", widget: "select", options: ["europe", "amériques", "asie", "océanie", "afrique"]}
       - {label: "Détails", name: "details", widget: "text"}
-      - {label: "Couleurs", name: "couleurs", widget: "list", pattern: ["[^,]+"]}
+      - {label: "Couleurs", name: "couleurs", widget: "list"}
       - {label: "Densité", name: "densite", widget: "number"}
       - {label: "Veines", name: "veines", widget: "select", options: ["Avec", "Sans"]}
       - {label: "Rareté", required: false, name: "rarete", widget: "select", options: ["Précieux", "Exotique"], multiple: true}

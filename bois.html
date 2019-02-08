@@ -145,7 +145,7 @@ shop: true
         <div class="col ml-0 pl-0">
           <div class="card-body card-h py-2">
             <h6>{{ item.title | capitalize }}</h6>
-            <p class="card-text py-0 my-0"><small><i class="fas fa-palette"></i> {{item.couleur | capitalize | join: ', '}} - <i class="fas fa-globe-africa"></i>
+            <p class="card-text py-0 my-0"><small><i class="fas fa-palette"></i> {{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}} - <i class="fas fa-globe-africa"></i>
                 {{item.region | capitalize}}</small></p>
             <hr class="py-1 my-1">
             <p class="card-text">{{ item.details }}</p>
@@ -250,7 +250,7 @@ shop: true
             <div class="col">
               <p class="my-0 text-center">
                   <i class="fas fa-certificate"></i> {{item.rarete | capitalize | join: ', '}} -
-                  <i class="fas fa-palette"></i> {{item.couleur | capitalize | join: ', '}} -
+                  <i class="fas fa-palette"></i> {{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}} -
                   <i class="fas fa-globe-africa"></i> {{item.region | capitalize}}
               </p>
               <p class="my-0 text-center">
