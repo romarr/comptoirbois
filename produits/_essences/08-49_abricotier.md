@@ -6,7 +6,6 @@ region: europe
 details: Essence d'abricotier
 couleur:
   - brun
-  - crème
 densite: '0.8'
 veines: Avec
 produits:
