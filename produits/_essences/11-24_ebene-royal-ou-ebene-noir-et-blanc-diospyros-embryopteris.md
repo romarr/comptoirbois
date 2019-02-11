@@ -137,5 +137,16 @@ produits:
     poids: '191'
     prix: '19.20'
     type: Bloc
+  - description: >-
+      1 micro-fissure sur 1 face, ponçage grain 120 sur les 4 faces - densité
+      1,14
+    dimensions: 151 x 33/34 x 33 mm
+    photos:
+      - /img/uploads/100b15.jpg
+      - /img/uploads/100b15bis.jpg
+    pid: B15
+    poids: '189'
+    prix: '19.20'
+    type: Bloc
 ---
 
