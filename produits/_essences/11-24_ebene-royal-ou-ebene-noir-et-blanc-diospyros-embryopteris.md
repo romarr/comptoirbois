@@ -203,5 +203,16 @@ produits:
     poids: '138'
     prix: '21.20'
     type: Bloc
+  - description: >-
+      magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
+      - densité 1,08
+    dimensions: '120 x 34/34,5 x 34,5 mm'
+    photos:
+      - /img/uploads/100b21.jpg
+      - /img/uploads/100b21bis.jpg
+    pid: B21
+    poids: '154'
+    prix: '21.20'
+    type: Bloc
 ---
 
