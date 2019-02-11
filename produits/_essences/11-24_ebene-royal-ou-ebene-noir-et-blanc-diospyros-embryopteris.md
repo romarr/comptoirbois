@@ -117,5 +117,16 @@ produits:
     poids: '326'
     prix: '39'
     type: Bloc
+  - description: >-
+      magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
+      densité 1,10
+    dimensions: '150 x 43,5/44 x 43,5/44 mm'
+    photos:
+      - /img/uploads/100b13.jpg
+      - /img/uploads/100b13bis.jpg
+    pid: B13
+    poids: '317'
+    prix: '40'
+    type: Bloc
 ---
 
