@@ -128,5 +128,14 @@ produits:
     poids: '317'
     prix: '40'
     type: Bloc
+  - description: '1 micro-fissure sur une face - densité 1,14'
+    dimensions: 148 x 32/33 x 33 mm
+    photos:
+      - /img/uploads/100b14.jpg
+      - /img/uploads/100b14bis.jpg
+    pid: B14
+    poids: '191'
+    prix: '19.20'
+    type: Bloc
 ---
 
