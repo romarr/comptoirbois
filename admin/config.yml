@@ -28,7 +28,7 @@ collections:
         name: "produits"
         widget: "list"
         fields:
-          - {label: "Id produit", name: "pid", widget: "number"}
+          - {label: "Id produit", name: "pid", widget: "string"}
           - {label: "Type", name: "type", widget: "select", options: ["Bloc", "Carrelet", "Plaquette"]}
           - {label: "Photos", name: "photos", widget: "list", field: {label: Photo, name: photo, widget: image}}
           - {label: "Description", name: "description", widget: "text"}
