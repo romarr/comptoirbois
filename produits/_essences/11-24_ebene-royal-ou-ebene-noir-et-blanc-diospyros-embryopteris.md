@@ -86,5 +86,14 @@ produits:
     poids: '229'
     prix: '25'
     type: Bloc
+  - description: 'bois sans défaut, légèrement échauffé - densité 0,97'
+    dimensions: '147,5 x 39,5 x 40 mm'
+    photos:
+      - /img/uploads/100b10.jpg
+      - /img/uploads/100b10bis.jpg
+    pid: B10
+    poids: '224'
+    prix: '26'
+    type: Bloc
 ---
 
