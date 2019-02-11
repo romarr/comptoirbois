@@ -192,5 +192,16 @@ produits:
     poids: '144'
     prix: '22'
     type: Bloc
+  - description: >-
+      magnifique petit bloc ondé avec un petit trou sur une face, ponçage grain
+      120 sur les 4 faces - densité 1,03
+    dimensions: '119 x 33,5 x 33,5/34 mm'
+    photos:
+      - /img/uploads/100b20.jpg
+      - /img/uploads/100b20bis.jpg
+    pid: B20
+    poids: '138'
+    prix: '21.20'
+    type: Bloc
 ---
 
