@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Abricotier
 gid: '101'
 image: /img/uploads/default.jpg
