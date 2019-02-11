@@ -25,7 +25,16 @@ exclude:
 collections_dir: produits
 collections:
   essences:
+    output: true
+    permalink: /essences/:title
   hybrides:
+
+defaults:
+  -
+    scope:
+      path: "produits/*" # an empty string here means all files in the project
+    values:
+      layout: "post"
 
 sass:
   sass_dir: css

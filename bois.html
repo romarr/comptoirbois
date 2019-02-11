@@ -36,6 +36,7 @@ shop: true
             name="filter{{attribut | slugify}}" id="check{{attribut}}{{item | slugify}}""
             data-jplist-control="checkbox-text-filter"
             data-path=".{{attribut}}"
+            data-id="id{{attribut}}"
             data-group="group1"
             data-name=filter{{attribut}}
             value="{{item | slugify}}">
@@ -54,6 +55,7 @@ shop: true
             name="filterType" id="checkType{{item | slugify}}"
             data-jplist-control="checkbox-text-filter"
             data-path=".type"
+            data-id="idType"
             data-group="group1"
             data-name=filterType
             value="{{item | slugify}}">
@@ -72,14 +74,13 @@ shop: true
         value=""
         placeholder="ex. 'Abricotier'"
         />
-
     </div>
 </div>
 <!--Colonne des produits -->
 <div class="col">
     <div class="col-md-12 col-lg-4">
         <!-- Définition du bloc jplist à trier -->
-        <h5 class="text-darkwood">Produits - <small>
+        <h5 class="text-darkwood">Essences - <small>
             <span
             data-jplist-control="counter"
             data-group="group1"
@@ -160,9 +161,9 @@ shop: true
               {%- endif -%}
               </div>
               <div class="col">
-                <button type="button" class="btn-link bg-transparent border-0" data-toggle="modal" data-target="#img{{forloop.index}}">
+                <a href="{{item.url}}" class="btn-link bg-transparent border-0">
                   <i class="fas fa-expand"></i> Voir
-                </button>
+                </a>
               </div>
           </div>
         </div>
@@ -208,7 +209,7 @@ shop: true
 </div>
 
 
-
+<!-- 
 {%- for item in site.essences -%}
 {% assign i = 1 %}
 {%- assign itemindex = forloop.index -%}
@@ -256,7 +257,7 @@ shop: true
                   <i class="fas fa-globe-africa"></i> {{item.region | capitalize}}
               </p>
               <p class="my-0 text-center">
-                  {%if item.veines%}Veines: {{item.veines | capitalize }} - {%endif%}Densité: {{item.densite}}%
+                  {%if item.veines%}Veines: {{item.veines | capitalize }} - {%endif%}Densité: {{item.densite}}
               </p>
               <hr class="my-0 py-1">
               <p>{{item.details}}</p>
@@ -313,4 +314,4 @@ shop: true
     </div>
   </div>
 </div>
-{%- endfor -%}
+{%- endfor -%} -->

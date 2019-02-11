@@ -5,7 +5,10 @@
     <script src="{{"/js/jplist.min.js" | prepend: site.baseurl}}"></script>
     <script src="{{"/js/magnify.min.js" | prepend: site.baseurl}}"></script>
     <script>
-        jplist.init();
+    jplist.init({
+        storage: 'localStorage',
+        storageName: 'jplist'
+    });
     </script>
     {%endif%}
     <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="ZWE3NDEwMzgtZDhmNC00OWFkLTg5ZjYtNTJmMTVmZTQ3MzY2NjM2ODQzNzU1NDQyNDA4MTE4"></script>

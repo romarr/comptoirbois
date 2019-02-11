@@ -1,0 +1,113 @@
+{%- assign produits = page.produits -%}
+<!--Colonne des produits -->
+<div class="col">
+    <div class="col-md-12 col-lg-4">
+        <!-- Définition du bloc jplist à trier -->
+        <h5 class="text-darkwood">Produits - <small>{{produits | size}}</small>
+        </h5>
+    </div>
+    <div class="col">
+        <!-- Bouton de tri reponsive xs -->
+        <button class="btn btn-secondary btn-block d-sm-block d-md-none" type="button" data-toggle="collapse"
+            aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
+            <i class="fas fa-bars"></i> Filtres
+        </button>
+        <div data-jplist-group="group1" class="row">
+            <div class="col-sm-12 col-md-6">
+                <img data-toggle="magnify" class="img-fiche" src="{%if page.image%}{{page.image}}{%else%}/img/produits/default.jpg{%endif%}"
+                    alt="{{item.title}}">
+            </div>
+            <div class="col">
+                <h5 class="text-center">{{page.title}}</h5>
+                <p class="my-0 text-center">
+                    {%- if page.rarete -%}
+                    <i class="fas fa-certificate"></i> {{page.rarete | capitalize | join: ', '}} -
+                    {%- endif -%}
+                    <i class="fas fa-palette"></i> {{page.couleur | join: 'thisisnotanitem' | capitalize | replace:
+                    'thisisnotanitem', ', '}} -
+                    <i class="fas fa-globe-africa"></i> {{page.region | capitalize}}
+                </p>
+                <p class="mt-0 text-center">
+                    {%if page.veines%}Veines: {{page.veines | capitalize }} - {%endif%}Densité: {{page.densite}}
+                </p>
+                <hr class="my-1 py-1">
+                <p>{{page.details}}</p>
+            </div>
+            <div class="col-12">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">Description</th>
+                            <th scope="col">Type</th>
+                            <th scope="col">Dimensions</th>
+                            <th scope="col">Poids</th>
+                            <th scope="col">Prix</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {%- unless page.produits -%}
+                        <tr>
+                            <td colspan="5">Aucun produit actuellement disponnible pour cette essence</td>
+                        </tr>
+                        {%- endunless -%}
+                        {% for produit in produits %}
+                        <tr>
+                            <td>
+                                <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-fluid w-25"
+                                        src="{{produit.photos.first}}"></a> {{produit.description}}
+                            </td>
+                            <td>{{produit.type | capitalize}}</td>
+                            <td>{{produit.dimensions}}</td>
+                            <td>{{produit.poids}}</td>
+                            <td>
+                                <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood float-right"
+                                    data-item-id="{{page.gid}}{{produit.pid}}" data-item-name="{{page.title}}"
+                                    data-item-price="{{produit.prix}}" data-item-weight="{{produit.poids}}"
+                                    data-item-url="{{page.url}}" data-item-description="{{produit.type}} - {{produit.description | truncate: 20}}">
+                                    <i class="fas fa-cart-plus"></i> {{ produit.prix }} €
+                                </button>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+{%- for produit in produits -%}
+{%- assign prodIndex = forloop.index -%}
+<div class="modal fade" id="modal{{prodIndex}}" tabindex="-1" role="dialog" aria-labelledby="label{{prodIndex}}"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="label{{prodIndex}}">{{produit.type}} - {{page.title}}</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="carousel{{prodIndex}}" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        {%- for photo in produit.photos -%}
+                        <div class="carousel-item{%if forloop.first%} active{%endif%}">
+                            <img src="{{photo}}" class="d-block w-100" alt="{{page.title}} - {{produit.type}}">
+                        </div>
+                        {%- endfor -%}
+                    </div>
+                    <a class="carousel-control-prev" href="#carousel{{prodIndex}}" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel{{prodIndex}}" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{%- endfor -%}
