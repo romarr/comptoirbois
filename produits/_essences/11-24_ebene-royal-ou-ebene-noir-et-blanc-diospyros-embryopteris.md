@@ -68,5 +68,23 @@ produits:
     poids: '308'
     prix: '34'
     type: Bloc
+  - description: 'bois sans défaut, légèrement échauffé - densité 1,08'
+    dimensions: 148 x 38/39 x 51 mm
+    photos:
+      - /img/uploads/100b8.jpg
+      - /img/uploads/100b8bis.jpg
+    pid: B8
+    poids: '313'
+    prix: '25'
+    type: Bloc
+  - description: 'bois sans défaut, légèrement échauffé - densité 0,96'
+    dimensions: 148/149 x 40 x 40 mm
+    photos:
+      - /img/uploads/100b9.jpg
+      - /img/uploads/100b9bis.jpg
+    pid: B9
+    poids: '229'
+    prix: '25'
+    type: Bloc
 ---
 
