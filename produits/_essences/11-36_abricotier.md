@@ -10,21 +10,22 @@ couleur:
 densite: '1'
 veines: Avec
 produits:
-  - description: test
-    dimensions: 10x10x10
+  - description: Description du premier bloc
+    dimensions: 130x22x40
     photos:
-      - /img/uploads/default.jpg
-    pid: '01'
-    poids: '100'
-    prix: '25'
+      - /img/uploads/blocsa1.jpg
+      - /img/uploads/blocsa2.jpg
+    pid: B1
+    poids: '250'
+    prix: '12'
     type: Bloc
-  - description: test
-    dimensions: 10x10x10
+  - description: Description d'une plaquette
+    dimensions: 10x20x200
     photos:
-      - /img/uploads/default.jpg
-    pid: '01'
+      - /img/uploads/cassiadusiam.jpg
+    pid: P1
     poids: '100'
-    prix: '25'
-    type: Bloc
+    prix: '15'
+    type: Plaquette
 ---
 
