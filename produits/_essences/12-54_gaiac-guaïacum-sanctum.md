@@ -36,5 +36,11 @@ produits:
     poids: '694'
     prix: '41.80'
     type: Bloc
+  - description: 'beau carrelet sans défaut de couleur verdâtre - forte densité 1,38'
+    dimensions: 262 x 29/30 x 30/31 mm
+    pid: C1
+    poids: '326'
+    prix: '17.60'
+    type: Carrelet
 ---
 
