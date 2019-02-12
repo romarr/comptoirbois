@@ -25,5 +25,13 @@ produits:
     poids: '606'
     prix: '88.50'
     type: Bloc
+  - description: 'belle paire de plaquettes sans défaut, bois moiré - densité 1,09'
+    dimensions: '207 x 38,5 x 6,3 - 7,1 mm'
+    photos:
+      - /img/uploads/104p1c.jpg
+    pid: P1
+    poids: '113'
+    prix: '27.90'
+    type: Plaquette
 ---
 
