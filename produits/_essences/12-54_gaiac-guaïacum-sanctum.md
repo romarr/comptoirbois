@@ -27,5 +27,14 @@ produits:
     poids: '531'
     prix: '31.40'
     type: Bloc
+  - description: 'beau bloc sans défaut, couleur claire marron ocre - densité 1,22'
+    dimensions: 260/262 x 40 x 54/55 mm
+    photos:
+      - /img/uploads/103b2c.jpg
+      - /img/uploads/103b2bisc.jpg
+    pid: B2
+    poids: '694'
+    prix: '41.80'
+    type: Bloc
 ---
 
