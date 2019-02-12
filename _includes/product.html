@@ -54,11 +54,11 @@
                         <tr>
                             <td>
                              <div class="row">
-                             <div class="col-lg-3 col-md-5 col-sm-12 px-0">
-                                    <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-fluid"
-                                        src="{{produit.photos.first}}"></a>
+                             <div class="col-lg-3 col-md-5 col-sm-12 px-1">
+                                    <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-fluid lazy"
+                                        src="/img/lazy.gif" data-src="{{produit.photos.first}}"></a>
                              </div>
-                             <div class="col">
+                             <div class="col px-1">
                                 {{produit.description}}
                             </div>
                             </div>
@@ -88,7 +88,7 @@
 {%- assign prodIndex = forloop.index -%}
 <div class="modal fade" id="modal{{prodIndex}}" tabindex="-1" role="dialog" aria-labelledby="label{{prodIndex}}"
     aria-hidden="true">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="label{{prodIndex}}">{{produit.type}} - {{page.title}}</h5>
@@ -101,7 +101,7 @@
                     <div class="carousel-inner">
                         {%- for photo in produit.photos -%}
                         <div class="carousel-item{%if forloop.first%} active{%endif%}">
-                            <img src="{{photo}}" class="d-block w-100" alt="{{page.title}} - {{produit.type}}">
+                            <img data-src="{{photo}}" class="d-block w-100 lazy" alt="{{page.title}} - {{produit.type}}">
                         </div>
                         {%- endfor -%}
                     </div>
