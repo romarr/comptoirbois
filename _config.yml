@@ -28,11 +28,13 @@ collections:
     output: true
     permalink: /essences/:title
   hybrides:
+    output: true
+    permalink: /hybrides/:title
 
 defaults:
   -
     scope:
-      path: "produits/*" # an empty string here means all files in the project
+      path: "produits/*/*" # an empty string here means all files in the project
     values:
       layout: "post"
 

@@ -21,7 +21,7 @@
                 <h5 class="text-center">{{page.title}}</h5>
                 <p class="my-0 text-center">
                     {%- if page.rarete -%}
-                    <i class="fas fa-certificate"></i> {{page.rarete | capitalize | join: ', '}} -
+                    <i class="fas fa-certificate"></i> {{page.rarete | join: ', '}} -
                     {%- endif -%}
                     <i class="fas fa-palette"></i> {{page.couleur | join: 'thisisnotanitem' | capitalize | replace:
                     'thisisnotanitem', ', '}} -
@@ -39,8 +39,8 @@
                         <tr>
                             <th scope="col">Description</th>
                             <th scope="col">Type</th>
-                            <th scope="col">Dimensions</th>
-                            <th scope="col">Poids</th>
+                            <th scope="col">(l*L*p mm)</br>Dimensions</th>
+                            <th scope="col">(g)</br>Poids</th>
                             <th scope="col">Prix</th>
                         </tr>
                     </thead>
@@ -53,19 +53,26 @@
                         {% for produit in produits %}
                         <tr>
                             <td>
-                                <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-fluid w-25"
-                                        src="{{produit.photos.first}}"></a> {{produit.description}}
+                             <div class="row">
+                             <div class="col-lg-3 col-md-5 col-sm-12 px-0">
+                                    <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-fluid"
+                                        src="{{produit.photos.first}}"></a>
+                             </div>
+                             <div class="col">
+                                {{produit.description}}
+                            </div>
+                            </div>
                             </td>
                             <td>{{produit.type | capitalize}}</td>
                             <td>{{produit.dimensions}}</td>
                             <td>{{produit.poids}}</td>
-                            <td>
-                                <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood float-right"
+                            <td class="text-center">
+                                <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood"
                                     data-item-id="{{page.gid}}{{produit.pid}}" data-item-name="{{page.title}}"
                                     data-item-price="{{produit.prix}}" data-item-weight="{{produit.poids}}"
                                     data-item-url="{{page.url}}" data-item-max-quantity=1
                                     data-item-description="{{produit.type}} - {{produit.description | truncate: 50}}">
-                                    <i class="fas fa-cart-plus"></i> {{ produit.prix }} €
+                                    <i class="fas fa-cart-plus"></i></br> {{ produit.prix }} €
                                 </button>
                             </td>
                         </tr>

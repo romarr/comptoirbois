@@ -23,7 +23,7 @@ shop: true
 
       <h4 class="text-darkwood">Filtres</h4>
         <!-- Création d'un tableau d'attr. -->
-        {%assign attributs = "rarete,veines,couleur" | split: "," %}
+        {%assign attributs = "rarete,veines" | split: "," %}
         {% for attribut in attributs %}
         <!-- Création d'un tableau de carac. par attr. -->
         {% assign filtre = site.essences | map: attribut | uniq %}
