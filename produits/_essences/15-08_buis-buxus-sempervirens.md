@@ -22,5 +22,13 @@ produits:
     poids: 141
     prix: 5
     type: Plaquette
+  - description: belles plaquettes de buis échauffé sans défaut - densité 1
+    dimensions: '232/241 x 55/58 x 6,3 - 6,7 mm'
+    photos:
+      - /img/uploads/128p2c.jpg
+    pid: P2
+    poids: 174
+    prix: 19
+    type: Plaquette
 ---
 
