@@ -40,5 +40,25 @@ produits:
     poids: 193
     prix: 28
     type: Plaquette
+  - description: >-
+      belles plaquettes de loupe de buis échauffé, présence d'une micro-fissure
+      longitudinale - densité 0,94
+    dimensions: '357/360 x 48/49 x 5,2 - 5,3 mm'
+    photos:
+      - /img/uploads/128p4c.jpg
+    pid: P4
+    poids: 171
+    prix: 29
+    type: Plaquette
+  - description: >-
+      belles plaquettes de loupe de buis échauffé, présence d'une micro-fissure
+      longitudinale - densité 0,94
+    dimensions: '357/360 x 48/49 x 5,3 mm'
+    photos:
+      - /img/uploads/128p5c.jpg
+    pid: P5
+    poids: 169
+    prix: 29
+    type: Plaquette
 ---
 
