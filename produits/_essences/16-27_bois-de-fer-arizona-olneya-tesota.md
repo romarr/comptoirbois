@@ -111,5 +111,58 @@ produits:
     poids: 119
     prix: 21
     type: Plaquette
+  - description: >-
+      belle paire de plaquettes calibrées au grain 120 faces bookmatched, sans
+      défaut - densité 1,28
+    dimensions: '133/134 x 44/44,5 x 9,1 - 9,2 mm'
+    photos:
+      - /img/uploads/116p8c.jpg
+    pid: P8
+    poids: 138
+    prix: 21
+    type: Plaquette
+  - description: >-
+      magnifique paire de plaquettes loupées calibrées au grain 120 faces
+      bookmatched, sans défaut - densité 1,27
+    dimensions: '133/134 x 44/45 x 8,9 mm'
+    photos:
+      - /img/uploads/116p9c.jpg
+    pid: P9
+    poids: 134
+    prix: 32
+    type: Plaquette
+  - description: >-
+      magnifique paire de plaquettes loupées calibrées au grain 120 faces
+      bookmatched, présence d'une petite fissure visible sur la photo - densité
+      1,32
+    dimensions: '133 ,5 x 43/44 x 7,5 mm'
+    photos:
+      - /img/uploads/116p11c.jpg
+    pid: P11
+    poids: 115
+    prix: 32
+    type: Plaquette
+  - description: >-
+      belle paire de plaquettes calibrées au grain 120 faces bookmatched,
+      présence d'un petit trou en bout sur une plaquette visible sur la photo -
+      densité 1,29
+    dimensions: '134 x 44 x 7,6 mm'
+    photos:
+      - /img/uploads/116p12c.jpg
+    pid: P12
+    poids: 116
+    prix: 27
+    type: Plaquette
+  - description: >-
+      magnifique paire de plaquettes loupées calibrées au grain 120 faces
+      bookmatched, présence de micro-fissures de loupe visibles sur la photo -
+      densité 1,31
+    dimensions: '134 x 43/44 x 8,9 mm'
+    photos:
+      - /img/uploads/116p13c.jpg
+    pid: P13
+    poids: 136
+    prix: 28
+    type: Plaquette
 ---
 
