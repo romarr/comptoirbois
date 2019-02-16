@@ -46,5 +46,13 @@ produits:
     poids: 227
     prix: 22
     type: Bloc
+  - description: 'belle paire de plaquettes loupées sans défaut - densité 1,28'
+    dimensions: '133,5 x 44/44,5 x 7,4 - 7,5 mm'
+    photos:
+      - /img/uploads/116p1c.jpg
+    pid: P1
+    poids: 113
+    prix: 17
+    type: Plaquette
 ---
 
