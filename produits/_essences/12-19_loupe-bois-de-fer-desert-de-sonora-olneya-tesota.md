@@ -17,7 +17,7 @@ produits:
   - description: >-
       très beau bloc dur et dense, couleur rare, présence de petits trous de
       loupe - densité 1,04
-    dimensions: 205 x 47/487 x 52/54 mm
+    dimensions: 205 x 47/48 x 52/54 mm
     photos:
       - /img/uploads/102b1c.jpg
       - /img/uploads/102b1bisc.jpg
