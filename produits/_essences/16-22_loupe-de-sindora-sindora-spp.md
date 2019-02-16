@@ -29,5 +29,25 @@ produits:
     poids: 130
     prix: 42
     type: Plaquette
+  - description: >-
+      magnifiques plaquettes, présence de micro-fissures de loupe - forte
+      densité 1,08
+    dimensions: '205/207 x 45/47 x 5,6 - 5,7 mm'
+    photos:
+      - /img/uploads/118p2c.jpg
+    pid: P2
+    poids: 116
+    prix: 34
+    type: Plaquette
+  - description: >-
+      magnifiques plaquettes, présence de micro-fissures de loupe - forte
+      densité 1,12
+    dimensions: '207/208 x 43,5/46 x 5,2 - 6,3 mm'
+    photos:
+      - /img/uploads/118p3c.jpg
+    pid: P3
+    poids: 125
+    prix: 34
+    type: Plaquette
 ---
 
