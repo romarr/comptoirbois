@@ -28,5 +28,23 @@ produits:
     poids: 249
     prix: 25
     type: Bloc
+  - description: 'petit quillon sans défaut - densité 1,30'
+    dimensions: 133 x 29 x 41/43 mm
+    photos:
+      - /img/uploads/116b2c.jpg
+      - /img/uploads/116b2bisc.jpg
+    pid: B2
+    poids: 210
+    prix: 22
+    type: Bloc
+  - description: 'petit quillon sans défaut - densité 1,29'
+    dimensions: 132 x 31 x 43 mm
+    photos:
+      - /img/uploads/116b3c.jpg
+      - /img/uploads/116b3bisc.jpg
+    pid: B3
+    poids: 227
+    prix: 22
+    type: Bloc
 ---
 
