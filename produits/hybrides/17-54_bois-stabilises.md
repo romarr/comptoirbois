@@ -114,5 +114,65 @@ produits:
     poids: 120
     prix: 44
     type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées vert - origine : Europe de
+      l'Est - densité 1
+    dimensions: '132 x 43/45 x 6,6 - 6,7 mm'
+    photos:
+      - /img/uploads/p10c.jpg
+    pid: P10
+    poids: 77
+    prix: 27
+    type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées vert - origine : Europe de
+      l'Est - densité 1,02
+    dimensions: '133 x 43/45 x 6,5 - 6,6'
+    photos:
+      - /img/uploads/p11c.jpg
+    pid: P11
+    poids: 79
+    prix: 27
+    type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées bleu - origine : Europe de
+      l'Est - densité 0,99
+    dimensions: '133 x 46/47 x 6,5 - 6,6 mm'
+    photos:
+      - /img/uploads/p12c.jpg
+    pid: P12
+    poids: 80
+    prix: 27
+    type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées bleu - origine : Europe de
+      l'Est - densité 1,01
+    dimensions: '133 x 46/48 x 6,4 - 6,6 mm'
+    photos:
+      - /img/uploads/p13c.jpg
+    pid: P13
+    poids: 82
+    prix: 27
+    type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées rouge - origine : Europe
+      de l'Est - densité 1,02
+    dimensions: '135 x 42/43 x 4,6 mm'
+    photos:
+      - /img/uploads/p14c.jpg
+    pid: P14
+    poids: 54
+    prix: 19
+    type: Plaquette
+  - description: >-
+      belles plaquettes de LOUPE D'ERABLE stabilisées rouge - origine : Europe
+      de l'Est - densité 1,02
+    dimensions: '135,5 x 42/44 x 4,2 - 4,6 mm'
+    photos:
+      - /img/uploads/p15c.jpg
+    pid: P15
+    poids: 52
+    prix: 19
+    type: Plaquette
 ---
 
