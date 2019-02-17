@@ -21,5 +21,13 @@ produits:
     poids: 91
     prix: 21
     type: Plaquette
+  - description: 'magnifiques plaquettes sans défaut - densité 1,11'
+    dimensions: '200 x 48/49 x 5,2 - 5,4 mm'
+    photos:
+      - /img/uploads/119p2c.jpg
+    pid: P2
+    poids: 115
+    prix: 28
+    type: Plaquette
 ---
 
