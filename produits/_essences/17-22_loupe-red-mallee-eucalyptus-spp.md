@@ -21,5 +21,13 @@ produits:
     poids: 78
     prix: 20
     type: Plaquette
+  - description: 'très belles plaquettes, présence de micro-fissures de loupe - densité 1,07'
+    dimensions: '152/155 x 50/70 - 55/75 x 6,8 - 7,6 mm'
+    photos:
+      - /img/uploads/120p2c.jpg
+    pid: P2
+    poids: 153
+    prix: 35
+    type: Plaquette
 ---
 
