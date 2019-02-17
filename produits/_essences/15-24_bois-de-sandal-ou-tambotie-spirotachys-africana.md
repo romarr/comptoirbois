@@ -21,7 +21,7 @@ produits:
       - /img/uploads/126p1c.jpg
     pid: P1
     poids: 210
-    prix: 22
+    prix: '22'
     type: Plaquette
 ---
 

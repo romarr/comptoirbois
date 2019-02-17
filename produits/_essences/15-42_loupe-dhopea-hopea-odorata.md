@@ -21,7 +21,7 @@ produits:
       - /img/uploads/115p1c.jpg
     pid: P1
     poids: 87
-    prix: 20
+    prix: '20'
     type: Plaquette
   - description: >-
       belle paire bicolore, calibrée au grain 80, un petit défaut en latéral
@@ -31,7 +31,7 @@ produits:
       - /img/uploads/115p2c.jpg
     pid: P2
     poids: 94
-    prix: 20
+    prix: '20'
     type: Plaquette
   - description: 'beau quillon, présence de micro-fissures de loupe - forte densité 1,14'
     dimensions: 128 x 36 x 39 mm
@@ -40,7 +40,7 @@ produits:
       - /img/uploads/115b1c.jpg
     pid: B1
     poids: 203
-    prix: 29
+    prix: '29'
     type: Bloc
   - description: 'beau quillon, présence de micro-fissures de loupe - forte densité 1,14'
     dimensions: '128 x 35,5 x 39 mm'
@@ -49,7 +49,7 @@ produits:
       - /img/uploads/115b2bisc.jpg
     pid: B2
     poids: 202
-    prix: 29
+    prix: '29'
     type: Bloc
   - description: 'beau quillon, présence de micro-fissures de loupe - forte densité 1,10'
     dimensions: '127/128 x 35,5 x 39 mm'
@@ -58,7 +58,7 @@ produits:
       - /img/uploads/115b3bisc.jpg
     pid: B3
     poids: 193
-    prix: 29
+    prix: '29'
     type: Bloc
   - description: 'beau quillon, présence de micro-fissures de loupe - forte densité 1,15'
     dimensions: 128 x 39 x 39 mm
@@ -67,7 +67,7 @@ produits:
       - /img/uploads/115b4bisc.jpg
     pid: B4
     poids: 220
-    prix: 31
+    prix: '31'
     type: Bloc
 ---
 

@@ -31,7 +31,7 @@ produits:
       - /img/uploads/102p1c.jpg
     pid: P1
     poids: 98
-    prix: 36
+    prix: '36'
     type: Plaquette
   - description: 'magnifiques plaquettes bicolores sans défaut, bois dur - densité 0,92'
     dimensions: '230/231 x 49/50 x 4,2 - 4,7 mm'
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/102p2c.jpg
     pid: P2
     poids: 93
-    prix: 40
+    prix: '40'
     type: Plaquette
   - description: 'magnifiques plaquettes bicolores sans défaut, bois dur - densité 0,94'
     dimensions: '232 x 49/50 x 4 - 4,4 mm'
@@ -47,7 +47,7 @@ produits:
       - /img/uploads/102p3c.jpg
     pid: P3
     poids: 91
-    prix: 40
+    prix: '40'
     type: Plaquette
   - description: 'magnifiques plaquettes bicolores sans défaut, bois dur - densité 0,99'
     dimensions: '178/200 x 49 x 4,5 - 4,6 mm'
@@ -55,7 +55,7 @@ produits:
       - /img/uploads/102p4c.jpg
     pid: P4
     poids: 89
-    prix: 36
+    prix: '36'
     type: Plaquette
   - description: >-
       magnifique plaquette bicolore fine, présence de micro-fissures, bois dur -
@@ -65,7 +65,7 @@ produits:
       - /img/uploads/102p5c.jpg
     pid: P5
     poids: 54
-    prix: 17
+    prix: '17'
     type: Plaquette
   - description: >-
       magnifiques plaquettes, présence de micro-fissures, bois dur - densité
@@ -75,7 +75,7 @@ produits:
       - /img/uploads/102p6c.jpg
     pid: P6
     poids: 234
-    prix: 70
+    prix: '70'
     type: Plaquette
 ---
 

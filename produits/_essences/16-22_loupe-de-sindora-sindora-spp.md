@@ -27,7 +27,7 @@ produits:
       - /img/uploads/118p1c.jpg
     pid: P1
     poids: 130
-    prix: 42
+    prix: '42'
     type: Plaquette
   - description: >-
       magnifiques plaquettes, présence de micro-fissures de loupe - forte
@@ -37,7 +37,7 @@ produits:
       - /img/uploads/118p2c.jpg
     pid: P2
     poids: 116
-    prix: 34
+    prix: '34'
     type: Plaquette
   - description: >-
       magnifiques plaquettes, présence de micro-fissures de loupe - forte
@@ -47,7 +47,7 @@ produits:
       - /img/uploads/118p3c.jpg
     pid: P3
     poids: 125
-    prix: 34
+    prix: '34'
     type: Plaquette
   - description: 'beau petit bloc sans défaut - densité 0,92'
     dimensions: 150/151 x 38 x 38 mm
@@ -56,7 +56,7 @@ produits:
       - /img/uploads/118b1bisc.jpg
     pid: B1
     poids: 196
-    prix: 21
+    prix: '21'
     type: Bloc
   - description: 'beau petit bloc, une petite fissure sur arête - forte densité 1,09'
     dimensions: 125/126 x 37 x 37 mm
@@ -65,7 +65,7 @@ produits:
       - /img/uploads/118b2bisc.jpg
     pid: B2
     poids: 188
-    prix: 18
+    prix: '18'
     type: Bloc
   - description: 'beau petit bloc sans défaut - densité 1,03'
     dimensions: '125/127 x 37 x 37,5 mm'
@@ -74,7 +74,7 @@ produits:
       - /img/uploads/118b3bisc.jpg
     pid: B3
     poids: 177
-    prix: 18
+    prix: '18'
     type: Bloc
   - description: 'beau petit bloc sans défaut - densité 0,92'
     dimensions: 145 x 38 x 38 mm
@@ -83,7 +83,7 @@ produits:
       - /img/uploads/118b4bisc.jpg
     pid: B4
     poids: 192
-    prix: 19
+    prix: '19'
     type: Bloc
   - description: 'beau petit bloc en partie échauffé - densité 0,87'
     dimensions: 143 x 37/38 x 38 mm
@@ -92,7 +92,7 @@ produits:
       - /img/uploads/118b5bisc.jpg
     pid: B5
     poids: 175
-    prix: 19
+    prix: '19'
     type: Bloc
 ---
 

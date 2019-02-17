@@ -20,7 +20,7 @@ produits:
       - /img/uploads/128p1c.jpg
     pid: P1
     poids: 141
-    prix: 18
+    prix: '18'
     type: Plaquette
   - description: belles plaquettes de buis échauffé sans défaut - densité 1
     dimensions: '232/241 x 55/58 x 6,3 - 6,7 mm'
@@ -28,7 +28,7 @@ produits:
       - /img/uploads/128p2c.jpg
     pid: P2
     poids: 174
-    prix: 19
+    prix: '19'
     type: Plaquette
   - description: >-
       belles plaquettes de buis échauffé, quelques micro-fissures sans incidence
@@ -38,7 +38,7 @@ produits:
       - /img/uploads/128p3c.jpg
     pid: P3
     poids: 193
-    prix: 28
+    prix: '28'
     type: Plaquette
   - description: >-
       belles plaquettes de loupe de buis échauffé, présence d'une micro-fissure
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/128p4c.jpg
     pid: P4
     poids: 171
-    prix: 29
+    prix: '29'
     type: Plaquette
   - description: >-
       belles plaquettes de loupe de buis échauffé, présence d'une micro-fissure
@@ -58,7 +58,7 @@ produits:
       - /img/uploads/128p5c.jpg
     pid: P5
     poids: 169
-    prix: 29
+    prix: '29'
     type: Plaquette
 ---
 
