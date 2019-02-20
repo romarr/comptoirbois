@@ -34,11 +34,11 @@ collections:
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
           - {label: "Poids", name: "poids", widget: "number"}
-          - {label: "Prix", name: "prix", widget: "number"}
+          - {label: "Prix", name: "prix", widget: "string"}
 
   - name: "hybrides"
     label: "Hybrides"
-    folder: "produits/hybrides"
+    folder: "produits/_hybrides"
     create: true
     slug: "{{day}}-{{second}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
@@ -63,4 +63,4 @@ collections:
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
           - {label: "Poids", name: "poids", widget: "number"}
-          - {label: "Prix", name: "prix", widget: "number"}
+          - {label: "Prix", name: "prix", widget: "string"}
