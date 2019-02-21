@@ -67,6 +67,7 @@
                             <td>{{produit.dimensions}}</td>
                             <td>{{produit.poids}}</td>
                             <td class="text-center">
+                                {%- if produit.prix -%}
                                 <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood"
                                     data-item-id="{{page.gid}}{{produit.pid}}" data-item-name="{{page.title}}"
                                     data-item-price="{{produit.prix}}" data-item-weight="{{produit.poids}}"
@@ -74,6 +75,18 @@
                                     data-item-description="{{produit.type}} - {{produit.description | truncate: 50}}">
                                     <i class="fas fa-cart-plus"></i></br> {{ produit.prix }} €
                                 </button>
+                                {%- else -%}
+                                <style>
+                                    .fa-stack { font-size: 0.5em; }
+                                    i { vertical-align: middle; }
+                                </style>
+                                <button type="button" class="btn btn-sm btn-secondary bg-wood" disabled>
+                                        <span class="fa-stack">
+                                                <i class="fas fa-ban fa-stack-2x"></i>
+                                                <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                                              </span>
+                                </br>Vendu</button>
+                                {%- endif -%}
                             </td>
                         </tr>
                         {% endfor %}
