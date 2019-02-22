@@ -39,5 +39,32 @@ produits:
     poids: 64
     prix: '7,90'
     type: Plaquette
+  - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,09'
+    dimensions: '153 x 34,5 x 35 mm'
+    photos:
+      - /img/uploads/137b1.jpg
+      - /img/uploads/137b1bis.jpg
+    pid: B1
+    poids: 202
+    prix: '15,90'
+    type: Bloc
+  - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,07'
+    dimensions: 151 x 35 x 35 mm
+    photos:
+      - /img/uploads/137b2.jpg
+      - /img/uploads/137b2bis.jpg
+    pid: B2
+    poids: 198
+    prix: '15,90'
+    type: Bloc
+  - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,12'
+    dimensions: '152 x 35 x 35,5 mm'
+    photos:
+      - /img/uploads/137b3.jpg
+      - /img/uploads/137b3bis.jpg
+    pid: B3
+    poids: 212
+    prix: '15,90'
+    type: Bloc
 ---
 
