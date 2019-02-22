@@ -29,5 +29,25 @@ produits:
     poids: 305
     prix: '22,40'
     type: Plaquette
+  - description: >-
+      belle planchette avec aubier aussi dur que le duramen, bois calibré à la
+      JET 22/44 grain 80 - densité 0,89
+    dimensions: '534 x 77 x 9,6 mm'
+    photos:
+      - /img/uploads/133p2c.jpg
+    pid: P2
+    poids: 352
+    prix: '26,50'
+    type: Plaquette
+  - description: >-
+      belle planchette avec aubier aussi dur que le duramen, bois calibré à la
+      JET 22/44 grain 80 - densité 0,90
+    dimensions: '533 x 76/77 x 8,2 mm'
+    photos:
+      - /img/uploads/133p3c.jpg
+    pid: P3
+    poids: 301
+    prix: '23.50'
+    type: Plaquette
 ---
 
