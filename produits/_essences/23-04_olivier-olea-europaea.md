@@ -34,6 +34,9 @@ produits:
     type: Bloc
   - description: 'beau bloc ondé sans défaut poncé sur les 4 faces - densité 0,99'
     dimensions: '308 x 40/43 x 41,5 mm'
+    photos:
+      - /img/uploads/138b2c.jpg
+      - /img/uploads/138b2bisc.jpg
     pid: B2
     poids: 485
     prix: '17,60'
