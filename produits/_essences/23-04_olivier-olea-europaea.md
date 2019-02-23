@@ -41,5 +41,23 @@ produits:
     poids: 485
     prix: '17,60'
     type: Bloc
+  - description: >-
+      belles plaquettes ondées sans défaut calibrées à la JET 22/44 grain 80 -
+      densité 1,05
+    dimensions: '200 x 49/52 x 6,9 - 7,1 mm'
+    photos:
+      - /img/uploads/138p1c.jpg
+    pid: P1
+    poids: 148
+    prix: '7,50'
+    type: Plaquette
+  - description: >-
+      belles plaquettes ondées sans défaut calibrées à la JET 22/44 grain 80 -
+      densité 1,03
+    dimensions: '200 x 49/52 x 6,9 - 7,1 mm'
+    pid: P2
+    poids: 145
+    prix: '7,50'
+    type: Plaquette
 ---
 
