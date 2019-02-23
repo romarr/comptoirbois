@@ -30,5 +30,23 @@ produits:
     poids: 125
     prix: '7,50'
     type: Bloc
+  - description: 'beau quillon moiré&pommelé sans défaut - densité 0,92'
+    dimensions: '137/138 x 42 x 19,5 mm'
+    photos:
+      - /img/uploads/134b2c.jpg
+      - /img/uploads/134b2bisc.jpg
+    pid: B2
+    poids: 101
+    prix: '7,00'
+    type: Bloc
+  - description: 'beau quillon moiré&pommelé sans défaut - densité 0,89'
+    dimensions: 138/139 x 41/42 x 21 mm
+    photos:
+      - /img/uploads/134b3c.jpg
+      - /img/uploads/134b3bisc.jpg
+    pid: B3
+    poids: 107
+    prix: '7,50'
+    type: Bloc
 ---
 
