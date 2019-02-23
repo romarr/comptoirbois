@@ -32,5 +32,15 @@ produits:
     poids: 122
     prix: '14,20'
     type: Plaquette
+  - description: >-
+      belles plaquettes moirées avec un petit défaut en bout sur l'angle visible
+      sur la photo, calibrage à la JET 22/44 grain 80 - densité  0,78
+    dimensions: '252 x 44 x 6,9 mm'
+    photos:
+      - /img/uploads/141p2c.jpg
+    pid: P2
+    poids: 120
+    prix: '14,20'
+    type: Plaquette
 ---
 
