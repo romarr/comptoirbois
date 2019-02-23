@@ -31,8 +31,8 @@ produits:
     photos:
       - /img/uploads/117p4c.jpg
     pid: P4
-    poids: 130
-    prix: '14,90'
+    poids: 131
+    prix: '19,40'
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -41,8 +41,8 @@ produits:
     photos:
       - /img/uploads/117p3c.jpg
     pid: P3
-    poids: 123
-    prix: '14,90'
+    poids: 124
+    prix: '19,40'
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -52,7 +52,7 @@ produits:
       - /img/uploads/117p2c.jpg
     pid: P2
     poids: 170
-    prix: '13,60'
+    prix: '17,70'
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -62,7 +62,7 @@ produits:
       - /img/uploads/117p1c.jpg
     pid: P1
     poids: 167
-    prix: '15,00'
+    prix: '19,50'
     type: Plaquette
   - description: >-
       très belles et longues plaquettes sans défaut calibrées à la JET 22/44
@@ -71,8 +71,8 @@ produits:
     photos:
       - /img/uploads/117p5c.jpg
     pid: P5
-    poids: 182
-    prix: '15,50'
+    poids: 183
+    prix: '20,20'
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -82,7 +82,7 @@ produits:
       - /img/uploads/117p6c.jpg
     pid: P6
     poids: 179
-    prix: '15,50'
+    prix: '20,20'
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -92,7 +92,7 @@ produits:
       - /img/uploads/117p7c.jpg
     pid: P7
     poids: 174
-    prix: '15,50'
+    prix: '20,20'
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -102,7 +102,7 @@ produits:
       - /img/uploads/117p8c.jpg
     pid: P8
     poids: 155
-    prix: '15,50'
+    prix: '20,20'
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -113,7 +113,7 @@ produits:
       - /img/uploads/117p9c.jpg
     pid: P9
     poids: 175
-    prix: '15,00'
+    prix: '19,50'
     type: Plaquette
 ---
 
