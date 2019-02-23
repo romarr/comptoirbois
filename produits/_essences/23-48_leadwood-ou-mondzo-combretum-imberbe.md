@@ -28,5 +28,15 @@ produits:
     poids: 160
     prix: '20,80'
     type: Plaquette
+  - description: >-
+      très belles plaquettes longues et sans défaut calibrées à la JET 22/44
+      grain 80 - forte densité 1,14
+    dimensions: '305 x 38,5/39,5 x 5,6 - 6,2 mm'
+    photos:
+      - /img/uploads/139p2c.jpg
+    pid: P2
+    poids: 160
+    prix: '20,80'
+    type: Plaquette
 ---
 
