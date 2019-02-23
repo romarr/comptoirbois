@@ -64,5 +64,56 @@ produits:
     poids: 167
     prix: '15,00'
     type: Plaquette
+  - description: >-
+      très belles et longues plaquettes sans défaut calibrées à la JET 22/44
+      grain 80 - densité 1,13
+    dimensions: '284/288 x 40/40,5 x 7 - 7,1 mm'
+    photos:
+      - /img/uploads/117p5c.jpg
+    pid: P5
+    poids: 182
+    prix: '15,50'
+    type: Plaquette
+  - description: >-
+      très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
+      présence d'une petite fissure en bout sur 1 plaquette - densité 1,08
+    dimensions: '287/291 x 40/40,5 x 7,2 mm'
+    photos:
+      - /img/uploads/117p6c.jpg
+    pid: P6
+    poids: 179
+    prix: '15,50'
+    type: Plaquette
+  - description: >-
+      très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
+      présence d'une petite fissure en bout sur 1 plaquette - densité 1,05
+    dimensions: '290/293 x 40/40,5 x 7,1 mm'
+    photos:
+      - /img/uploads/117p7c.jpg
+    pid: P7
+    poids: 174
+    prix: '15,50'
+    type: Plaquette
+  - description: >-
+      très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
+      présence d'une petite fissure en bout sur 1 plaquette - densité 1,02
+    dimensions: '293/295 x 40/40,5 x 6,4 - 6,5 mm'
+    photos:
+      - /img/uploads/117p8c.jpg
+    pid: P8
+    poids: 155
+    prix: '15,50'
+    type: Plaquette
+  - description: >-
+      très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
+      présence d'une petite fissure en bout sur 1 plaquette et d'un petit éclat
+      en angle sur l'autre - densité 1,01
+    dimensions: '295/297 x 40 x 7,3 mm'
+    photos:
+      - /img/uploads/117p9c.jpg
+    pid: P9
+    poids: 175
+    prix: '15,00'
+    type: Plaquette
 ---
 
