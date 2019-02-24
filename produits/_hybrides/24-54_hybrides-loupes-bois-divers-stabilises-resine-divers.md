@@ -139,5 +139,16 @@ produits:
     poids: 53
     prix: '27,50'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine bleue - plaquettes
+      calibrées à la JET 22/44 grain 80 - application d'un film de finishing oil
+      sur faces bookmatched - forte densité 1,08
+    dimensions: '133,5/134 x 39/40 x 6,1 - 6,2 mm'
+    photos:
+      - /img/uploads/131p11c.jpg
+    pid: P11
+    poids: 70
+    prix: '33,60'
+    type: Plaquette
 ---
 
