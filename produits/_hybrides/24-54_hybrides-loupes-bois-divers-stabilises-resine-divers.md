@@ -116,5 +116,17 @@ produits:
     poids: 54
     prix: '28,60'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée vert + résine verte&marron -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - présence d'un petit trou dans la
+      résine - densité 1,02
+    dimensions: '144/145 x 34,5 x 5,7 mm'
+    photos:
+      - /img/uploads/131p9c.jpg
+    pid: P9
+    poids: 58
+    prix: '27,50'
+    type: Plaquette
 ---
 
