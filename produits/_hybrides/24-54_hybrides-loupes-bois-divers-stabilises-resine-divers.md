@@ -150,5 +150,16 @@ produits:
     poids: 70
     prix: '33,60'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe d'amboine&olivier ondé stabilisée naturel + résine
+      noire - plaquettes calibrées à la JET 22/44 grain 80 - application d'un
+      film de finishing oil sur faces bookmatched - densité 1
+    dimensions: '159/160 x 34/35 x 4,9 - 5,1 mm'
+    photos:
+      - /img/uploads/131p13c.jpg
+    pid: P13
+    poids: 55
+    prix: '28,60'
+    type: Plaquette
 ---
 
