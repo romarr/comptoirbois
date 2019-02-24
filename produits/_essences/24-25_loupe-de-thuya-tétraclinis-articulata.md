@@ -49,5 +49,16 @@ produits:
     poids: 485
     prix: '29,70'
     type: Bloc
+  - description: >-
+      très belle planchette avec quelques petits noeuds, calibrée à la JET 22/44
+      grain 80 - forte densité 1,07
+    dimensions: '195/267/237 x 315/334 x 7,8 mm'
+    photos:
+      - /img/uploads/121p1c.jpg
+      - /img/uploads/121p1bisc.jpg
+    pid: P1
+    poids: 629
+    prix: '65,00'
+    type: Plaquette
 ---
 
