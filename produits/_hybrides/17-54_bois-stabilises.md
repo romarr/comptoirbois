@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BOIS STABILISES
+title: BOIS STABILISES - LOUPES DIVERSES MAJORITAIRES
 gid: '132'
 image: /img/uploads/p6c.jpg
 region: amériques
