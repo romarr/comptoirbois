@@ -36,5 +36,28 @@ produits:
     poids: 115
     prix: '37,60'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe de red mallee (Australie) + résine violette -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - 1 petit défaut milieu plaquette sans
+      incidence - forte densité 1,10
+    dimensions: '161 x 41/45 x 6,8 - 7,1 mm'
+    photos:
+      - /img/uploads/131p2c.jpg
+    pid: P2
+    poids: 106
+    prix: '34,10'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe de red mallee (Australie) + résine noire - plaquettes
+      calibrées à la JET 22/44 grain 80 - application d'un film de finishing oil
+      sur faces bookmatched - forte densité 1,07
+    dimensions: '159/160 x 43 x 6,3 - 7,2'
+    photos:
+      - /img/uploads/131p3c.jpg
+    pid: P3
+    poids: 99
+    prix: '37,60'
+    type: Plaquette
 ---
 
