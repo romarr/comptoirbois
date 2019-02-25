@@ -31,7 +31,9 @@ produits:
     poids: 105
     prix: '9,10'
     type: Plaquette
-  - description: belle paire sans défaut calibrée à la JET 22/44 grain 80 - densité 1
+  - description: >-
+      belle paire sans défaut calibrée à la JET 22/44 grain 80 - densité 1 -
+      VENDU
     dimensions: '132 x 51 x 4,7 - 4,8 mm'
     photos:
       - /img/uploads/137p2.jpg
