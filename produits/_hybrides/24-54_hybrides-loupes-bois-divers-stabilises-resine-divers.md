@@ -539,5 +539,60 @@ produits:
     poids: 67
     prix: '24,60'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
+      feuilles d'or - plaquettes calibrées à la JET 22/44 grain 80 - application
+      d'un film de finishing oil sur faces bookmatched - forte densité 1,14
+    dimensions: '151/152,5 x 41/41,5 x 4 mm'
+    photos:
+      - /img/uploads/131p49c.jpg
+    pid: P48
+    poids: 57
+    prix: '31,20'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
+      feuilles d'or - plaquettes calibrées à la JET 22/44 grain 80 - application
+      d'un film de finishing oil sur faces bookmatched - forte densité 1,11
+    dimensions: '151,5/152,5 x 41/41,5 x 4,8 - 5,1 mm'
+    photos:
+      - /img/uploads/131p49c.jpg
+    pid: P49
+    poids: 70
+    prix: '31,20'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
+      feuilles d'or - plaquettes calibrées à la JET 22/44 grain 80 - application
+      d'un film de finishing oil sur faces bookmatched - forte densité 1,16
+    dimensions: '152/153 x 40,5/41 x 4,2 - 4,7 mm'
+    photos:
+      - /img/uploads/131p50c.jpg
+    pid: P50
+    poids: 64
+    prix: '31,20'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée vert + résine rouge&noire -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - forte densité 1,11
+    dimensions: '152,5 x 42/43 x 5,4 mm'
+    photos:
+      - /img/uploads/131p51c.jpg
+    pid: P51
+    poids: 78
+    prix: '35,60'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée vert + résine rouge&noire -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - forte densité 1,11
+    dimensions: '152/153 x 42/43 x 5,4 - 5,5 mm'
+    photos:
+      - /img/uploads/131p52c.jpg
+    pid: P52
+    poids: 79
+    prix: '35,60'
+    type: Plaquette
 ---
 
