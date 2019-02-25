@@ -495,5 +495,49 @@ produits:
     poids: 89
     prix: '34,30'
     type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - forte densité 1,11
+    dimensions: '127 x 42/43 x 5,7 - 5,8 mm'
+    photos:
+      - /img/uploads/131p44c.jpg
+    pid: P44
+    poids: 69
+    prix: '31,40'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - forte densité 1,10
+    dimensions: '127 x 42/43 x 5,8 mm'
+    photos:
+      - /img/uploads/131p45c.jpg
+    pid: P45
+    poids: 69
+    prix: '31,40'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine bleue - plaquettes
+      calibrées à la JET 22/44 grain 80 - application d'un film de finishing oil
+      sur faces bookmatched - forte densité 1,09
+    dimensions: '149 x 34/34,5 x 5,5 - 5,8 mm'
+    photos:
+      - /img/uploads/131p46c.jpg
+    pid: P46
+    poids: 63
+    prix: '24,60'
+    type: Plaquette
+  - description: >-
+      plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
+      plaquettes calibrées à la JET 22/44 grain 80 - application d'un film de
+      finishing oil sur faces bookmatched - forte densité 1,13
+    dimensions: '143,5/144 x 34,5/35 x 5,8 - 6,1 mm'
+    photos:
+      - /img/uploads/131p47c.jpg
+    pid: P47
+    poids: 67
+    prix: '24,60'
+    type: Plaquette
 ---
 
