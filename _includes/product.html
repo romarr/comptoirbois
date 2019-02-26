@@ -67,7 +67,7 @@
                             <td>{{produit.dimensions}}</td>
                             <td>{{produit.poids}}</td>
                             <td class="text-center">
-                                {%- if produit.prix -%}
+                                {%- if produit.prix != '' -%}
                                 <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood"
                                     data-item-id="{{page.gid}}{{produit.pid}}" data-item-name="{{page.title}}"
                                     data-item-price="{{produit.prix}}" data-item-weight="{{produit.poids}}"
