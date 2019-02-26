@@ -34,7 +34,7 @@ collections:
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
           - {label: "Poids", name: "poids", widget: "number"}
-          - {label: "Prix", name: "prix", widget: "string"}
+          - {label: "Prix", name: "prix", widget: "string", required: false}
 
   - name: "hybrides"
     label: "Hybrides"
@@ -63,4 +63,4 @@ collections:
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
           - {label: "Poids", name: "poids", widget: "number"}
-          - {label: "Prix", name: "prix", widget: "string"}
+          - {label: "Prix", name: "prix", widget: "string", required: false}
