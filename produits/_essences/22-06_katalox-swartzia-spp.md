@@ -39,7 +39,7 @@ produits:
       - /img/uploads/137p2.jpg
     pid: P2
     poids: 64
-    prix: '7,90'
+    prix: ''
     type: Plaquette
   - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,09'
     dimensions: '153 x 34,5 x 35 mm'
