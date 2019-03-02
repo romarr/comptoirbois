@@ -164,5 +164,85 @@ produits:
     poids: 136
     prix: 28
     type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,28
+    dimensions: '134,5 x 45 x 7,4 mm'
+    photos:
+      - /img/uploads/116p14c.jpg
+    pid: P14
+    poids: 115
+    prix: '34,30'
+    type: Plaquette
+  - description: >-
+      belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,28
+    dimensions: '134 x 45,5 x 7,3 mm'
+    photos:
+      - /img/uploads/116p15c.jpg
+    pid: P15
+    poids: 114
+    prix: '18,10'
+    type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,26
+    dimensions: '135 x 45 x 7,7 mm'
+    photos:
+      - /img/uploads/116p16c.jpg
+    pid: P16
+    poids: 118
+    prix: '32,50'
+    type: Plaquette
+  - description: >-
+      belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,28
+    dimensions: '133/134 x 45 x 7,6 mm'
+    photos:
+      - /img/uploads/116p17c.jpg
+    pid: P17
+    poids: 117
+    prix: '25,50'
+    type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,32
+    dimensions: '133,5 x 44 x 6,9 mm'
+    photos:
+      - /img/uploads/116p18c.jpg
+    pid: P18
+    poids: 107
+    prix: '27,60'
+    type: Plaquette
+  - description: >-
+      belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,31
+    dimensions: '134,5 x 44 x 7,7'
+    photos:
+      - /img/uploads/116p19c.jpg
+    pid: P19
+    poids: 119
+    prix: '20,40'
+    type: Plaquette
+  - description: >-
+      belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,22
+    dimensions: '132/133 x 40/43 x 8,8 mm'
+    photos:
+      - /img/uploads/116p20c.jpg
+    pid: P20
+    poids: 118
+    prix: '21,60'
+    type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,29
+    dimensions: '134,5 x 44 x 8,8 - 9 mm'
+    photos:
+      - /img/uploads/116p21c.jpg
+    pid: P21
+    poids: 136
+    prix: '28,80'
+    type: Plaquette
 ---
 
