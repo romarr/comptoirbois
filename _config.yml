@@ -41,6 +41,13 @@ defaults:
 sass:
   sass_dir: css
   style: compressed
+
+manifest_name: Le comptoir des bois du 83
+manifest_short_name: Comptoir83 # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: fr
+manifest_background_color: white
+manifest_display: standalone
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
