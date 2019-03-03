@@ -26,7 +26,7 @@ produits:
       - /img/uploads/116b1bisc.jpg
     pid: B1
     poids: 249
-    prix: 25
+    prix: '25'
     type: Bloc
   - description: 'petit quillon sans défaut - densité 1,30'
     dimensions: 133 x 29 x 41/43 mm
@@ -35,7 +35,7 @@ produits:
       - /img/uploads/116b2bisc.jpg
     pid: B2
     poids: 210
-    prix: 22
+    prix: '22'
     type: Bloc
   - description: 'petit quillon sans défaut - densité 1,29'
     dimensions: 132 x 31 x 43 mm
@@ -44,7 +44,7 @@ produits:
       - /img/uploads/116b3bisc.jpg
     pid: B3
     poids: 227
-    prix: 22
+    prix: '22'
     type: Bloc
   - description: 'belle paire de plaquettes loupées sans défaut - densité 1,28'
     dimensions: '133,5 x 44/44,5 x 7,4 - 7,5 mm'
@@ -52,7 +52,7 @@ produits:
       - /img/uploads/116p1c.jpg
     pid: P1
     poids: 113
-    prix: 17
+    prix: '17'
     type: Plaquette
   - description: 'belle paire de plaquettes sans défaut - densité 1,30'
     dimensions: '134 x 44,5 x 7,8 - 7,9 mm'
@@ -60,7 +60,7 @@ produits:
       - /img/uploads/116p2c.jpg
     pid: P2
     poids: 122
-    prix: 24
+    prix: '24'
     type: Plaquette
   - description: 'belle paire de plaquettes sans défaut - densité 1,27'
     dimensions: '134 x 45 x 7,8 - 7,9 mm'
@@ -68,7 +68,7 @@ produits:
       - /img/uploads/116p3c.jpg
     pid: P3
     poids: 120
-    prix: 19
+    prix: '19'
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched,
@@ -78,7 +78,7 @@ produits:
       - /img/uploads/116p4c.jpg
     pid: P4
     poids: 109
-    prix: 21
+    prix: '21'
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched -
@@ -88,7 +88,7 @@ produits:
       - /img/uploads/116p5c.jpg
     pid: P5
     poids: 114
-    prix: 20
+    prix: '20'
     type: Plaquette
   - description: >-
       belle paire de plaquettes loupées calibrées au grain 120 faces bookmatched
@@ -98,7 +98,7 @@ produits:
       - /img/uploads/116p6c.jpg
     pid: P6
     poids: 113
-    prix: 22
+    prix: '22'
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched,
@@ -109,7 +109,7 @@ produits:
       - /img/uploads/116p7c.jpg
     pid: P7
     poids: 119
-    prix: 21
+    prix: '21'
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched, sans
@@ -119,7 +119,7 @@ produits:
       - /img/uploads/116p8c.jpg
     pid: P8
     poids: 138
-    prix: 21
+    prix: '21'
     type: Plaquette
   - description: >-
       magnifique paire de plaquettes loupées calibrées au grain 120 faces
@@ -129,7 +129,7 @@ produits:
       - /img/uploads/116p9c.jpg
     pid: P9
     poids: 134
-    prix: 32
+    prix: '32'
     type: Plaquette
   - description: >-
       magnifique paire de plaquettes loupées calibrées au grain 120 faces
@@ -140,7 +140,7 @@ produits:
       - /img/uploads/116p11c.jpg
     pid: P11
     poids: 115
-    prix: 32
+    prix: '32'
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched,
@@ -151,7 +151,7 @@ produits:
       - /img/uploads/116p12c.jpg
     pid: P12
     poids: 116
-    prix: 27
+    prix: '27'
     type: Plaquette
   - description: >-
       magnifique paire de plaquettes loupées calibrées au grain 120 faces
@@ -162,7 +162,7 @@ produits:
       - /img/uploads/116p13c.jpg
     pid: P13
     poids: 136
-    prix: 28
+    prix: '28'
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
@@ -232,7 +232,7 @@ produits:
       - /img/uploads/116p20c.jpg
     pid: P20
     poids: 118
-    prix: '21,60'
+    prix: '21.60'
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
