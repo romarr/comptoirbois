@@ -23,7 +23,7 @@ produits:
       - /img/uploads/131p12c.jpg
     pid: P12
     poids: 114
-    prix: '39,90'
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe de red mallee (Australie) + résine blanche&noire -
@@ -537,7 +537,7 @@ produits:
       - /img/uploads/131p47c.jpg
     pid: P47
     poids: 67
-    prix: '24,60'
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
@@ -548,7 +548,7 @@ produits:
       - /img/uploads/131p49c.jpg
     pid: P48
     poids: 57
-    prix: '31,20'
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
@@ -559,7 +559,7 @@ produits:
       - /img/uploads/131p49c.jpg
     pid: P49
     poids: 70
-    prix: '31,20'
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine verte pailletée de
@@ -570,7 +570,7 @@ produits:
       - /img/uploads/131p50c.jpg
     pid: P50
     poids: 64
-    prix: '31,20'
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine rouge&noire -
