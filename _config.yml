@@ -3,7 +3,7 @@ title: Le comptoir des bois du 83
 subtitle: Bois de coutellerie, tournage et bijouterie.
 email: admin@bois.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Bois de coutellerie, tournage & bijouterie en plaquettes, quillons & carrelets.  
+  Vente de bois de coutellerie, tournage & bijouterie en plaquettes, quillons & carrelets.  
   Bois bruts, stabilisés, hybrides et créations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lecomptoirdesboisdu83.fr" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,6 +30,7 @@ collections:
   hybrides:
     output: true
     permalink: /hybrides/:title
+  creations:
 
 defaults:
   -

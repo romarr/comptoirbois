@@ -65,6 +65,32 @@ collections:
           - {label: "Poids", name: "poids", widget: "number"}
           - {label: "Prix", name: "prix", widget: "string", required: false}
 
+  - name: "creations"
+    label: "Créations"
+    folder: "produits/_creations"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "string", default: "post"}
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "pid", widget: "string"}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "Poids", name: "poids", widget: "number"}
+      - {label: "Prix", name: "prix", widget: "string", required: false}
+      - {label: "Photos", name: "photos", widget: "list", field: {label: Photo, name: photo, widget: image}}
+      - {label: "Description", name: "description", widget: "text"}
+
+  - name: "tutos"
+    label: "Tutos"
+    folder: "produits/_posts"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "string", default: "post"}
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+
   - label: "Global"
     name: "global"
     files:

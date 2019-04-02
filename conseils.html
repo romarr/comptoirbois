@@ -1,38 +1,31 @@
 ---
 layout: default
-title: Conseils et tutos
-place: services
+title: Conseils
+subtitle: Astuces et tutos
+place: menu
+pos: 12
 img: default.jpg
 ---
 
 <div class="col-8">
-    {%- for post in site.posts -%}
-    <div class="row border">
-        <div class="col-12">
-            <h4 class="text-wood">{{ post.title }}</h4>
-        </div>
-        <div class="col-4">
-            <img class="img-fluid" src="http://placehold.it/300x300">
-        </div>
-        <div class="col-8">
-            <span class="badge badge-info">{{post.type | capitalize}}</span>
-            <span class="badge badge-secondary">{{post.date | date: "%d %b, %Y"}}</span>
-            <span class="badge badge-secondary">{{post.tags | join: ", "}}</span>
-        </div>
-    </div>
-    {%- endfor -%}
-</div>
+    {% for post in site.posts  %}
+    <article>
 
+        <h3 class="text-center text-wood">
+            {{ post.title }}
+        </h3>
+        <div class="row">
 
-<div class="col-4">
-<h4 class="text-wood">Derniers tutos</h4>
-{%- assign tutos = site.posts | where: "type", "tuto" -%}
-{%- for post in tutos -%}
-{{ post.title }}
-{%- endfor -%}
-<h4 class="text-wood">Derniers articles</h4>
-{%- assign tutos = site.posts | where: "type", "article" -%}
-{%- for post in tutos -%}
-{{ post.title }}
-{%- endfor -%}
+            <div class="col-md-12">
+                <h6 class="text-center"><span class="badge badge-info">{{post.type | capitalize}}</span>
+                <small><span><i class="fas fa-tags"></i> {{post.tags | join: ', '}}</span></small></h6>
+                <p class="text-justify">{{ post.content }}</p>
+            </div>
+
+        </div>
+
+    </article>
+    <hr>
+    {% endfor %}
+
 </div>

@@ -7,7 +7,7 @@ pos: 12
 img: default.jpg
 ---
 
-<div markdown="1" class="col-8 offset-2 text-justify">
+<div markdown="1" class="col-8 text-justify">
 
 ### Définitions  
 
