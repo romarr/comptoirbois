@@ -214,5 +214,25 @@ produits:
     poids: '154'
     prix: '21.20'
     type: Bloc
+  - description: >-
+      très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
+      densité 0,90
+    dimensions: '440 x 39,5/40 x 8,2 mm'
+    photos:
+      - /img/uploads/100p5c.jpg
+    pid: P5
+    poids: 259
+    prix: '42,80'
+    type: Plaquette
+  - description: >-
+      très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
+      densité 0,90
+    dimensions: '440 x 39/40 x 6,3 - 6,4 mm'
+    photos:
+      - /img/uploads/100p6c.jpg
+    pid: P6
+    poids: 198
+    prix: '36,90'
+    type: Plaquette
 ---
 
