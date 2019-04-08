@@ -5,7 +5,7 @@ place: conditions
 img: default.jpg
 ---
 
-<div markdown="1" class="col-8 offset-2">
+<div markdown="1" class="col-8">
 <h4>Mentions légales</h4>
 
 ##### Identité

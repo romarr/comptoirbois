@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Cookies
+subtitle: Informations sur la vie privée
 place: conditions
+img: default.jpg
 ---
 
-<div markdown="1" class="col-8 offset-2">
+<div markdown="1" class="col-8">
 
 ### Données
 
