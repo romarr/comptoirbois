@@ -351,7 +351,7 @@ produits:
       - /img/uploads/116p32c.jpg
     pid: P32
     poids: 134
-    prix: '22,90'
+    prix: '27,90'
     type: Plaquette
   - description: >-
       très belle paire ondée sans défaut calibré à la JET 22/44 grain 100, faces
