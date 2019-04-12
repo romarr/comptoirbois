@@ -323,5 +323,76 @@ produits:
     poids: 127
     prix: '42,90'
     type: Plaquette
+  - description: >-
+      belle paire partiellement loupée sans défaut calibré à la JET 22/44 grain
+      100, faces bookmatched finies au grain 120 - densité 1,26
+    dimensions: '132 x 43,5 x 9,1 mm'
+    photos:
+      - /img/uploads/116p30c.jpg
+    pid: P30
+    poids: 131
+    prix: '25,30'
+    type: Plaquette
+  - description: >-
+      très belle paire partiellement ondée sans défaut calibré à la JET 22/44
+      grain 100, faces bookmatched finies au grain 120 - densité 1,30
+    dimensions: '133 x 44 x 8,8 mm'
+    photos:
+      - /img/uploads/116p31c.jpg
+    pid: P31
+    poids: 134
+    prix: '36,50'
+    type: Plaquette
+  - description: >-
+      très belle paire ondée sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,25
+    dimensions: '130/131 x 45 x 9,2 mm'
+    photos:
+      - /img/uploads/116p32c.jpg
+    pid: P32
+    poids: 134
+    prix: '22,90'
+    type: Plaquette
+  - description: >-
+      très belle paire ondée sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,29
+    dimensions: '130/131 x 44/45 x 9,2 mm'
+    photos:
+      - /img/uploads/116p33c.jpg
+    pid: P33
+    poids: 138
+    prix: '29,70'
+    type: Plaquette
+  - description: >-
+      très belle paire de loupe calibrée à la JET 22/44 grain 100 - présence de
+      petits trous de loupe sans incidence majeure - faces bookmatched finies au
+      grain 120 - densité 1,27
+    dimensions: '135 x 44,5/45 x 8,5 - 8,9 mm'
+    photos:
+      - /img/uploads/116p34c.jpg
+    pid: P34
+    poids: 133
+    prix: '29,60'
+    type: Plaquette
+  - description: >-
+      très belle paire ondée sans défaut calibré à la JET 22/44 grain 100, faces
+      bookmatched finies au grain 120 - densité 1,27
+    dimensions: '135 x 43/44 x 9,2 mm'
+    photos:
+      - /img/uploads/116p35c.jpg
+    pid: P35
+    poids: 138
+    prix: '22,40'
+    type: Plaquette
+  - description: >-
+      très belle paire de loupe sans défaut calibrée à la JET 22/44 grain 100,
+      faces bookmatched finies au grain 120 - densité 1,31
+    dimensions: '133 x 51 x 9,4 mm'
+    photos:
+      - /img/uploads/116p36c.jpg
+    pid: P36
+    poids: 167
+    prix: '32,60'
+    type: Plaquette
 ---
 
