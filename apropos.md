@@ -3,7 +3,7 @@ layout: default
 title: A propos
 subtitle: Informations & définitions
 place: menu
-pos: 12
+pos: 14
 img: default.jpg
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Créations
-subtitle: Réalisations en bois
+title: Prestations
+subtitle: Prestations supplémentaires
 img: bg-ban.jpg
 place: menu
-pos: 10
+pos: 11
 shop: true
 ---
 
@@ -23,24 +23,6 @@ shop: true
     </div>
 
     <h4 class="text-darkwood">Filtres</h4>
-      {%- assign types = site.creations | map: 'type' | uniq -%}
-      <p class="mb-0 mt-3 text-wood"><strong>Type</strong></p>
-      {% for item in types %}
-      <!-- Affichage des carac. par attr. sauf si vide dans frontmatter -->
-      {% unless item == nil %}
-      <div class="custom-control custom-checkbox">
-          <input type="checkbox" class="custom-control-input filtr-input"
-          name="filterType" id="checkType{{item | slugify}}"
-          data-jplist-control="checkbox-text-filter"
-          data-path=".type"
-          data-id="idType"
-          data-group="group1"
-          data-name=filterType
-          value="{{item | slugify}}">
-          <label class="custom-control-label" for="checkType{{item | slugify}}">{{item | capitalize}}</label>
-      </div>
-      {% endunless %}
-      {% endfor %}
       <!-- Tri par champ de texte -->
       <p class="mb-0 mt-3 text-wood"><strong>Recherche</strong></p>
       <input class="form-control"
@@ -50,7 +32,7 @@ shop: true
       data-path=".title"
       type="text"
       value=""
-      placeholder="ex. 'Statuette'"
+      placeholder="ex. 'Découpe'"
       />
       {%- if site.data.statuts.promo == true -%}
       <div class="card text-white bg-primary mt-3">
@@ -66,7 +48,7 @@ shop: true
 <div class="col">
   <div class="col-md-12 col-lg-4">
       <!-- Définition du bloc jplist à trier -->
-      <h5 class="text-darkwood">Créations - <small>
+      <h5 class="text-darkwood">Prestations - <small>
           <span
           data-jplist-control="counter"
           data-group="group1"
@@ -92,53 +74,47 @@ shop: true
       </div>
     </div>
     {%- endif -%}
-  {%- for item in site.creations -%}
+  {%- for item in site.prestations -%}
   <div class="col-md-12 col-lg-6 px-1" data-jplist-item>
   <div style="display: none">
   <span class="title">{{item.title}}</span>
-  <span class="region">{{item.region | slugify}}</span>
-  <span class="veines">{{item.veines | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
-  <span class="couleur">{{item.couleur | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
-  <span class="rarete">{{item.rarete | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
   <span class="type">{{item.produits | map: 'type' | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ', '}}</span>
 
   </div>
   <div class="card mb-3 bg-light border-light">
     <div class="row">
-      <div class="col-sm-5 col-xs-12 mr-0 pr-0">
-        <a href="#" data-toggle="modal" data-target="#modal{{forloop.index}}"><img class="img-produit img-fluid lazy"
-          src="/img/lazy.gif" data-src="{{item.photos.first}}"></a>
+      <div class="col-3 mr-0 pr-0 text-center">
+        <i class="fas fa-3x fa-toolbox"></i>
+        {%- if item.prix != '' -%}
+        <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood" data-item-id="{{item.pid}}"
+          data-item-name="{{page.title}}" data-item-price="{{item.prix}}" 
+          data-item-url="{{page.url}}" 
+          data-item-description="{{item.type}} - {{item.description | truncate: 50}}">
+          <i class="fas fa-cart-plus"></i> {{ item.prix }} €
+        </button>
+        {%- else -%}
+        <style>
+          .fa-stack {
+            font-size: 0.5em;
+          }
+        
+          i {
+            vertical-align: middle;
+          }
+        </style>
+        <button type="button" class="btn btn-sm btn-secondary bg-wood" disabled>
+          <span class="fa-stack">
+            <i class="fas fa-ban fa-stack-2x"></i>
+            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+          </span>
+          Vendu</button>
+        {%- endif -%}
       </div>
       <div class="col ml-0 pl-0">
         <div class="card-body card-h py-2">
           <h6>{{ item.title | capitalize }}</h6>
-          <p class="card-text py-0 my-0"><small><i class="fas fa-tag"></i> {{item.type}}</small></p>
           <hr class="py-1 my-1">
           <p class="card-text">{{ item.description }}</p>
-        </div>
-        <div class="row text-center">
-            <div class="col">
-              {%- if item.prix != '' -%}
-              <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood"
-                  data-item-id="{{item.pid}}" data-item-name="{{page.title}}"
-                  data-item-price="{{item.prix}}" data-item-weight="{{item.poids}}"
-                  data-item-url="{{page.url}}" data-item-max-quantity=1
-                  data-item-description="{{item.type}} - {{item.description | truncate: 50}}">
-                  <i class="fas fa-cart-plus"></i> {{ item.prix }} €
-              </button>
-              {%- else -%}
-              <style>
-                  .fa-stack { font-size: 0.5em; }
-                  i { vertical-align: middle; }
-              </style>
-              <button type="button" class="btn btn-sm btn-secondary bg-wood" disabled>
-                      <span class="fa-stack">
-                              <i class="fas fa-ban fa-stack-2x"></i>
-                              <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                            </span>
-              Vendu</button>
-              {%- endif -%}
-          </div>
         </div>
       </div>
     </div>

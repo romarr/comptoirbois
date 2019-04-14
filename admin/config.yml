@@ -92,6 +92,18 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Texte", name: "body", widget: "markdown"}
 
+  - name: "prestations"
+    label: "Prestations"
+    folder: "produits/_prestations"
+    create: true
+    slug: "{{day}}-{{second}}_{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "string", default: "post"}
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "pid", widget: "string"}
+      - {label: "Prix", name: "prix", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "text"}
+
   - label: "Global"
     name: "global"
     files:
@@ -101,3 +113,5 @@ collections:
         fields:
           - {label: Absence, name: absence, widget: boolean, default: false }
           - {label: Message, name: message, widget: text }
+          - {label: Promo, name: promo, widget: boolean, default: false }
+          - {label: Message Promo, name: msgpromo, widget: text }

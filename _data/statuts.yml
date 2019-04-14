@@ -1,3 +1,4 @@
 absence: false
 message: |+
-
+promo: false
+msgpromo: "message"

@@ -75,7 +75,15 @@ shop: true
         value=""
         placeholder="ex. 'Abricotier'"
         />
-    </div>
+        {%- if site.data.statuts.promo == true -%}
+        <div class="card text-white bg-primary mt-3">
+          <div class="card-body px-2 py-1">
+            <h6 class="card-title mb-0 py-1">Réduction</h6>
+            <p class="card-text py-1">{{site.data.statuts.msgpromo}}</p>
+          </div>
+        </div>
+        {%-endif-%}
+    </div>    
 </div>
 <!--Colonne des produits -->
 <div class="col">
@@ -126,6 +134,16 @@ shop: true
         </div>
       </div>
   <div data-jplist-group="group1" class="row">
+      {%- if site.data.statuts.absence == true -%}
+      <div class="col-12 align-self-center">
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+          <strong>Absence: </strong> {{ site.data.statuts.message }}
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+      </div>
+      {%- endif -%}
     {%- for item in site.hybrides -%}
     <div class="col-md-12 col-lg-6 px-1" data-jplist-item>
     <div style="display: none">

@@ -75,6 +75,14 @@ shop: true
         value=""
         placeholder="ex. 'Abricotier'"
         />
+        {%- if site.data.statuts.promo == true -%}
+        <div class="card text-white bg-primary mt-3">
+          <div class="card-body px-2 py-1">
+            <h6 class="card-title mb-0 py-1">Réduction</h6>
+            <p class="card-text py-1">{{site.data.statuts.msgpromo}}</p>
+          </div>
+        </div>
+        {%-endif-%}
     </div>
 </div>
 <!--Colonne des produits -->
