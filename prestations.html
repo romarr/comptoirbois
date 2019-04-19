@@ -84,7 +84,7 @@ shop: true
   <div class="card mb-3 bg-light border-light">
     <div class="row">
       <div class="col-3 mr-0 pr-0 text-center">
-        <i class="fas fa-3x fa-toolbox"></i>
+        <a href="{{item.url}}"><i class="fas fa-3x fa-toolbox"></i></a>
         {%- if item.prix != '' -%}
         <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood" data-item-id="{{item.pid}}"
           data-item-name="{{page.title}}" data-item-price="{{item.prix}}" 
