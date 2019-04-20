@@ -288,5 +288,15 @@ produits:
     poids: 91
     prix: '31,50'
     type: Plaquette
+  - description: >-
+      très belle paire rare de plaquettes en camphrier ondé stabilisé naturel -
+      calibration grain 120 faces bookmatched - densité 1,07
+    dimensions: '140 x 42/43 x 7,4 mm'
+    photos:
+      - /img/uploads/132p27c.jpg
+    pid: P27
+    poids: 94
+    prix: '29,50'
+    type: Plaquette
 ---
 
