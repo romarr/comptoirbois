@@ -245,5 +245,16 @@ produits:
     poids: 81
     prix: '31,40'
     type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée vert - calibration grain
+      120 faces bookmatched - densité 1,06 - présence de micro-fissures sans
+      incidence
+    dimensions: '138/139 x 46/47 x 6,4 mm'
+    photos:
+      - /img/uploads/132p23c.jpg
+    pid: P23
+    poids: 87
+    prix: '27,50'
+    type: Plaquette
 ---
 
