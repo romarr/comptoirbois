@@ -256,5 +256,15 @@ produits:
     poids: 87
     prix: '27,50'
     type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe de sequoia stabilisée naturel - calibration
+      grain 120 faces bookmatched - densité 0,72
+    dimensions: '188/189 x 61/63 x 4,8 mm'
+    photos:
+      - /img/uploads/132p24c.jpg
+    pid: P24
+    poids: 82
+    prix: '29,70'
+    type: Plaquette
 ---
 
