@@ -266,5 +266,16 @@ produits:
     poids: 82
     prix: '29,70'
     type: Plaquette
+  - description: >-
+      paire rare de plaquettes en loupe partielle d'olivier de bohème stabilisée
+      naturel - calibration grain 120 faces bookmatched - densité 0,90 -
+      présence d'un petit défaut sur 1
+    dimensions: '154 x 42,5 x 5,8 mm'
+    photos:
+      - /img/uploads/132p25c.jpg
+    pid: P25
+    poids: 68
+    prix: '25,30'
+    type: Plaquette
 ---
 
