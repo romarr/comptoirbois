@@ -308,5 +308,15 @@ produits:
     poids: 98
     prix: '23,30'
     type: Plaquette
+  - description: >-
+      belle paire de plaquettes en wengé stabilisé naturel - calibration grain
+      120 faces bookmatched - forte densité 1,18
+    dimensions: '171 x 29 x 6,9'
+    photos:
+      - /img/uploads/132p29c.jpg
+    pid: P29
+    poids: 81
+    prix: '17,80'
+    type: Plaquette
 ---
 
