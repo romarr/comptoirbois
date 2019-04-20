@@ -50,5 +50,37 @@ produits:
     poids: '206'
     prix: '28.90'
     type: Bloc
+  - description: >-
+      très belles et grandes plaquettes bicolores calibrées grain 120 faces
+      bookmatched - présence d'un petit trou avec fissure sur celle du haut -
+      densité 1,07
+    dimensions: '196 x 55/56 x 7,1 mm'
+    photos:
+      - /img/uploads/108p1c.jpg
+    pid: P1
+    poids: 166
+    prix: '45,10'
+    type: Plaquette
+  - description: >-
+      très belles et grandes plaquettes bicolores calibrées grain 120 faces
+      bookmatched - présence de quelques micro-fissures sans incidence - forte
+      densité 1,13
+    dimensions: '196,5 x 55/56 x 7,2 mm'
+    photos:
+      - /img/uploads/108p2c.jpg
+    pid: P2
+    poids: 178
+    prix: '47,50'
+    type: Plaquette
+  - description: >-
+      très belles et grandes plaquettes bicolores calibrées grain 120 faces
+      bookmatched - présence d'une micro-fissure sur largeur - densité 1,13
+    dimensions: '196 x 55/56 x 7,3 mm'
+    photos:
+      - /img/uploads/108p3c.jpg
+    pid: P3
+    poids: 180
+    prix: '45,10'
+    type: Plaquette
 ---
 
