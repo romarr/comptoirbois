@@ -29,7 +29,7 @@ produits:
       - /img/uploads/136p1.jpg
     pid: P1
     poids: 183
-    prix: '14,80'
+    prix: '14.80'
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/136p2.jpg
     pid: P2
     poids: 185
-    prix: '14,80'
+    prix: '14.80'
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -49,7 +49,7 @@ produits:
       - /img/uploads/136p3.jpg
     pid: P3
     poids: 181
-    prix: '14,80'
+    prix: '14.80'
     type: Plaquette
 ---
 

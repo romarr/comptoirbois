@@ -26,7 +26,7 @@ produits:
       - /img/uploads/139p1c.jpg
     pid: P1
     poids: 160
-    prix: '20,80'
+    prix: '20.80'
     type: Plaquette
   - description: >-
       très belles plaquettes longues et sans défaut calibrées à la JET 22/44
@@ -36,7 +36,7 @@ produits:
       - /img/uploads/139p2c.jpg
     pid: P2
     poids: 160
-    prix: '20,80'
+    prix: '20.80'
     type: Plaquette
 ---
 

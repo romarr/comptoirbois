@@ -47,7 +47,7 @@ produits:
       - /img/uploads/121b1bisc.jpg
     pid: B1
     poids: 485
-    prix: '29,70'
+    prix: '29.70'
     type: Bloc
   - description: >-
       très belle planchette avec quelques petits noeuds, calibrée à la JET 22/44
@@ -58,7 +58,7 @@ produits:
       - /img/uploads/121p1bisc.jpg
     pid: P1
     poids: 629
-    prix: '65,00'
+    prix: '65.00'
     type: Plaquette
 ---
 

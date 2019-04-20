@@ -172,12 +172,7 @@ shop: true
           </div>
           <div class="row text-center">
               <div class="col-8">
-              {%- if item.produits -%}
-                {%- assign sorted_prod = item.produits | sort: 'prix' -%}
-                A partir de {{ sorted_prod.first.prix }}€
-              {% else %}
-                Rupture
-              {%- endif -%}
+
               </div>
               <div class="col">
                 <a href="{{item.url}}" class="btn-link bg-transparent border-0">

@@ -27,7 +27,7 @@ produits:
       - /img/uploads/133p1c.jpg
     pid: P1
     poids: 305
-    prix: '22,40'
+    prix: '22.40'
     type: Plaquette
   - description: >-
       belle planchette avec aubier aussi dur que le duramen, bois calibré à la
@@ -37,7 +37,7 @@ produits:
       - /img/uploads/133p2c.jpg
     pid: P2
     poids: 352
-    prix: '26,50'
+    prix: '26.50'
     type: Plaquette
   - description: >-
       belle planchette avec aubier aussi dur que le duramen, bois calibré à la

@@ -34,7 +34,7 @@ produits:
       - /img/uploads/131p1c.jpg
     pid: P1
     poids: 115
-    prix: '37,60'
+    prix: '37.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe de red mallee (Australie) + résine violette -
@@ -46,7 +46,7 @@ produits:
       - /img/uploads/131p2c.jpg
     pid: P2
     poids: 106
-    prix: '34,10'
+    prix: '34.10'
     type: Plaquette
   - description: >-
       plaquettes en loupe de red mallee (Australie) + résine noire - plaquettes
@@ -57,7 +57,7 @@ produits:
       - /img/uploads/131p3c.jpg
     pid: P3
     poids: 99
-    prix: '37,60'
+    prix: '37.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine grise&noire
@@ -69,7 +69,7 @@ produits:
       - /img/uploads/131p4c.jpg
     pid: P4
     poids: 82
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine grise&noire
@@ -81,7 +81,7 @@ produits:
       - /img/uploads/131p5c.jpg
     pid: P5
     poids: 85
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine verte&marron -
@@ -92,7 +92,7 @@ produits:
       - /img/uploads/131p6c.jpg
     pid: P6
     poids: 56
-    prix: '27,90'
+    prix: '27.90'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine verte&marron -
@@ -103,7 +103,7 @@ produits:
       - /img/uploads/131p7c.jpg
     pid: P7
     poids: 55
-    prix: '27,90'
+    prix: '27.90'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine verte&marron -
@@ -114,7 +114,7 @@ produits:
       - /img/uploads/131p8c.jpg
     pid: P8
     poids: 54
-    prix: '28,60'
+    prix: '28.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine verte&marron -
@@ -126,7 +126,7 @@ produits:
       - /img/uploads/131p9c.jpg
     pid: P9
     poids: 58
-    prix: '27,50'
+    prix: '27.50'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&violette -
@@ -137,7 +137,7 @@ produits:
       - /img/uploads/131p10c.jpg
     pid: P10
     poids: 53
-    prix: '27,50'
+    prix: '27.50'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue - plaquettes
@@ -148,7 +148,7 @@ produits:
       - /img/uploads/131p11c.jpg
     pid: P11
     poids: 70
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'amboine&olivier ondé stabilisée naturel + résine
@@ -159,7 +159,7 @@ produits:
       - /img/uploads/131p13c.jpg
     pid: P13
     poids: 55
-    prix: '28,60'
+    prix: '28.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine rouge&veines noires
@@ -170,7 +170,7 @@ produits:
       - /img/uploads/131p14c.jpg
     pid: P14
     poids: 82
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine rouge&veines noires
@@ -181,7 +181,7 @@ produits:
       - /img/uploads/131p15c.jpg
     pid: P15
     poids: 83
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine noire - plaquettes
@@ -193,7 +193,7 @@ produits:
       - /img/uploads/131p16c.jpg
     pid: P16
     poids: 97
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine noire - plaquettes
@@ -205,7 +205,7 @@ produits:
       - /img/uploads/131p17c.jpg
     pid: P17
     poids: 96
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine noire -
@@ -216,7 +216,7 @@ produits:
       - /img/uploads/131p18c.jpg
     pid: P18
     poids: 54
-    prix: '29,70'
+    prix: '29.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine noire -
@@ -239,7 +239,7 @@ produits:
       - /img/uploads/131p20c.jpg
     pid: P20
     poids: 81
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine
@@ -249,7 +249,7 @@ produits:
     dimensions: '138 x 55/57 x 5,5 mm'
     pid: P21
     poids: 79
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine
@@ -261,7 +261,7 @@ produits:
       - /img/uploads/131p22c.jpg
     pid: P22
     poids: 93
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine
@@ -271,7 +271,7 @@ produits:
     dimensions: '142/144 x 50 x 5,8 - 5,9 mm'
     pid: P23
     poids: 97
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine noire -
@@ -282,7 +282,7 @@ produits:
       - /img/uploads/131p24c.jpg
     pid: P24
     poids: 80
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel 1% + résine noire 99% -
@@ -293,7 +293,7 @@ produits:
       - /img/uploads/131p25c.jpg
     pid: P25
     poids: 80
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée bleu + résine violette&noire -
@@ -304,7 +304,7 @@ produits:
       - /img/uploads/131p26c.jpg
     pid: P26
     poids: 73
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée bleu + résine violette&noire -
@@ -326,7 +326,7 @@ produits:
       - /img/uploads/131p28c.jpg
     pid: P28
     poids: 60
-    prix: '25,71'
+    prix: '25.71'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée naturel + résine noire -
@@ -337,7 +337,7 @@ produits:
       - /img/uploads/131p29c.jpg
     pid: P29
     poids: 55
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -348,7 +348,7 @@ produits:
       - /img/uploads/131p30c.jpg
     pid: P30
     poids: 63
-    prix: '29,70'
+    prix: '29.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -359,7 +359,7 @@ produits:
       - /img/uploads/131p31c.jpg
     pid: P31
     poids: 62
-    prix: '29,70'
+    prix: '29.70'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'amboine + résine rouge - plaquettes calibrées à la
@@ -370,7 +370,7 @@ produits:
       - /img/uploads/131p32c.jpg
     pid: P32
     poids: 78
-    prix: '42,60'
+    prix: '42.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable + résine orange - plaquettes calibrées à la
@@ -381,7 +381,7 @@ produits:
       - /img/uploads/131p33c.jpg
     pid: P33
     poids: 53
-    prix: '23,50'
+    prix: '23.50'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable + résine violette&noire - plaquettes
@@ -392,7 +392,7 @@ produits:
       - /img/uploads/131p34c.jpg
     pid: P34
     poids: 44
-    prix: '23,50'
+    prix: '23.50'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -403,7 +403,7 @@ produits:
       - /img/uploads/131p35c.jpg
     pid: P35
     poids: 82
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -414,7 +414,7 @@ produits:
       - /img/uploads/131p36c.jpg
     pid: P36
     poids: 81
-    prix: '33,60'
+    prix: '33.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée marron + résine noire avec
@@ -426,7 +426,7 @@ produits:
       - /img/uploads/131p37c.jpg
     pid: P37
     poids: 69
-    prix: '29,00'
+    prix: '29.00'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée marron + résine noire avec
@@ -438,7 +438,7 @@ produits:
       - /img/uploads/131p38c.jpg
     pid: P38
     poids: 71
-    prix: '29,00'
+    prix: '29.00'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&violette -
@@ -449,7 +449,7 @@ produits:
       - /img/uploads/131p39c.jpg
     pid: P39
     poids: 63
-    prix: '28,60'
+    prix: '28.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée violet + résine noire - plaquettes
@@ -460,7 +460,7 @@ produits:
       - /img/uploads/131p40c.jpg
     pid: P40
     poids: 78
-    prix: '31,20'
+    prix: '31.20'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée violet + résine noire - plaquettes
@@ -471,7 +471,7 @@ produits:
       - /img/uploads/131p41c.jpg
     pid: P41
     poids: 79
-    prix: '31,20'
+    prix: '31.20'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine violette -
@@ -482,7 +482,7 @@ produits:
       - /img/uploads/131p42c.jpg
     pid: P42
     poids: 97
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine violette -
@@ -493,7 +493,7 @@ produits:
       - /img/uploads/131p43c.jpg
     pid: P43
     poids: 89
-    prix: '34,30'
+    prix: '34.30'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -504,7 +504,7 @@ produits:
       - /img/uploads/131p44c.jpg
     pid: P44
     poids: 69
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -515,7 +515,7 @@ produits:
       - /img/uploads/131p45c.jpg
     pid: P45
     poids: 69
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue - plaquettes
@@ -526,7 +526,7 @@ produits:
       - /img/uploads/131p46c.jpg
     pid: P46
     poids: 63
-    prix: '24,60'
+    prix: '24.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée noir + résine bleue&noire -
@@ -581,7 +581,7 @@ produits:
       - /img/uploads/131p51c.jpg
     pid: P51
     poids: 78
-    prix: '35,60'
+    prix: '35.60'
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine rouge&noire -
@@ -592,7 +592,7 @@ produits:
       - /img/uploads/131p52c.jpg
     pid: P52
     poids: 79
-    prix: '35,60'
+    prix: '35.60'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge + résine bleue -
@@ -602,7 +602,7 @@ produits:
       - /img/uploads/131p53c.jpg
     pid: P53
     poids: 125
-    prix: '35,80'
+    prix: '35.80'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rose + résine verte&jaune
@@ -612,7 +612,7 @@ produits:
       - /img/uploads/131p54c.jpg
     pid: P54
     poids: 111
-    prix: '35,80'
+    prix: '35.80'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge + résine noire -
@@ -622,7 +622,7 @@ produits:
       - /img/uploads/131p55c.jpg
     pid: P55
     poids: 92
-    prix: '33,90'
+    prix: '33.90'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert + résine bleue -
@@ -632,7 +632,7 @@ produits:
       - /img/uploads/131p56c.jpg
     pid: P56
     poids: 70
-    prix: '32,60'
+    prix: '32.60'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rose + résine bleue -
@@ -642,7 +642,7 @@ produits:
       - /img/uploads/131p57c.jpg
     pid: P57
     poids: 66
-    prix: '32,60'
+    prix: '32.60'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée bleu + résine noire -
@@ -652,7 +652,7 @@ produits:
       - /img/uploads/131p58c.jpg
     pid: P58
     poids: 82
-    prix: '31,30'
+    prix: '31.30'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert + résine
@@ -663,7 +663,7 @@ produits:
       - /img/uploads/131p59c.jpg
     pid: P59
     poids: 82
-    prix: '29,70'
+    prix: '29.70'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert + résine
@@ -674,7 +674,7 @@ produits:
       - /img/uploads/131p60c.jpg
     pid: P60
     poids: 86
-    prix: '32,50'
+    prix: '32.50'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée naturel + résine
@@ -685,7 +685,7 @@ produits:
       - /img/uploads/131p61c.jpg
     pid: P61
     poids: 104
-    prix: '27,50'
+    prix: '27.50'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert + résine
@@ -696,7 +696,7 @@ produits:
       - /img/uploads/131p62c.jpg
     pid: P62
     poids: 100
-    prix: '41,50'
+    prix: '41.50'
     type: Plaquette
 ---
 

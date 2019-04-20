@@ -2,7 +2,7 @@
 layout: post
 title: Découpe de blocs en plaquettes&calibrage
 pid: PU1
-prix: '1,50'
+prix: '1.50'
 description: >-
   Suivant les desiderata du client, ce prix unitaire est complémentaire d'achat
   de blocs et comprend leur découpe en plaquettes d'épaisseur finale après

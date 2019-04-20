@@ -26,7 +26,7 @@ produits:
       - /img/uploads/b1bisc.jpg
     pid: B1
     poids: 268
-    prix: 77
+    prix: '77'
     type: Bloc
   - description: 'grandes plaquettes d''ERABLE ONDE stabilisé bleu - forte densité 1,13'
     dimensions: '201 x 72 x 6,4 mm'
@@ -34,7 +34,7 @@ produits:
       - /img/uploads/p1c.jpg
     pid: P1
     poids: 209
-    prix: 45
+    prix: '45'
     type: Plaquette
   - description: 'magnifiques plaquettes de LOUPE D''AMBOINE stabilisée bleu - densité 1,08'
     dimensions: '143/144 x 48/49 x 6,2 - 6,3 mm'
@@ -42,7 +42,7 @@ produits:
       - /img/uploads/p2c.jpg
     pid: P2
     poids: 94
-    prix: 32
+    prix: '32'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées violet, 1
@@ -52,7 +52,7 @@ produits:
       - /img/uploads/p3c.jpg
     pid: P3
     poids: 145
-    prix: 42
+    prix: '42'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées naturel -
@@ -62,7 +62,7 @@ produits:
       - /img/uploads/p4c.jpg
     pid: P4
     poids: 93
-    prix: 37
+    prix: '37'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées violet
@@ -72,7 +72,7 @@ produits:
       - /img/uploads/p5c.jpg
     pid: P5
     poids: 110
-    prix: 50
+    prix: '50'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées turquoise
@@ -82,7 +82,7 @@ produits:
       - /img/uploads/p6c.jpg
     pid: P6
     poids: 156
-    prix: 48
+    prix: '48'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées vert -
@@ -92,7 +92,7 @@ produits:
       - /img/uploads/p7c.jpg
     pid: P7
     poids: 157
-    prix: 48
+    prix: '48'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées vert -
@@ -102,7 +102,7 @@ produits:
       - /img/uploads/p8c.jpg
     pid: P8
     poids: 155
-    prix: 48
+    prix: '48'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE NOYER CAUCASIEN stabilisées naturel -
@@ -112,7 +112,7 @@ produits:
       - /img/uploads/p9c.jpg
     pid: P9
     poids: 120
-    prix: 44
+    prix: '44'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées vert - origine : Europe de
@@ -122,7 +122,7 @@ produits:
       - /img/uploads/p10c.jpg
     pid: P10
     poids: 77
-    prix: 27
+    prix: '27'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées vert - origine : Europe de
@@ -132,7 +132,7 @@ produits:
       - /img/uploads/p11c.jpg
     pid: P11
     poids: 79
-    prix: 27
+    prix: '27'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées bleu - origine : Europe de
@@ -142,7 +142,7 @@ produits:
       - /img/uploads/p12c.jpg
     pid: P12
     poids: 80
-    prix: 27
+    prix: '27'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées bleu - origine : Europe de
@@ -152,7 +152,7 @@ produits:
       - /img/uploads/p13c.jpg
     pid: P13
     poids: 82
-    prix: 27
+    prix: '27'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées rouge - origine : Europe
@@ -162,7 +162,7 @@ produits:
       - /img/uploads/p14c.jpg
     pid: P14
     poids: 54
-    prix: 19
+    prix: '19'
     type: Plaquette
   - description: >-
       belles plaquettes de LOUPE D'ERABLE stabilisées rouge - origine : Europe
@@ -172,7 +172,7 @@ produits:
       - /img/uploads/p15c.jpg
     pid: P15
     poids: 52
-    prix: 19
+    prix: '19'
     type: Plaquette
   - description: >+
       paire de plaquettes en loupe d'érable stabilisée violet - calibration
@@ -183,7 +183,7 @@ produits:
       - /img/uploads/132p16c.jpg
     pid: P16
     poids: 63
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée violet - calibration
@@ -193,7 +193,7 @@ produits:
       - /img/uploads/132p17c.jpg
     pid: P17
     poids: 64
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée bleu - calibration grain
@@ -203,7 +203,7 @@ produits:
       - /img/uploads/132p18c.jpg
     pid: P18
     poids: 91
-    prix: '27,90'
+    prix: '27.90'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge - calibration grain
@@ -213,7 +213,7 @@ produits:
       - /img/uploads/132p19c.jpg
     pid: P19
     poids: 65
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge - calibration grain
@@ -223,7 +223,7 @@ produits:
       - /img/uploads/132p20c.jpg
     pid: P20
     poids: 89
-    prix: '26,80'
+    prix: '26.80'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée violet - calibration
@@ -233,7 +233,7 @@ produits:
       - /img/uploads/132p21c.jpg
     pid: P21
     poids: 78
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée bleu&gris - calibration
@@ -243,7 +243,7 @@ produits:
       - /img/uploads/132p22c.jpg
     pid: P22
     poids: 81
-    prix: '31,40'
+    prix: '31.40'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert - calibration grain
@@ -254,7 +254,7 @@ produits:
       - /img/uploads/132p23c.jpg
     pid: P23
     poids: 87
-    prix: '27,50'
+    prix: '27.50'
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe de sequoia stabilisée naturel - calibration
@@ -264,7 +264,7 @@ produits:
       - /img/uploads/132p24c.jpg
     pid: P24
     poids: 82
-    prix: '29,70'
+    prix: '29.70'
     type: Plaquette
   - description: >-
       paire rare de plaquettes en loupe partielle d'olivier de bohème stabilisée
@@ -275,7 +275,7 @@ produits:
       - /img/uploads/132p25c.jpg
     pid: P25
     poids: 68
-    prix: '25,30'
+    prix: '25.30'
     type: Plaquette
   - description: >-
       très belle paire rare de plaquettes en camphrier ondé stabilisé naturel +
@@ -286,7 +286,7 @@ produits:
       - /img/uploads/132p26c.jpg
     pid: P26
     poids: 91
-    prix: '31,50'
+    prix: '31.50'
     type: Plaquette
   - description: >-
       très belle paire rare de plaquettes en camphrier ondé stabilisé naturel -
@@ -296,7 +296,7 @@ produits:
       - /img/uploads/132p27c.jpg
     pid: P27
     poids: 94
-    prix: '29,50'
+    prix: '29.50'
     type: Plaquette
   - description: >-
       belle paire rare de plaquettes en arbousier stabilisé naturel -
@@ -306,7 +306,7 @@ produits:
       - /img/uploads/132p28c.jpg
     pid: P28
     poids: 98
-    prix: '23,30'
+    prix: '23.30'
     type: Plaquette
   - description: >-
       belle paire de plaquettes en wengé stabilisé naturel - calibration grain
@@ -316,7 +316,7 @@ produits:
       - /img/uploads/132p29c.jpg
     pid: P29
     poids: 81
-    prix: '17,80'
+    prix: '17.80'
     type: Plaquette
   - description: >-
       belle paire de plaquettes en hêtre échauffé stabilisé naturel -
@@ -327,7 +327,7 @@ produits:
       - /img/uploads/132p30c.jpg
     pid: P30
     poids: 73
-    prix: '23,50'
+    prix: '23.50'
     type: Plaquette
   - description: >-
       belle paire de plaquettes en hêtre échauffé stabilisé naturel -
@@ -338,7 +338,7 @@ produits:
       - /img/uploads/132p31c.jpg
     pid: P31
     poids: 75
-    prix: '23,50'
+    prix: '23.50'
     type: Plaquette
   - description: >-
       paire de plaquettes en chêne échauffé stabilisé naturel- calibration grain
@@ -348,7 +348,7 @@ produits:
       - /img/uploads/132p32c.jpg
     pid: P32
     poids: 110
-    prix: '25,70'
+    prix: '25.70'
     type: Plaquette
 ---
 

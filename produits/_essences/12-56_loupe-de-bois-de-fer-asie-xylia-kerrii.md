@@ -59,7 +59,7 @@ produits:
       - /img/uploads/108p1c.jpg
     pid: P1
     poids: 166
-    prix: '45,10'
+    prix: '45.10'
     type: Plaquette
   - description: >-
       très belles et grandes plaquettes bicolores calibrées grain 120 faces
@@ -70,7 +70,7 @@ produits:
       - /img/uploads/108p2c.jpg
     pid: P2
     poids: 178
-    prix: '47,50'
+    prix: '47.50'
     type: Plaquette
   - description: >-
       très belles et grandes plaquettes bicolores calibrées grain 120 faces
@@ -80,7 +80,7 @@ produits:
       - /img/uploads/108p3c.jpg
     pid: P3
     poids: 180
-    prix: '45,10'
+    prix: '45.10'
     type: Plaquette
 ---
 

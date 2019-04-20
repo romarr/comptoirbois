@@ -222,7 +222,7 @@ produits:
       - /img/uploads/100p5c.jpg
     pid: P5
     poids: 259
-    prix: '42,80'
+    prix: '42.80'
     type: Plaquette
   - description: >-
       très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
@@ -232,7 +232,7 @@ produits:
       - /img/uploads/100p6c.jpg
     pid: P6
     poids: 198
-    prix: '36,90'
+    prix: '36.90'
     type: Plaquette
 ---
 

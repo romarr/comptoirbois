@@ -25,7 +25,7 @@ produits:
       - /img/uploads/140p1c.jpg
     pid: P1
     poids: 224
-    prix: '24,60'
+    prix: '24.60'
     type: Plaquette
 ---
 
