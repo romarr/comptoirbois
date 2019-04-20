@@ -277,5 +277,16 @@ produits:
     poids: 68
     prix: '25,30'
     type: Plaquette
+  - description: >-
+      très belle paire rare de plaquettes en camphrier ondé stabilisé naturel +
+      angles supérieurs traités en résine orange - calibration grain 120 faces
+      bookmatched - densité 0,97
+    dimensions: '139 x 45 x 7,5 mm'
+    photos:
+      - /img/uploads/132p26c.jpg
+    pid: P26
+    poids: 91
+    prix: '31,50'
+    type: Plaquette
 ---
 
