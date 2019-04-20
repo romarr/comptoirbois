@@ -298,5 +298,15 @@ produits:
     poids: 94
     prix: '29,50'
     type: Plaquette
+  - description: >-
+      belle paire rare de plaquettes en arbousier stabilisé naturel -
+      calibration grain 120 faces bookmatched - densité 0,97
+    dimensions: '152/154 x 42 x 7,8 - 7,9 mm'
+    photos:
+      - /img/uploads/132p28c.jpg
+    pid: P28
+    poids: 98
+    prix: '23,30'
+    type: Plaquette
 ---
 
