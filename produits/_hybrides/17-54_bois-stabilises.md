@@ -318,5 +318,37 @@ produits:
     poids: 81
     prix: '17,80'
     type: Plaquette
+  - description: >-
+      belle paire de plaquettes en hêtre échauffé stabilisé naturel -
+      calibration grain 120 faces bookmatched - forte densité 1,14 - présence de
+      2 petits trous en bas de plaquette
+    dimensions: '132/135 x 44/454 x 5,4 mm'
+    photos:
+      - /img/uploads/132p30c.jpg
+    pid: P30
+    poids: 73
+    prix: '23,50'
+    type: Plaquette
+  - description: >-
+      belle paire de plaquettes en hêtre échauffé stabilisé naturel -
+      calibration grain 120 faces bookmatched - forte densité 1,15 - présence de
+      3 petits trous en latéral de plaquette
+    dimensions: '135/136 x 44/45 x 5,4 mm'
+    photos:
+      - /img/uploads/132p31c.jpg
+    pid: P31
+    poids: 75
+    prix: '23,50'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en chêne échauffé stabilisé naturel- calibration grain
+      120 faces bookmatched - densité 0,90 
+    dimensions: '155 x 44/45 x 8,9 mm'
+    photos:
+      - /img/uploads/132p32c.jpg
+    pid: P32
+    poids: 110
+    prix: '25,70'
+    type: Plaquette
 ---
 
