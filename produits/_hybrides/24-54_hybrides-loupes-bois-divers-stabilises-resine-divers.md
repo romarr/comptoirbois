@@ -594,5 +594,109 @@ produits:
     poids: 79
     prix: '35,60'
     type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée rouge + résine bleue -
+      calibration grain 120 faces bookmatched - forte densité 1,21
+    dimensions: '139/141 x 52,5 x 6,9 - 7,1 mm'
+    photos:
+      - /img/uploads/131p53c.jpg
+    pid: P53
+    poids: 125
+    prix: '35,80'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée rose + résine verte&jaune
+      - calibration grain 120 faces bookmatched - forte densité 1,10
+    dimensions: '137/138 x 51,5 x 7,1 mm'
+    photos:
+      - /img/uploads/131p54c.jpg
+    pid: P54
+    poids: 111
+    prix: '35,80'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée rouge + résine noire -
+      calibration grain 120 faces bookmatched - forte densité 1,16
+    dimensions: '137 x 49 x 5,9 mm'
+    photos:
+      - /img/uploads/131p55c.jpg
+    pid: P55
+    poids: 92
+    prix: '33,90'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée vert + résine bleue -
+      calibration grain 120 faces bookmatched - forte densité 1,09
+    dimensions: '139 x 47 x 4,9 mm'
+    photos:
+      - /img/uploads/131p56c.jpg
+    pid: P56
+    poids: 70
+    prix: '32,60'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée rose + résine bleue -
+      calibration grain 120 faces bookmatched - forte densité 1,08
+    dimensions: '134/135 x 46/47 x 4,9 mm'
+    photos:
+      - /img/uploads/131p57c.jpg
+    pid: P57
+    poids: 66
+    prix: '32,60'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée bleu + résine noire -
+      calibration grain 120 faces bookmatched - forte densité 1,11
+    dimensions: '134/135 x 43,5 x 6,3 mm'
+    photos:
+      - /img/uploads/131p58c.jpg
+    pid: P58
+    poids: 82
+    prix: '31,30'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée vert + résine
+      bleue&vert&orange - calibration grain 120 faces bookmatched - forte
+      densité 1,17
+    dimensions: '137 x 40,5 x 6,2 - 6,4 mm'
+    photos:
+      - /img/uploads/131p59c.jpg
+    pid: P59
+    poids: 82
+    prix: '29,70'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée vert + résine
+      bleue&rouge&blanche + nid d'abeille alu - calibration grain 120 faces
+      bookmatched - forte densité 1,20
+    dimensions: '111/112 x 40,5 x 7,7 - 7,9 mm'
+    photos:
+      - /img/uploads/131p60c.jpg
+    pid: P60
+    poids: 86
+    prix: '32,50'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée naturel + résine
+      orange&rouge - calibration grain 120 faces bookmatched - forte densité
+      1,09
+    dimensions: '121 x 41/42 x 9,2 - 9,5 mm'
+    photos:
+      - /img/uploads/131p61c.jpg
+    pid: P61
+    poids: 104
+    prix: '27,50'
+    type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée vert + résine
+      bleue&rouge&blanche&noire + nid d'abeille alu - calibration grain 120
+      faces bookmatched - forte densité 1,07
+    dimensions: '136,5 x 47,5 x 6,8 - 7,6 mm'
+    photos:
+      - /img/uploads/131p62c.jpg
+    pid: P62
+    poids: 100
+    prix: '41,50'
+    type: Plaquette
 ---
 
