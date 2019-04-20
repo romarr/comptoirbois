@@ -174,5 +174,16 @@ produits:
     poids: 52
     prix: 19
     type: Plaquette
+  - description: >+
+      paire de plaquettes en loupe d'érable stabilisée violet - calibration
+      grain 120 faces bookmatched - densité 0,80
+
+    dimensions: '135/136 x 35/37 x 8,1 mm'
+    photos:
+      - /img/uploads/132p16c.jpg
+    pid: P16
+    poids: 63
+    prix: '25,70'
+    type: Plaquette
 ---
 
