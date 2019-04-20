@@ -215,5 +215,15 @@ produits:
     poids: 65
     prix: '25,70'
     type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée rouge - calibration grain
+      120 faces bookmatched - densité 1,06
+    dimensions: '134/135 x 37/38 x 8,4 mm'
+    photos:
+      - /img/uploads/132p20c.jpg
+    pid: P20
+    poids: 89
+    prix: '26,80'
+    type: Plaquette
 ---
 
