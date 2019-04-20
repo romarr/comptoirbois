@@ -235,5 +235,15 @@ produits:
     poids: 78
     prix: '31,40'
     type: Plaquette
+  - description: >-
+      paire de plaquettes en loupe d'érable stabilisée bleu&gris - calibration
+      grain 120 faces bookmatched - densité 0,96
+    dimensions: '128 x 46/47 x 7,1 mm'
+    photos:
+      - /img/uploads/132p22c.jpg
+    pid: P22
+    poids: 81
+    prix: '31,40'
+    type: Plaquette
 ---
 
