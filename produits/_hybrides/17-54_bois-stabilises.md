@@ -350,5 +350,71 @@ produits:
     poids: 110
     prix: '25.70'
     type: Plaquette
+  - description: >-
+      paire de charme échauffé stabilisé naturel sans défaut - calibration à la
+      JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 1,06
+    dimensions: '132/134 x 37/43 x 7,1 mm'
+    photos:
+      - /img/uploads/132p33c.jpg
+    pid: P33
+    poids: 82
+    prix: '17.00'
+    type: Plaquette
+  - description: >-
+      paire de charme échauffé stabilisé naturel sans défaut - calibration à la
+      JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 1,07
+    dimensions: '131/133 x 42/43 x 7,1 mm'
+    photos:
+      - /img/uploads/132p34c.jpg
+    pid: P34
+    poids: 85
+    prix: '17.00'
+    type: Plaquette
+  - description: >-
+      paire de platane échauffé stabilisé naturel sans défaut - calibration à la
+      JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 0,99
+    dimensions: '146/147 x 43 x 6,6 mm'
+    photos:
+      - /img/uploads/132p35c.jpg
+    pid: P35
+    poids: 82
+    prix: '18.00'
+    type: Plaquette
+  - description: >-
+      paire de platane échauffé stabilisé naturel sans défaut - calibration à la
+      JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 1
+    dimensions: '147 x 40/43 x 6,9 mm'
+    photos:
+      - /img/uploads/132p36c.jpg
+    pid: P36
+    poids: 83
+    prix: '16.00'
+    type: Plaquette
+  - description: >-
+      paire de noyer échauffé stabilisé naturel sans défaut - calibration à la
+      JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 0,98
+    dimensions: '166 x 39 x 7,6 mm'
+    photos:
+      - /img/uploads/132p37c.jpg
+    pid: P37
+    poids: 96
+    prix: '19.00'
+    type: Plaquette
+  - description: >-
+      paire de marronnier échauffé stabilisé naturel sans défaut - calibration à
+      la JET22/44 grain 80 et application d'un film de finishing oil sur faces
+      bookmatched - densité 0,90
+    dimensions: '199/201 x 53/55 x 6,2 mm'
+    photos:
+      - /img/uploads/132p38c.jpg
+    pid: P38
+    poids: 122
+    prix: '29.00'
+    type: Plaquette
 ---
 
