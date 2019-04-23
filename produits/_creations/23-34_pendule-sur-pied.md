@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PENDULE SUR PIED
+title: PENDULE SUR PIED (exemplaire unique)
 pid: M1
 type: marqueterie
 poids: 2640
