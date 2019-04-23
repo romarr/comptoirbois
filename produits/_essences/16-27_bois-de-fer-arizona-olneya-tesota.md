@@ -394,5 +394,90 @@ produits:
     poids: 167
     prix: '32.60'
     type: Plaquette
+  - description: >-
+      très belle paire partiellement ondée sans défaut calibrée à la JET 22/44
+      grain 80, application d'un film de finishing oil sur faces bookmatched  -
+      forte densité 1,28
+    dimensions: '133 x 44,5 x 8,6 mm'
+    photos:
+      - /img/uploads/116p37c.jpg
+    pid: P37
+    poids: 130
+    prix: '30.00'
+    type: Plaquette
+  - description: >-
+      très belle paire de loupe sans défaut calibrée à la JET 22/44 grain 80,
+      application d'un film de finishing oil sur faces bookmatched  - forte
+      densité 1,24
+    dimensions: '132,5 x 44,5 x 8,6 mm'
+    photos:
+      - /img/uploads/116p38c.jpg
+    pid: P38
+    poids: 126
+    prix: '38.00'
+    type: Plaquette
+  - description: >-
+      belle paire sans défaut calibrée à la JET 22/44 grain 80, application d'un
+      film de finishing oil sur faces bookmatched  - forte densité 1,25
+    dimensions: '133 x 45 x 8,7 mm'
+    photos:
+      - /img/uploads/116p39c.jpg
+    pid: P39
+    poids: 130
+    prix: '26.00'
+    type: Plaquette
+  - description: >-
+      très belle paire partiellement ondée sans défaut calibrée à la JET 22/44
+      grain 80, application d'un film de finishing oil sur faces bookmatched  -
+      forte densité 1,27
+    dimensions: '132 x 44,5 x 8,4 mm'
+    photos:
+      - /img/uploads/116p40c.jpg
+    pid: P40
+    poids: 125
+    prix: '30.00'
+    type: Plaquette
+  - description: >-
+      exceptionnelle paire de loupe sans défaut calibrée à la JET 22/44 grain
+      80, application d'un film de finishing oil sur faces bookmatched  - forte
+      densité 1,28
+    dimensions: '131/132 x 43 x 8,5 mm'
+    photos:
+      - /img/uploads/116p41c.jpg
+    pid: P41
+    poids: 123
+    prix: '51.00'
+    type: Plaquette
+  - description: >-
+      très belle paire de loupe partiellement ondée sans défaut calibrée à la
+      JET 22/44 grain 80, application d'un film de finishing oil sur faces
+      bookmatched  - forte densité 1,27
+    dimensions: '134 x 44/45 x 8,6 mm'
+    photos:
+      - /img/uploads/116p42c.jpg
+    pid: P42
+    poids: 130
+    prix: '28.00'
+    type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibrée à la JET 22/44 grain 80, application
+      d'un film de finishing oil sur faces bookmatched  - forte densité 1,26
+    dimensions: '133 x 44,5 x 8,7 mm'
+    photos:
+      - /img/uploads/116p43c.jpg
+    pid: P43
+    poids: 130
+    prix: '22.00'
+    type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibrée à la JET 22/44 grain 80, application
+      d'un film de finishing oil sur faces bookmatched  - forte densité 1,28
+    dimensions: '133 x 44 x 8,7 mm'
+    photos:
+      - /img/uploads/116p44c.jpg
+    pid: P44
+    poids: 130
+    prix: '30.00'
+    type: Plaquette
 ---
 
