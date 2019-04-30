@@ -5,9 +5,9 @@ pid: PU2
 prix: '0,46'
 description: >-
   Ce prix est établi sur demande expresse du client pour la fabrication
-  d'intercalaires en bois de dimensions standard 120 x 40 mm avec des épaisseurs
-  variables : soit 1mm, et/ou 1,5 mm et/ou 2 mm ; il dépend de l'essence choisie
-  et du nombre souhaité.
+  d'intercalaires en bois de dimensions standard 120 x 40 mm (autres dimensions
+  possibles suivant stock) avec des épaisseurs variables : soit 1mm, et/ou 1,5
+  mm et/ou 2 mm ; il dépend de l'essence choisie et du nombre souhaité.
 
   Exemples de prix calculé au M2 :
 
