@@ -9,7 +9,7 @@ description: >-
   calibration définie précisément par l'acheteur ; les coupes&calibrages sont
   réalisées sur des dimensions standard 120 x 40 x 40 mm ; pour les blocs plus
   ou moins importants, le calcul est établi au prorata de la longueur :
-  exemples, un bloc de 240 mm = 2 x PU, un bloc de 50 mm = 0,5 x PU.
+  exemples, un bloc de 240 mm = 2 x PU, un bloc de 60 mm = 0,5 x PU.
 
   Ce prix est établi pour une seule coupe&calibrage.
 ---
