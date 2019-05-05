@@ -499,5 +499,65 @@ produits:
     poids: 128
     prix: '28,60'
     type: Plaquette
+  - description: >-
+      très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
+      présence d'un petit trou - forte densité 1,29
+    dimensions: '133 x 44 x 8,6 mm'
+    photos:
+      - /img/uploads/116p47c.jpg
+    pid: P47
+    poids: 130
+    prix: '36,60'
+    type: Plaquette
+  - description: >-
+      très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
+      présence d'un petit trou sur 1 seule plaquette - forte densité 1,30
+    dimensions: '131/132 x 44 x 8,4 mm'
+    photos:
+      - /img/uploads/116p48c.jpg
+    pid: P48
+    poids: 126
+    prix: '35,80'
+    type: Plaquette
+  - description: >-
+      très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
+      présence de 2 petits trous - forte densité 1,27
+    dimensions: '132 x 44 x 8,9 mm'
+    photos:
+      - /img/uploads/116p49c.jpg
+    pid: P49
+    poids: 131
+    prix: '36,20'
+    type: Plaquette
+  - description: >-
+      très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
+      présence de 2 petits trous sur une seule plaquette - forte densité 1,30
+    dimensions: '132 x 44 x 8,9 mm'
+    photos:
+      - /img/uploads/116p50c.jpg
+    pid: P50
+    poids: 134
+    prix: '30,40'
+    type: Plaquette
+  - description: >-
+      très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
+      présence d'un petit trou - forte densité 1,27
+    dimensions: '132/133 x 44 x 8,9 mm'
+    photos:
+      - /img/uploads/116p51c.jpg
+    pid: P51
+    poids: 132
+    prix: '38,50'
+    type: Plaquette
+  - description: >-
+      très belle paire ondée sans défaut, calibrée à la JET 22/44 grain 120
+      faces bookmatched  -  forte densité 1,28
+    dimensions: '132,5/133 x 44 x 8,4 mm'
+    photos:
+      - /img/uploads/116p52c.jpg
+    pid: P52
+    poids: 125
+    prix: '23,50'
+    type: Plaquette
 ---
 
