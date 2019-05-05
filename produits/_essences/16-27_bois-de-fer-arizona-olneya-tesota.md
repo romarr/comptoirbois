@@ -479,5 +479,15 @@ produits:
     poids: 130
     prix: '30.00'
     type: Plaquette
+  - description: >-
+      très belle paire sans défaut calibrée à la JET 22/44 grain 120 faces
+      bookmatched - forte densité 1,31
+    dimensions: '133 x 45 x 8,8 mm'
+    photos:
+      - /img/uploads/116p45c.jpg
+    pid: P45
+    poids: 138
+    prix: '33,50'
+    type: Plaquette
 ---
 
