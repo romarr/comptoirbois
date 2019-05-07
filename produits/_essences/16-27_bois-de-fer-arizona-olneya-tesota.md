@@ -547,7 +547,7 @@ produits:
       - /img/uploads/116p51c.jpg
     pid: P51
     poids: 132
-    prix: '38,50'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire ondée sans défaut, calibrée à la JET 22/44 grain 120
