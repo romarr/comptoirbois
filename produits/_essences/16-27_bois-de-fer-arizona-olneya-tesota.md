@@ -162,7 +162,7 @@ produits:
       - /img/uploads/116p13c.jpg
     pid: P13
     poids: 136
-    prix: '28'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibré à la JET 22/44 grain 100, faces
