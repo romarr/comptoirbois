@@ -28,7 +28,7 @@ produits:
       - /img/uploads/128p2c.jpg
     pid: P2
     poids: 174
-    prix: '19'
+    prix: ''
     type: Plaquette
   - description: >-
       belles plaquettes de buis échauffé, quelques micro-fissures sans incidence
