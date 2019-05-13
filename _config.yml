@@ -4,13 +4,14 @@ subtitle: Bois de coutellerie, tournage et bijouterie.
 email: admin@bois.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Vente de bois de coutellerie, tournage & bijouterie en plaquettes, quillons & carrelets.  
-  Bois bruts, stabilisés, hybrides et créations. 
+  Matériaux haut de gamme. Bois bruts, stabilisés, hybrides et créations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lecomptoirdesboisdu83.fr" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
 fb-url: https://www.facebook.com/dubois/
-ig-url: https://www.facebook.com/dubois/
+ig-url: https://www.instagram.com/pocahontas06000/
+pt-url: https://www.pinterest.fr/jefffoliguet/
 
 # Gems et extensions
 plugins:

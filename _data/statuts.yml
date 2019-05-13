@@ -1,4 +1,4 @@
 absence: false
 message: néant
-promo: false
-msgpromo: message
+promo: true
+msgpromo: 10% de réduction à partir de 100€ d'achats.
