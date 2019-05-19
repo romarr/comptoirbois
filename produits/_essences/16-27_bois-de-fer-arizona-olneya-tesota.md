@@ -361,7 +361,7 @@ produits:
       - /img/uploads/116p33c.jpg
     pid: P33
     poids: 138
-    prix: '29.70'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire de loupe calibrée à la JET 22/44 grain 100 - présence de
@@ -372,7 +372,7 @@ produits:
       - /img/uploads/116p34c.jpg
     pid: P34
     poids: 133
-    prix: '29.60'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire ondée sans défaut calibré à la JET 22/44 grain 100, faces
@@ -382,7 +382,7 @@ produits:
       - /img/uploads/116p35c.jpg
     pid: P35
     poids: 138
-    prix: '22.40'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire de loupe sans défaut calibrée à la JET 22/44 grain 100,
@@ -392,7 +392,7 @@ produits:
       - /img/uploads/116p36c.jpg
     pid: P36
     poids: 167
-    prix: '32.60'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire partiellement ondée sans défaut calibrée à la JET 22/44
@@ -403,7 +403,7 @@ produits:
       - /img/uploads/116p37c.jpg
     pid: P37
     poids: 130
-    prix: '30.00'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire de loupe sans défaut calibrée à la JET 22/44 grain 80,
@@ -414,7 +414,7 @@ produits:
       - /img/uploads/116p38c.jpg
     pid: P38
     poids: 126
-    prix: '38.00'
+    prix: ''
     type: Plaquette
   - description: >-
       belle paire sans défaut calibrée à la JET 22/44 grain 80, application d'un
@@ -424,7 +424,7 @@ produits:
       - /img/uploads/116p39c.jpg
     pid: P39
     poids: 130
-    prix: '26.00'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire partiellement ondée sans défaut calibrée à la JET 22/44
@@ -435,7 +435,7 @@ produits:
       - /img/uploads/116p40c.jpg
     pid: P40
     poids: 125
-    prix: '30.00'
+    prix: ''
     type: Plaquette
   - description: >-
       exceptionnelle paire de loupe sans défaut calibrée à la JET 22/44 grain
@@ -446,7 +446,7 @@ produits:
       - /img/uploads/116p41c.jpg
     pid: P41
     poids: 123
-    prix: '51.00'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire de loupe partiellement ondée sans défaut calibrée à la
@@ -457,7 +457,7 @@ produits:
       - /img/uploads/116p42c.jpg
     pid: P42
     poids: 130
-    prix: '28.00'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibrée à la JET 22/44 grain 80, application
@@ -477,7 +477,7 @@ produits:
       - /img/uploads/116p44c.jpg
     pid: P44
     poids: 130
-    prix: '30.00'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibrée à la JET 22/44 grain 120 faces
@@ -487,7 +487,7 @@ produits:
       - /img/uploads/116p45c.jpg
     pid: P45
     poids: 138
-    prix: '33,50'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -497,7 +497,7 @@ produits:
       - /img/uploads/116p46c.jpg
     pid: P46
     poids: 128
-    prix: '28,60'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -507,7 +507,7 @@ produits:
       - /img/uploads/116p47c.jpg
     pid: P47
     poids: 130
-    prix: '36,60'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -517,7 +517,7 @@ produits:
       - /img/uploads/116p48c.jpg
     pid: P48
     poids: 126
-    prix: '35,80'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -527,7 +527,7 @@ produits:
       - /img/uploads/116p49c.jpg
     pid: P49
     poids: 131
-    prix: '36,20'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -537,7 +537,7 @@ produits:
       - /img/uploads/116p50c.jpg
     pid: P50
     poids: 134
-    prix: '30,40'
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire calibrée à la JET 22/44 grain 120 faces bookmatched  -
@@ -557,7 +557,7 @@ produits:
       - /img/uploads/116p52c.jpg
     pid: P52
     poids: 125
-    prix: '23,50'
+    prix: ''
     type: Plaquette
 ---
 
