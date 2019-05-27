@@ -78,7 +78,7 @@ produits:
       - /img/uploads/116p4c.jpg
     pid: P4
     poids: 109
-    prix: '21'
+    prix: ''
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched -
@@ -109,7 +109,7 @@ produits:
       - /img/uploads/116p7c.jpg
     pid: P7
     poids: 119
-    prix: '21'
+    prix: ''
     type: Plaquette
   - description: >-
       belle paire de plaquettes calibrées au grain 120 faces bookmatched, sans
