@@ -52,7 +52,7 @@ produits:
       - /img/uploads/117p2c.jpg
     pid: P2
     poids: 170
-    prix: '17.70'
+    prix: ''
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
