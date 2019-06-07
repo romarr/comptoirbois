@@ -104,7 +104,7 @@ produits:
       - /img/uploads/100b11bis.jpg
     pid: B11
     poids: '333'
-    prix: '40'
+    prix: ''
     type: Bloc
   - description: >-
       magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
