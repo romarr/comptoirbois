@@ -296,7 +296,7 @@ produits:
       - /img/uploads/132p27c.jpg
     pid: P27
     poids: 94
-    prix: '29.50'
+    prix: ''
     type: Plaquette
   - description: >-
       belle paire rare de plaquettes en arbousier stabilisé naturel -
