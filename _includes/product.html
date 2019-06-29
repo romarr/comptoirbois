@@ -71,7 +71,7 @@
                                 <button class="snipcart-add-item btn btn-sm btn-secondary bg-wood"
                                     data-item-id="{{page.gid}}{{produit.pid}}" data-item-name="{{page.title}}"
                                     data-item-price="{{produit.prix}}" data-item-weight="{{produit.poids}}"
-                                    data-item-url="{{page.permalink}}" data-item-max-quantity=1
+                                    data-item-url="{{site.url}}{{page.url}}" data-item-max-quantity=1
                                     data-item-description="{{produit.type}} - {{produit.description | truncate: 50}}">
                                     <i class="fas fa-cart-plus"></i></br> {{ produit.prix }} €
                                 </button>
