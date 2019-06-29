@@ -30,7 +30,7 @@ produits:
       - /img/uploads/100b2.jpg
     pid: B2
     poids: '318'
-    prix: '29'
+    prix: 29
     type: Bloc
   - description: 'bois sans défaut légèrement échauffé - densité 0,97'
     dimensions: 150 x 39/40 x 39
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/100b3bis.jpg
     pid: B3
     poids: '223'
-    prix: '29.70'
+    prix: 29.70
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,03'
     dimensions: 148 x 39 x 39
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/100b4bis.jpg
     pid: B4
     poids: '231'
-    prix: '29.70'
+    prix: 29.70
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,07'
     dimensions: 150 x 38/39 x 51/52
@@ -57,7 +57,7 @@ produits:
       - /img/uploads/100b6bis.jpg
     pid: B6
     poids: '319'
-    prix: '34'
+    prix: 34
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,05'
     dimensions: '149/150 x 38,5 x 50,5/52'
@@ -66,7 +66,7 @@ produits:
       - /img/uploads/100b7.jpg
     pid: B7
     poids: '308'
-    prix: '34'
+    prix: 34
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,08'
     dimensions: 148 x 38/39 x 51
@@ -75,7 +75,7 @@ produits:
       - /img/uploads/100b8bis.jpg
     pid: B8
     poids: '313'
-    prix: '34'
+    prix: 34
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 0,96'
     dimensions: 148/149 x 40 x 40
@@ -84,7 +84,7 @@ produits:
       - /img/uploads/100b9bis.jpg
     pid: B9
     poids: '229'
-    prix: '34'
+    prix: 34
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 0,97'
     dimensions: '147,5 x 39,5 x 40'
@@ -93,7 +93,7 @@ produits:
       - /img/uploads/100b10bis.jpg
     pid: B10
     poids: '224'
-    prix: '26'
+    prix: 26
     type: Bloc
   - description: >-
       magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
@@ -104,7 +104,7 @@ produits:
       - /img/uploads/100b11bis.jpg
     pid: B11
     poids: '333'
-    prix: ''
+    prix: 
     type: Bloc
   - description: >-
       magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
@@ -115,7 +115,7 @@ produits:
       - /img/uploads/100b12bis.jpg
     pid: B12
     poids: '326'
-    prix: '39'
+    prix: 39
     type: Bloc
   - description: >-
       magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
@@ -126,7 +126,7 @@ produits:
       - /img/uploads/100b13bis.jpg
     pid: B13
     poids: '317'
-    prix: '40'
+    prix: 40
     type: Bloc
   - description: '1 micro-fissure sur une face - densité 1,14'
     dimensions: 148 x 32/33 x 33
@@ -135,7 +135,7 @@ produits:
       - /img/uploads/100b14bis.jpg
     pid: B14
     poids: '191'
-    prix: '19.20'
+    prix: 19.20
     type: Bloc
   - description: >-
       1 micro-fissure sur 1 face, ponçage grain 120 sur les 4 faces - densité
@@ -146,7 +146,7 @@ produits:
       - /img/uploads/100b15bis.jpg
     pid: B15
     poids: '189'
-    prix: '19.20'
+    prix: 19.20
     type: Bloc
   - description: >-
       1 micro-fissure sur 1 face, ponçage grain 120 sur les 4 faces - densité
@@ -157,7 +157,7 @@ produits:
       - /img/uploads/100b16bis.jpg
     pid: B16
     poids: '194'
-    prix: '19.20'
+    prix: 19.20
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -168,7 +168,7 @@ produits:
       - /img/uploads/100b17bis.jpg
     pid: B17
     poids: '140'
-    prix: '21.20'
+    prix: 21.20
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -179,7 +179,7 @@ produits:
       - /img/uploads/100b18bis.jpg
     pid: B18
     poids: '139'
-    prix: '21.20'
+    prix: 21.20
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -190,7 +190,7 @@ produits:
       - /img/uploads/100b19bis.jpg
     pid: B19
     poids: '144'
-    prix: '22'
+    prix: 22
     type: Bloc
   - description: >-
       magnifique petit bloc ondé avec un petit trou sur une face, ponçage grain
@@ -201,7 +201,7 @@ produits:
       - /img/uploads/100b20bis.jpg
     pid: B20
     poids: '138'
-    prix: '21.20'
+    prix: 21.20
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -212,7 +212,7 @@ produits:
       - /img/uploads/100b21bis.jpg
     pid: B21
     poids: '154'
-    prix: '21.20'
+    prix: 21.20
     type: Bloc
   - description: >-
       très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
@@ -222,7 +222,7 @@ produits:
       - /img/uploads/100p5c.jpg
     pid: P5
     poids: 259
-    prix: '42.80'
+    prix: 42.80
     type: Plaquette
   - description: >-
       très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
@@ -232,7 +232,7 @@ produits:
       - /img/uploads/100p6c.jpg
     pid: P6
     poids: 198
-    prix: '36.90'
+    prix: 36.90
     type: Plaquette
 ---
 

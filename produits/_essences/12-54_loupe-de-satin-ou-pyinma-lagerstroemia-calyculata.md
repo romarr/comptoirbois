@@ -20,7 +20,7 @@ produits:
       - /img/uploads/105b1bisc.jpg
     pid: B1
     poids: '290'
-    prix: '34.10'
+    prix: 34.10
     type: Bloc
   - description: 'très belles plaquettes sans défaut - densité 0,67'
     dimensions: '317 x 41 x 7 - 7,3 mm'
@@ -28,7 +28,7 @@ produits:
       - /img/uploads/105p1c.jpg
     pid: P1
     poids: '125'
-    prix: '24.30'
+    prix: 24.30
     type: Plaquette
 ---
 

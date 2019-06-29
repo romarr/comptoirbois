@@ -18,7 +18,7 @@ produits:
       - /img/uploads/130p1c.jpg
     pid: P1
     poids: 228
-    prix: '17'
+    prix: 17
     type: Plaquette
 ---
 

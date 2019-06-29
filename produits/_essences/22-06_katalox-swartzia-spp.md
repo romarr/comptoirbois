@@ -29,7 +29,7 @@ produits:
       - /img/uploads/137p1.jpg
     pid: P1
     poids: 105
-    prix: '9.10'
+    prix: 9.10
     type: Plaquette
   - description: >-
       belle paire sans défaut calibrée à la JET 22/44 grain 80 - densité 1 -
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/137p2.jpg
     pid: P2
     poids: 64
-    prix: ''
+    prix: 
     type: Plaquette
   - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,09'
     dimensions: '153 x 34,5 x 35 mm'
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/137b1bis.jpg
     pid: B1
     poids: 202
-    prix: '15.90'
+    prix: 15.90
     type: Bloc
   - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,07'
     dimensions: 151 x 35 x 35 mm
@@ -57,7 +57,7 @@ produits:
       - /img/uploads/137b2bis.jpg
     pid: B2
     poids: 198
-    prix: '15.90'
+    prix: 15.90
     type: Bloc
   - description: 'beau quillon sans défaut, poncé sur 4 faces - densité 1,12'
     dimensions: '152 x 35 x 35,5 mm'
@@ -66,7 +66,7 @@ produits:
       - /img/uploads/137b3bis.jpg
     pid: B3
     poids: 212
-    prix: '15.90'
+    prix: 15.90
     type: Bloc
 ---
 

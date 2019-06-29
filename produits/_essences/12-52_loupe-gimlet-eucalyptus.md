@@ -22,7 +22,7 @@ produits:
       - /img/uploads/107b1c.jpg
     pid: B1
     poids: '428'
-    prix: '48.40'
+    prix: 48.40
     type: Bloc
   - description: >-
       beau petit quillon, présence de micro-fissures de loupe - forte densité
@@ -33,7 +33,7 @@ produits:
       - /img/uploads/107b2c.jpg
     pid: B2
     poids: '117'
-    prix: '16.40'
+    prix: 16.40
     type: Bloc
 ---
 

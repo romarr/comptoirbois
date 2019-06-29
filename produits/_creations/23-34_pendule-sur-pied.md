@@ -4,7 +4,7 @@ title: PENDULE SUR PIED (exemplaire unique)
 pid: M1
 type: marqueterie
 poids: 2640
-prix: '250.00'
+prix: 250.00
 photos:
   - /img/uploads/pendulesurpied.jpg
 description: >

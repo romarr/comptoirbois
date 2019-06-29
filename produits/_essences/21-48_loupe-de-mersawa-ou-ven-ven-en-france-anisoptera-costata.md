@@ -27,7 +27,7 @@ produits:
       - /img/uploads/145b1c.jpg
     pid: B1
     poids: 236
-    prix: '44.00'
+    prix: 44.00
     type: Bloc
 ---
 

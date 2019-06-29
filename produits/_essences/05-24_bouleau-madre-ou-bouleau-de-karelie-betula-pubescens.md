@@ -33,7 +33,7 @@ produits:
       - /img/uploads/146b2bisc.jpg
     pid: B2
     poids: 410
-    prix: '53,40'
+    prix: '53.40'
     type: Bloc
   - description: >-
       très beau bloc  - présence d'une toute petite fissure sur arête en bout -
@@ -44,7 +44,7 @@ produits:
       - /img/uploads/146b3bisc.jpg
     pid: B3
     poids: 349
-    prix: '41,10'
+    prix: '41.10'
     type: Bloc
   - description: 'très belle paire sans défaut - qualité AA - densité 0,78'
     dimensions: '121,5 x 40,5 x 5,6 - 6,3 mm'
@@ -52,7 +52,7 @@ produits:
       - /img/uploads/146p1c.jpg
     pid: P1
     poids: 44
-    prix: '11,50'
+    prix: '11.50'
     type: Plaquette
   - description: 'très belle paire sans défaut - qualité AA - densité 0,74'
     dimensions: '121,5 x 40,5 x 6,4 mm'
@@ -60,7 +60,7 @@ produits:
       - /img/uploads/146p2c.jpg
     pid: P2
     poids: 47
-    prix: '11,90'
+    prix: '11.90'
     type: Plaquette
 ---
 

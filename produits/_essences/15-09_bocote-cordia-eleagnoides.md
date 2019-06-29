@@ -21,7 +21,7 @@ produits:
       - /img/uploads/123p1c.jpg
     pid: P1
     poids: 210
-    prix: '17'
+    prix: 17
     type: Plaquette
   - description: >-
       belles et grandes plaquettes sans défaut, calibrées au grain 80 - densité
@@ -31,7 +31,7 @@ produits:
       - /img/uploads/123p2c.jpg
     pid: P2
     poids: 263
-    prix: '26'
+    prix: 26
     type: Plaquette
 ---
 

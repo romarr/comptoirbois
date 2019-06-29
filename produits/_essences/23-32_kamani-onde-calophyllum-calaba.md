@@ -30,7 +30,7 @@ produits:
       - /img/uploads/141p1c.jpg
     pid: P1
     poids: 122
-    prix: '14.20'
+    prix: 14.20
     type: Plaquette
   - description: >-
       belles plaquettes moirées avec un petit défaut en bout sur l'angle visible
@@ -40,7 +40,7 @@ produits:
       - /img/uploads/141p2c.jpg
     pid: P2
     poids: 120
-    prix: '14.20'
+    prix: 14.20
     type: Plaquette
 ---
 

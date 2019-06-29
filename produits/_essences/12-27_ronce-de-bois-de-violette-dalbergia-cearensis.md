@@ -22,7 +22,7 @@ produits:
       - /img/uploads/101b1c.jpg
     pid: B1
     poids: '454'
-    prix: '28.70'
+    prix: 28.70
     type: Bloc
 ---
 

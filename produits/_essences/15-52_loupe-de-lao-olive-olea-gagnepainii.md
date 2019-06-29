@@ -21,7 +21,7 @@ produits:
       - /img/uploads/114p1c.jpg
     pid: P1
     poids: 224
-    prix: '57'
+    prix: 57
     type: Plaquette
   - description: 'beau quillon, poncé 4 faces - densité 0,87'
     dimensions: 118 x 23 x 37/38 mm
@@ -30,7 +30,7 @@ produits:
       - /img/uploads/114b1c.jpg
     pid: B1
     poids: 89
-    prix: '21'
+    prix: 21
     type: Bloc
   - description: 'beau quillon, poncé 4 faces - densité 0,86'
     dimensions: 118 x 23/24 x 38 mm
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/114b2c.jpg
     pid: B2
     poids: 91
-    prix: '21'
+    prix: 21
     type: Bloc
   - description: 'beau quillon, poncé 4 faces - densité 0,86'
     dimensions: 118 x 23/24 x 37/38 mm
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/114b3bisc.jpg
     pid: B3
     poids: 89
-    prix: '21'
+    prix: 21
     type: Bloc
   - description: 'beau quillon, poncé 4 faces - densité 0,88'
     dimensions: 118 x 23/24 x 37/38
@@ -57,7 +57,7 @@ produits:
       - /img/uploads/114b4bisc.jpg
     pid: B4
     poids: 91
-    prix: '21'
+    prix: 21
     type: Bloc
 ---
 

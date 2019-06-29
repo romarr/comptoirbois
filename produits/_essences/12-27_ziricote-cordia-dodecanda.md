@@ -20,7 +20,7 @@ produits:
       - /img/uploads/112b1bisc.jpg
     pid: B1
     poids: '520'
-    prix: '37.40'
+    prix: 37.40
     type: Bloc
   - description: belle paire avec une zone latérale en aubier - densité 1
     dimensions: '231 x 35 x 7,7 - 7,9 mm'
@@ -28,7 +28,7 @@ produits:
       - /img/uploads/112p1c.jpg
     pid: P1
     poids: '126'
-    prix: '23.50'
+    prix: 23.50
     type: Plaquette
   - description: >-
       belle paire avec aubier latéral, présence d'une petite fissure sur champ
@@ -38,7 +38,7 @@ produits:
       - /img/uploads/112p2c.jpg
     pid: P2
     poids: '134'
-    prix: '34.80'
+    prix: 34.80
     type: Plaquette
 ---
 

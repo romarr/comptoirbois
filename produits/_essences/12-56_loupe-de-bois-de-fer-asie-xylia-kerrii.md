@@ -21,7 +21,7 @@ produits:
       - /img/uploads/108b1bisc.jpg
     pid: B1
     poids: '207'
-    prix: '28.90'
+    prix: 28.90
     type: Bloc
   - description: 'très beau quillon, défaut sur une arête (voir photo) - densité 1,08'
     dimensions: 138 x 34 x 39 mm
@@ -30,7 +30,7 @@ produits:
       - /img/uploads/108b2bisc.jpg
     pid: B2
     poids: '185'
-    prix: '28.90'
+    prix: 28.90
     type: Bloc
   - description: 'très beau quillon, 1 petit trou dans la zone noire en bout - densité 1,11'
     dimensions: '19 x 33,5 x 39 mm'
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/108b3bisc.jpg
     pid: B3
     poids: '201'
-    prix: '28.90'
+    prix: 28.90
     type: Bloc
   - description: 'très beau quillon, présence d''une petite fissure sur 1 bout - densité 1,09'
     dimensions: 139 x 35 x 39 mm
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/108b4c.jpg
     pid: B4
     poids: '206'
-    prix: '28.90'
+    prix: 28.90
     type: Bloc
   - description: >-
       très belles et grandes plaquettes bicolores calibrées grain 120 faces
@@ -59,7 +59,7 @@ produits:
       - /img/uploads/108p1c.jpg
     pid: P1
     poids: 166
-    prix: '45.10'
+    prix: 45.10
     type: Plaquette
   - description: >-
       très belles et grandes plaquettes bicolores calibrées grain 120 faces
@@ -70,7 +70,7 @@ produits:
       - /img/uploads/108p2c.jpg
     pid: P2
     poids: 178
-    prix: '47.50'
+    prix: 47.50
     type: Plaquette
   - description: >-
       très belles et grandes plaquettes bicolores calibrées grain 120 faces
@@ -80,7 +80,7 @@ produits:
       - /img/uploads/108p3c.jpg
     pid: P3
     poids: 180
-    prix: '45.10'
+    prix: 45.10
     type: Plaquette
 ---
 

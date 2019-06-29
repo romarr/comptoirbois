@@ -23,7 +23,7 @@ produits:
       - /img/uploads/110b1c.jpg
     pid: B1
     poids: '167'
-    prix: '46.30'
+    prix: 46.30
     type: Bloc
 ---
 

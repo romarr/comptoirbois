@@ -22,7 +22,7 @@ produits:
       - /img/uploads/135p1.jpg
     pid: P1
     poids: 163
-    prix: '44.70'
+    prix: 44.70
     type: Plaquette
 ---
 

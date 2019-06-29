@@ -19,7 +19,7 @@ produits:
       - /img/uploads/129p3c.jpg
     pid: P3
     poids: 92
-    prix: '23'
+    prix: 23
     type: Plaquette
   - description: >-
       belles plaquettes, présence de trous de loupe + 1 défaut latéral sur 1
@@ -29,7 +29,7 @@ produits:
       - /img/uploads/129p2c.jpg
     pid: P2
     poids: 94
-    prix: '21'
+    prix: 21
     type: Plaquette
   - description: 'belles plaquettes, présence de trous de loupe (voir photo) - densité 1,02'
     dimensions: '183 x 38/39 x 6,9 mm'
@@ -37,7 +37,7 @@ produits:
       - /img/uploads/129p1c.jpg
     pid: P1
     poids: 99
-    prix: '23'
+    prix: 23
     type: Plaquette
 ---
 

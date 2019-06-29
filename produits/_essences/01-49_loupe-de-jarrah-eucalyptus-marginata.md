@@ -27,7 +27,7 @@ produits:
       - /img/uploads/142b1bisc.jpg
     pid: B1
     poids: 1295
-    prix: '126.30'
+    prix: 126.30
     type: Bloc
 ---
 
