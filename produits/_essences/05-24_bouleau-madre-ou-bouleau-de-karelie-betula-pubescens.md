@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /essences/test
 title: BOULEAU MADRE ou BOULEAU de KARELIE (bétula pubescens)
 gid: '146'
 image: /img/uploads/1071.jpg
