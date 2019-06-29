@@ -27,10 +27,10 @@ collections_dir: produits
 collections:
   essences:
     output: true
-    permalink: /essences/:title
+    permalink: /essences/:slug
   hybrides:
     output: true
-    permalink: /hybrides/:title
+    permalink: /hybrides/:slug
   creations:
   prestations:
 
