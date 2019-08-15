@@ -24,7 +24,7 @@ produits:
       - /img/uploads/146b1bisc.jpg
     pid: B1
     poids: 397
-    prix: 51.30
+    prix: ''
     type: Bloc
   - description: 'très beau bloc  - une arête écorcée - qualité AA - densité 0,83'
     dimensions: 121/123 x 88 x 46 mm
