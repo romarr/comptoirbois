@@ -25,7 +25,7 @@ produits:
       - /img/uploads/103b1bisc.jpg
     pid: B1
     poids: '531'
-    prix: 31.40
+    prix: 31.4
     type: Bloc
   - description: 'beau bloc sans défaut, couleur claire marron ocre - densité 1,22'
     dimensions: 260/262 x 40 x 54/55 mm
@@ -34,13 +34,13 @@ produits:
       - /img/uploads/103b2bisc.jpg
     pid: B2
     poids: '694'
-    prix: 41.80
+    prix: ''
     type: Bloc
   - description: 'beau carrelet sans défaut de couleur verdâtre - forte densité 1,38'
     dimensions: 262 x 29/30 x 30/31 mm
     pid: C1
     poids: '326'
-    prix: 17.60
+    prix: 17.6
     type: Carrelet
 ---
 
