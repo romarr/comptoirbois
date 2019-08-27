@@ -32,7 +32,7 @@ produits:
       - /img/uploads/117p4c.jpg
     pid: P4
     poids: 131
-    prix: 19.40
+    prix: 19.4
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -42,7 +42,7 @@ produits:
       - /img/uploads/117p3c.jpg
     pid: P3
     poids: 124
-    prix: 19.40
+    prix: 19.4
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -52,7 +52,6 @@ produits:
       - /img/uploads/117p2c.jpg
     pid: P2
     poids: 170
-    prix: 
     type: Plaquette
   - description: >-
       belles plaquettes sans défaut calibrées à la JET 22/44 grain 80 - densité
@@ -62,7 +61,7 @@ produits:
       - /img/uploads/117p1c.jpg
     pid: P1
     poids: 167
-    prix: 19.50
+    prix: ''
     type: Plaquette
   - description: >-
       très belles et longues plaquettes sans défaut calibrées à la JET 22/44
@@ -72,7 +71,7 @@ produits:
       - /img/uploads/117p5c.jpg
     pid: P5
     poids: 183
-    prix: 20.20
+    prix: 20.2
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -82,7 +81,7 @@ produits:
       - /img/uploads/117p6c.jpg
     pid: P6
     poids: 179
-    prix: 20.20
+    prix: 20.2
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -92,7 +91,7 @@ produits:
       - /img/uploads/117p7c.jpg
     pid: P7
     poids: 174
-    prix: 20.20
+    prix: 20.2
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -102,7 +101,7 @@ produits:
       - /img/uploads/117p8c.jpg
     pid: P8
     poids: 155
-    prix: 20.20
+    prix: 20.2
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
@@ -113,7 +112,7 @@ produits:
       - /img/uploads/117p9c.jpg
     pid: P9
     poids: 175
-    prix: 19.50
+    prix: 19.5
     type: Plaquette
 ---
 
