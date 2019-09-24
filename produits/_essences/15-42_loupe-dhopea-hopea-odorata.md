@@ -21,7 +21,7 @@ produits:
       - /img/uploads/115p1c.jpg
     pid: P1
     poids: 87
-    prix: 20
+    prix: ''
     type: Plaquette
   - description: >-
       belle paire bicolore, calibrée au grain 80, un petit défaut en latéral
