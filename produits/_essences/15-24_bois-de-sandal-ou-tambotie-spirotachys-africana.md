@@ -21,7 +21,7 @@ produits:
       - /img/uploads/126p1c.jpg
     pid: P1
     poids: 210
-    prix: 22.40
+    prix: ''
     type: Plaquette
   - description: 'belles et grandes plaquettes avec aubier 25/30 % - densité 0,94'
     dimensions: '305/306 x 48 x 7,2 - 7,7 mm'
@@ -29,7 +29,7 @@ produits:
       - /img/uploads/126p2c.jpg
     pid: P2
     poids: 202
-    prix: 19.10
+    prix: 19.1
     type: Plaquette
   - description: 'belles et grandes plaquettes avec aubier 25/30 % - densité 0,94'
     dimensions: '305/306 x 49 x 6,8 - 7,9 mm'
@@ -37,7 +37,7 @@ produits:
       - /img/uploads/126p3c.jpg
     pid: P3
     poids: 213
-    prix: 19.10
+    prix: 19.1
     type: Plaquette
 ---
 
