@@ -74,7 +74,7 @@ produits:
       - /img/uploads/118b3bisc.jpg
     pid: B3
     poids: 177
-    prix: 18
+    prix: ''
     type: Bloc
   - description: 'beau petit bloc sans défaut - densité 0,92'
     dimensions: 145 x 38 x 38 mm
