@@ -94,7 +94,7 @@ produits:
       - /img/uploads/113b6bisc.jpg
     pid: B6
     poids: 172
-    prix: 23
+    prix: ''
     type: Bloc
 ---
 
