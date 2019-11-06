@@ -90,7 +90,7 @@ produits:
       - /img/uploads/120b7bisc.jpg
     pid: B7
     poids: 226
-    prix: 37
+    prix: ''
     type: Bloc
 ---
 
