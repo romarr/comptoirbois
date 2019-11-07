@@ -27,7 +27,7 @@ produits:
       - /img/uploads/118p1c.jpg
     pid: P1
     poids: 130
-    prix: 42
+    prix: ''
     type: Plaquette
   - description: >-
       magnifiques plaquettes, présence de micro-fissures de loupe - forte
