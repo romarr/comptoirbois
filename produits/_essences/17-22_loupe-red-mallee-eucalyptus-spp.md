@@ -4,7 +4,14 @@ title: LOUPE RED MALLEE (eucalyptus SPP)
 gid: '120'
 image: /img/uploads/louperedmallee.jpg
 region: océanie
-details: 'très belle loupe, forte densité - origine : Australie'
+details: >-
+  très belle loupe, forte densité - origine : Australie
+
+  "....Contrairement à de nombreux bois nobles tropicaux, les bois durs
+  australiens sont cultivés dans un cadre très réglementé, uniquement par des
+  entreprises agréées par l'État. Les excroissances tuberculeuses des arbres
+  centenaires des savanes sont séparées du tronc avec précaution, une mesure qui
+  les redynamise......".
 couleur:
   - rouge
 densite: '>1'
