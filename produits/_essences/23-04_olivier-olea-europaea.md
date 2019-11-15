@@ -30,7 +30,7 @@ produits:
       - /img/uploads/138b1bisc.jpg
     pid: B1
     poids: 495
-    prix: 17.60
+    prix: ''
     type: Bloc
   - description: 'beau bloc ondé sans défaut poncé sur les 4 faces - densité 0,99'
     dimensions: '308 x 40/43 x 41,5 mm'
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/138b2bisc.jpg
     pid: B2
     poids: 485
-    prix: 17.60
+    prix: ''
     type: Bloc
   - description: >-
       belles plaquettes ondées sans défaut calibrées à la JET 22/44 grain 80 -
@@ -49,7 +49,7 @@ produits:
       - /img/uploads/138p1c.jpg
     pid: P1
     poids: 148
-    prix: 7.50
+    prix: ''
     type: Plaquette
   - description: >-
       belles plaquettes ondées sans défaut calibrées à la JET 22/44 grain 80 -
@@ -57,7 +57,7 @@ produits:
     dimensions: '200 x 49/52 x 6,9 - 7,1 mm'
     pid: P2
     poids: 145
-    prix: 7.50
+    prix: ''
     type: Plaquette
 ---
 
