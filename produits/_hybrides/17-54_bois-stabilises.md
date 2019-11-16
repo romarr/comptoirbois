@@ -183,7 +183,7 @@ produits:
       - /img/uploads/132p16c.jpg
     pid: P16
     poids: 63
-    prix: 25.70
+    prix: 25.7
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée violet - calibration
@@ -193,7 +193,7 @@ produits:
       - /img/uploads/132p17c.jpg
     pid: P17
     poids: 64
-    prix: 25.70
+    prix: 25.7
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée bleu - calibration grain
@@ -203,7 +203,7 @@ produits:
       - /img/uploads/132p18c.jpg
     pid: P18
     poids: 91
-    prix: 27.90
+    prix: ''
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge - calibration grain
@@ -213,7 +213,7 @@ produits:
       - /img/uploads/132p19c.jpg
     pid: P19
     poids: 65
-    prix: 25.70
+    prix: 25.7
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rouge - calibration grain
@@ -223,7 +223,7 @@ produits:
       - /img/uploads/132p20c.jpg
     pid: P20
     poids: 89
-    prix: 26.80
+    prix: 26.8
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée violet - calibration
@@ -233,7 +233,7 @@ produits:
       - /img/uploads/132p21c.jpg
     pid: P21
     poids: 78
-    prix: 31.40
+    prix: 31.4
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée bleu&gris - calibration
@@ -243,7 +243,7 @@ produits:
       - /img/uploads/132p22c.jpg
     pid: P22
     poids: 81
-    prix: 31.40
+    prix: 31.4
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée vert - calibration grain
@@ -254,7 +254,7 @@ produits:
       - /img/uploads/132p23c.jpg
     pid: P23
     poids: 87
-    prix: 27.50
+    prix: 27.5
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe de sequoia stabilisée naturel - calibration
@@ -264,7 +264,7 @@ produits:
       - /img/uploads/132p24c.jpg
     pid: P24
     poids: 82
-    prix: 29.70
+    prix: 29.7
     type: Plaquette
   - description: >-
       paire rare de plaquettes en loupe partielle d'olivier de bohème stabilisée
@@ -275,7 +275,7 @@ produits:
       - /img/uploads/132p25c.jpg
     pid: P25
     poids: 68
-    prix: 25.30
+    prix: 25.3
     type: Plaquette
   - description: >-
       très belle paire rare de plaquettes en camphrier ondé stabilisé naturel +
@@ -286,7 +286,7 @@ produits:
       - /img/uploads/132p26c.jpg
     pid: P26
     poids: 91
-    prix: 31.50
+    prix: 31.5
     type: Plaquette
   - description: >-
       très belle paire rare de plaquettes en camphrier ondé stabilisé naturel -
@@ -296,7 +296,6 @@ produits:
       - /img/uploads/132p27c.jpg
     pid: P27
     poids: 94
-    prix: 
     type: Plaquette
   - description: >-
       belle paire rare de plaquettes en arbousier stabilisé naturel -
@@ -306,7 +305,7 @@ produits:
       - /img/uploads/132p28c.jpg
     pid: P28
     poids: 98
-    prix: 23.30
+    prix: 23.3
     type: Plaquette
   - description: >-
       belle paire de plaquettes en wengé stabilisé naturel - calibration grain
@@ -316,7 +315,7 @@ produits:
       - /img/uploads/132p29c.jpg
     pid: P29
     poids: 81
-    prix: 17.80
+    prix: 17.8
     type: Plaquette
   - description: >-
       belle paire de plaquettes en hêtre échauffé stabilisé naturel -
@@ -327,7 +326,7 @@ produits:
       - /img/uploads/132p30c.jpg
     pid: P30
     poids: 73
-    prix: 23.50
+    prix: 23.5
     type: Plaquette
   - description: >-
       belle paire de plaquettes en hêtre échauffé stabilisé naturel -
@@ -338,7 +337,7 @@ produits:
       - /img/uploads/132p31c.jpg
     pid: P31
     poids: 75
-    prix: 23.50
+    prix: 23.5
     type: Plaquette
   - description: >-
       paire de plaquettes en chêne échauffé stabilisé naturel- calibration grain
@@ -348,7 +347,7 @@ produits:
       - /img/uploads/132p32c.jpg
     pid: P32
     poids: 110
-    prix: 25.70
+    prix: 25.7
     type: Plaquette
   - description: >-
       paire de charme échauffé stabilisé naturel sans défaut - calibration à la
@@ -359,7 +358,7 @@ produits:
       - /img/uploads/132p33c.jpg
     pid: P33
     poids: 82
-    prix: 17.00
+    prix: ''
     type: Plaquette
   - description: >-
       paire de charme échauffé stabilisé naturel sans défaut - calibration à la
@@ -370,7 +369,7 @@ produits:
       - /img/uploads/132p34c.jpg
     pid: P34
     poids: 85
-    prix: 17.00
+    prix: ''
     type: Plaquette
   - description: >-
       paire de platane échauffé stabilisé naturel sans défaut - calibration à la
@@ -381,7 +380,7 @@ produits:
       - /img/uploads/132p35c.jpg
     pid: P35
     poids: 82
-    prix: 18.00
+    prix: 18
     type: Plaquette
   - description: >-
       paire de platane échauffé stabilisé naturel sans défaut - calibration à la
@@ -392,7 +391,7 @@ produits:
       - /img/uploads/132p36c.jpg
     pid: P36
     poids: 83
-    prix: 16.00
+    prix: 16
     type: Plaquette
   - description: >-
       paire de noyer échauffé stabilisé naturel sans défaut - calibration à la
@@ -403,7 +402,7 @@ produits:
       - /img/uploads/132p37c.jpg
     pid: P37
     poids: 96
-    prix: 19.00
+    prix: 19
     type: Plaquette
   - description: >-
       paire de marronnier échauffé stabilisé naturel sans défaut - calibration à
@@ -414,7 +413,7 @@ produits:
       - /img/uploads/132p38c.jpg
     pid: P38
     poids: 122
-    prix: 29.00
+    prix: 29
     type: Plaquette
 ---
 
