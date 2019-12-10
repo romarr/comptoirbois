@@ -200,7 +200,7 @@ produits:
       - /img/uploads/100b20bis.jpg
     pid: B20
     poids: '138'
-    prix: 21.2
+    prix: ''
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
