@@ -31,7 +31,7 @@ produits:
       - /img/uploads/123p2c.jpg
     pid: P2
     poids: 263
-    prix: 26
+    prix: ''
     type: Plaquette
 ---
 
