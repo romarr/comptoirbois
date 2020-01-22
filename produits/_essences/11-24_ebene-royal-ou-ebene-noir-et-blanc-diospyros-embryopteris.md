@@ -167,7 +167,7 @@ produits:
       - /img/uploads/100b17bis.jpg
     pid: B17
     poids: '140'
-    prix: 21.2
+    prix: ''
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
