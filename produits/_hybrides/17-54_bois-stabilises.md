@@ -53,7 +53,7 @@ produits:
       - /img/uploads/p3c.jpg
     pid: P3
     poids: 133
-    prix: 42
+    prix: ''
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées naturel -
