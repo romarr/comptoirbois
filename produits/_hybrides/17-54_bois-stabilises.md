@@ -46,12 +46,13 @@ produits:
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées violet, 1
-      petit défaut au dos de chaque plaquette - densité 1,05
-    dimensions: '160 x 54 x 7,4 - 8,7 mm'
+      petit défaut au dos de chaque plaquette bouché avec de la poudre minérale
+      naturelle noyée dans de la cyanoacrylate très fluide - densité 1,09
+    dimensions: '159/160 x 54 x 7,1 mm'
     photos:
       - /img/uploads/p3c.jpg
     pid: P3
-    poids: 145
+    poids: 133
     prix: 42
     type: Plaquette
   - description: >-
