@@ -101,7 +101,7 @@ produits:
       - /img/uploads/117p8c.jpg
     pid: P8
     poids: 155
-    prix: 20.2
+    prix: ''
     type: Plaquette
   - description: >-
       très belles et longues plaquettes calibrées à la JET 22/44 grain 80,
