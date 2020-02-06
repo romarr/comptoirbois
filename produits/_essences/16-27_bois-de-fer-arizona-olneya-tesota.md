@@ -52,7 +52,7 @@ produits:
       - /img/uploads/116p1c.jpg
     pid: P1
     poids: 113
-    prix: 17
+    prix: ''
     type: Plaquette
   - description: 'belle paire de plaquettes sans défaut - densité 1,30'
     dimensions: '134 x 44,5 x 7,8 - 7,9 mm'
@@ -60,7 +60,7 @@ produits:
       - /img/uploads/116p2c.jpg
     pid: P2
     poids: 122
-    prix: 24
+    prix: ''
     type: Plaquette
   - description: 'belle paire de plaquettes sans défaut - densité 1,27'
     dimensions: '134 x 45 x 7,8 - 7,9 mm'
