@@ -46,7 +46,7 @@ produits:
       - /img/uploads/134b3bisc.jpg
     pid: B3
     poids: 107
-    prix: 7.5
+    prix: ''
     type: Bloc
 ---
 
