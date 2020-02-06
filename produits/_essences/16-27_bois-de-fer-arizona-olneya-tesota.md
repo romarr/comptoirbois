@@ -450,6 +450,7 @@ produits:
       - /img/uploads/116p44c.jpg
     pid: P44
     poids: 130
+    prix: ''
     type: Plaquette
   - description: >-
       très belle paire sans défaut calibrée à la JET 22/44 grain 120 faces
