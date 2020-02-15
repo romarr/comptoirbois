@@ -39,7 +39,7 @@ produits:
       - /img/uploads/100b3bis.jpg
     pid: B3
     poids: '223'
-    prix: 29.7
+    prix: ''
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,03'
     dimensions: 148 x 39 x 39
@@ -48,7 +48,7 @@ produits:
       - /img/uploads/100b4bis.jpg
     pid: B4
     poids: '231'
-    prix: 29.7
+    prix: ''
     type: Bloc
   - description: 'bois sans défaut, légèrement échauffé - densité 1,07'
     dimensions: 150 x 38/39 x 51/52
@@ -114,7 +114,7 @@ produits:
       - /img/uploads/100b12bis.jpg
     pid: B12
     poids: '326'
-    prix: 39
+    prix: ''
     type: Bloc
   - description: >-
       magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
@@ -125,7 +125,7 @@ produits:
       - /img/uploads/100b13bis.jpg
     pid: B13
     poids: '317'
-    prix: 40
+    prix: ''
     type: Bloc
   - description: '1 micro-fissure sur une face - densité 1,14'
     dimensions: 148 x 32/33 x 33
