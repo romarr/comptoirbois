@@ -83,7 +83,7 @@ produits:
       - /img/uploads/p6c.jpg
     pid: P6
     poids: 156
-    prix: 48
+    prix: '48,00'
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées vert -
@@ -93,7 +93,7 @@ produits:
       - /img/uploads/p7c.jpg
     pid: P7
     poids: 157
-    prix: 48
+    prix: ''
     type: Plaquette
   - description: >-
       très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées vert -
