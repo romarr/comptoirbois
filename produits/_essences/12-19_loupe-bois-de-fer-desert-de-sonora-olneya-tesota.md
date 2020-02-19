@@ -23,7 +23,7 @@ produits:
       - /img/uploads/102b1bisc.jpg
     pid: B1
     poids: '535'
-    prix: 67.00
+    prix: ''
     type: Bloc
   - description: 'magnifiques plaquettes bicolores sans défaut, bois dur - densité 0,94'
     dimensions: '214 x 47 x 4,9 - 5,5 mm'
@@ -31,7 +31,7 @@ produits:
       - /img/uploads/102p1c.jpg
     pid: P1
     poids: 98
-    prix: 36.00
+    prix: 36
     type: Plaquette
   - description: 'magnifiques plaquettes bicolores sans défaut, bois dur - densité 0,92'
     dimensions: '230/231 x 49/50 x 4,2 - 4,7 mm'
