@@ -56,7 +56,7 @@ produits:
       - /img/uploads/118b1bisc.jpg
     pid: B1
     poids: 196
-    prix: 21
+    prix: ''
     type: Bloc
   - description: 'beau petit bloc, une petite fissure sur arête - forte densité 1,09'
     dimensions: 125/126 x 37 x 37 mm
