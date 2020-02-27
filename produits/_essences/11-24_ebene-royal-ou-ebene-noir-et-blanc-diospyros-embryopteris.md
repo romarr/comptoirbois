@@ -134,7 +134,7 @@ produits:
       - /img/uploads/100b14bis.jpg
     pid: B14
     poids: '191'
-    prix: 19.2
+    prix: ''
     type: Bloc
   - description: >-
       1 micro-fissure sur 1 face, ponçage grain 120 sur les 4 faces - densité
@@ -156,7 +156,7 @@ produits:
       - /img/uploads/100b16bis.jpg
     pid: B16
     poids: '194'
-    prix: 19.2
+    prix: ''
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -178,7 +178,7 @@ produits:
       - /img/uploads/100b18bis.jpg
     pid: B18
     poids: '139'
-    prix: 21.2
+    prix: ''
     type: Bloc
   - description: >-
       magnifique petit bloc ondé sans défaut, ponçage grain 120 sur les 4 faces
@@ -189,7 +189,7 @@ produits:
       - /img/uploads/100b19bis.jpg
     pid: B19
     poids: '144'
-    prix: 22
+    prix: ''
     type: Bloc
   - description: >-
       magnifique petit bloc ondé avec un petit trou sur une face, ponçage grain
@@ -211,7 +211,7 @@ produits:
       - /img/uploads/100b21bis.jpg
     pid: B21
     poids: '154'
-    prix: 21.2
+    prix: ''
     type: Bloc
   - description: >-
       très belle et longue paire sans défaut, calibrée à la JET 22/44 grain 80 -
