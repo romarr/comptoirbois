@@ -338,7 +338,7 @@ produits:
       - /img/uploads/132p31c.jpg
     pid: P31
     poids: 75
-    prix: 23.5
+    prix: ''
     type: Plaquette
   - description: >-
       paire de plaquettes en chêne échauffé stabilisé naturel- calibration grain
@@ -381,7 +381,7 @@ produits:
       - /img/uploads/132p35c.jpg
     pid: P35
     poids: 82
-    prix: 18
+    prix: ''
     type: Plaquette
   - description: >-
       paire de platane échauffé stabilisé naturel sans défaut - calibration à la
@@ -417,4 +417,3 @@ produits:
     prix: 29
     type: Plaquette
 ---
-
