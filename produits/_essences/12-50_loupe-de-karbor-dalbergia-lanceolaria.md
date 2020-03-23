@@ -23,7 +23,7 @@ produits:
       - /img/uploads/106b1c.jpg
     pid: B1
     poids: '503'
-    prix: 81.70
+    prix: 81.7
     type: Bloc
   - description: 'beau petit bloc sans défaut - forte densité 1,21'
     dimensions: '142/1432 x 36,5 x 37 mm'
@@ -32,7 +32,7 @@ produits:
       - /img/uploads/106b2c.jpg
     pid: B2
     poids: '238'
-    prix: 27
+    prix: ''
     type: Bloc
   - description: 'beau petit bloc sans défaut - forte densité 1,28'
     dimensions: 142 x 36/37 x 37 mm
@@ -41,7 +41,6 @@ produits:
       - /img/uploads/106b3c.jpg
     pid: B3
     poids: '246'
-    prix: 27.50
+    prix: ''
     type: Bloc
 ---
-
