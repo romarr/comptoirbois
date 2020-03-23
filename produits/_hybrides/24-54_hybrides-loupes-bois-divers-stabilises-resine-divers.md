@@ -581,7 +581,7 @@ produits:
       - /img/uploads/131p51c.jpg
     pid: P51
     poids: 78
-    prix: 35.6
+    prix: ''
     type: Plaquette
   - description: >-
       plaquettes en loupe d'érable stabilisée vert + résine rouge&noire -
@@ -632,7 +632,7 @@ produits:
       - /img/uploads/131p56c.jpg
     pid: P56
     poids: 70
-    prix: 32.6
+    prix: ''
     type: Plaquette
   - description: >-
       paire de plaquettes en loupe d'érable stabilisée rose + résine bleue -
