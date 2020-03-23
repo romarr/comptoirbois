@@ -65,7 +65,7 @@ produits:
       - /img/uploads/102p5c.jpg
     pid: P5
     poids: 54
-    prix: 17
+    prix: ''
     type: Plaquette
   - description: >-
       magnifiques plaquettes, présence de micro-fissures, bois dur - densité
@@ -78,4 +78,3 @@ produits:
     prix: 70
     type: Plaquette
 ---
-
