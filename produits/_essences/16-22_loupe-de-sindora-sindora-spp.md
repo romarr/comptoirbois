@@ -83,7 +83,7 @@ produits:
       - /img/uploads/118b4bisc.jpg
     pid: B4
     poids: 192
-    prix: 19
+    prix: ''
     type: Bloc
   - description: 'beau petit bloc en partie échauffé - densité 0,87'
     dimensions: 143 x 37/38 x 38 mm
@@ -95,4 +95,3 @@ produits:
     prix: 19
     type: Bloc
 ---
-
