@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KAMANI ONDE (calophyllum calaba)
-gid: '141'
+gid: "141"
 image: /img/uploads/141p1c.jpg
 region: océanie
 details: >-
@@ -12,35 +12,29 @@ details: >-
   forêts de plaine. Il a été planté dans les régions tropicales et est
   naturalisé dans les îles hawaïennes. 
 
-  Le bois a une texture brillante et prend en vieillissant la teinte brun
-  rougeâtre avec un grain assez fin. Utilisations : lambris, meubles, armoires
-  et la construction de bateaux ; il est largement utilisé pour les arts de la
-  table et la sculpture.
+  Le bois a une texture brillante et prend en vieillissant la teinte brun rougeâtre avec un grain assez fin. Utilisations : lambris, meubles, armoires et la construction de bateaux ; il est largement utilisé pour les arts de la table et la sculpture.
 couleur:
   - rouge
   - brun
-densite: '>0,80'
+densite: ">0,80"
 veines: Avec
 produits:
-  - description: >-
-      belles plaquettes moirées avec un petit défaut en bout, calibrage à la JET
-      22/44 grain 80 - densité  0,77
-    dimensions: '251/252 x 44 x 6,6 - 7,2 mm'
+  - description: belles plaquettes moirées avec un petit défaut en bout, calibrage à
+      la JET 22/44 grain 80 - densité  0,77
+    dimensions: 251/252 x 44 x 6,6 - 7,2 mm
     photos:
       - /img/uploads/141p1c.jpg
     pid: P1
     poids: 122
-    prix: ''
+    prix: ""
     type: Plaquette
-  - description: >-
-      belles plaquettes moirées avec un petit défaut en bout sur l'angle visible
-      sur la photo, calibrage à la JET 22/44 grain 80 - densité  0,78
-    dimensions: '252 x 44 x 6,9 mm'
+  - description: belles plaquettes moirées avec un petit défaut en bout sur l'angle
+      visible sur la photo, calibrage à la JET 22/44 grain 80 - densité  0,78
+    dimensions: 252 x 44 x 6,9 mm
     photos:
       - /img/uploads/141p2c.jpg
     pid: P2
     poids: 120
-    prix: 14.2
+    prix: ""
     type: Plaquette
 ---
-
