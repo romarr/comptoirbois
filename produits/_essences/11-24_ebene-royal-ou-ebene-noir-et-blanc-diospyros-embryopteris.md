@@ -75,7 +75,7 @@ produits:
       - /img/uploads/100b8bis.jpg
     pid: B8
     poids: "313"
-    prix: 34
+    prix: ""
     type: Bloc
   - description: bois sans défaut, légèrement échauffé - densité 0,96
     dimensions: 148/149 x 40 x 40
