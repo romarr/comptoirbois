@@ -19,7 +19,7 @@ produits:
       - /img/uploads/119p1c.jpg
     pid: P1
     poids: 91
-    prix: 21
+    prix: ""
     type: Plaquette
   - description: magnifiques plaquettes sans défaut - densité 1,11
     dimensions: 200 x 48/49 x 5,2 - 5,4 mm
