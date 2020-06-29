@@ -20,7 +20,7 @@ produits:
       - /img/uploads/100b1bis.jpg
     pid: B1
     poids: "293"
-    prix: "29"
+    prix: ""
     type: Bloc
   - description: bois sans défaut - densité 1,17
     dimensions: 160 x 41 x 41,5
@@ -141,7 +141,7 @@ produits:
       - /img/uploads/100b15bis.jpg
     pid: B15
     poids: "189"
-    prix: 19.2
+    prix: ""
     type: Bloc
   - description: 1 micro-fissure sur 1 face, ponçage grain 120 sur les 4 faces -
       densité 1,14
