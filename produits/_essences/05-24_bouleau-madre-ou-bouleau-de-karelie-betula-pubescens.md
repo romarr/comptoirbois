@@ -41,7 +41,7 @@ produits:
       - /img/uploads/146b3bisc.jpg
     pid: B3
     poids: 349
-    prix: "41.10"
+    prix: ""
     type: Bloc
   - description: très belle paire sans défaut - qualité AA - densité 0,78
     dimensions: 121,5 x 40,5 x 5,6 - 6,3 mm
