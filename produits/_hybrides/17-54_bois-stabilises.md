@@ -108,7 +108,7 @@ produits:
       - /img/uploads/p9c.jpg
     pid: P9
     poids: 120
-    prix: 44
+    prix: ""
     type: Plaquette
   - description: "belles plaquettes de LOUPE D'ERABLE stabilisées vert - origine :
       Europe de l'Est - densité 1"
