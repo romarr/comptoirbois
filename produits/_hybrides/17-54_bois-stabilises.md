@@ -81,7 +81,7 @@ produits:
       - /img/uploads/p6c.jpg
     pid: P6
     poids: 156
-    prix: "48"
+    prix: ""
     type: Plaquette
   - description: "très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées
       vert - origine : USA - densité 1,13"
