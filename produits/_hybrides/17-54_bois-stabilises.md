@@ -227,7 +227,7 @@ produits:
       - /img/uploads/132p22c.jpg
     pid: P22
     poids: 81
-    prix: 31.4
+    prix: ""
     type: Plaquette
   - description: paire de plaquettes en loupe d'érable stabilisée vert - calibration
       grain 120 faces bookmatched - densité 1,06 - présence de micro-fissures
@@ -237,7 +237,7 @@ produits:
       - /img/uploads/132p23c.jpg
     pid: P23
     poids: 87
-    prix: 27.5
+    prix: ""
     type: Plaquette
   - description: paire de plaquettes en loupe de sequoia stabilisée naturel -
       calibration grain 120 faces bookmatched - densité 0,72
