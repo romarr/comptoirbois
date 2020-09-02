@@ -35,7 +35,7 @@ produits:
       - /img/uploads/p1c.jpg
     pid: P1
     poids: 209
-    prix: 45
+    prix: ""
     type: Plaquette
   - description: magnifiques plaquettes de LOUPE D'AMBOINE stabilisée bleu - densité 1,08
     dimensions: 143/144 x 48/49 x 6,2 - 6,3 mm
