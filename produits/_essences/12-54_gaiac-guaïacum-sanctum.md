@@ -38,6 +38,6 @@ produits:
     dimensions: 262 x 29/30 x 30/31 mm
     pid: C1
     poids: "326"
-    prix: 17.6
+    prix: ""
     type: Carrelet
 ---
