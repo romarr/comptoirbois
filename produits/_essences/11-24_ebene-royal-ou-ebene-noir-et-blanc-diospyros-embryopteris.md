@@ -57,7 +57,7 @@ produits:
       - /img/uploads/100b6bis.jpg
     pid: B6
     poids: "319"
-    prix: 34
+    prix: ""
     type: Bloc
   - description: bois sans défaut, légèrement échauffé - densité 1,05
     dimensions: 149/150 x 38,5 x 50,5/52
