@@ -66,7 +66,7 @@ produits:
       - /img/uploads/100b7.jpg
     pid: B7
     poids: "308"
-    prix: 34
+    prix: ""
     type: Bloc
   - description: bois sans défaut, légèrement échauffé - densité 1,08
     dimensions: 148 x 38/39 x 51
