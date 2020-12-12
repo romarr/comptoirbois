@@ -27,7 +27,7 @@ produits:
       - /img/uploads/b1bisc.jpg
     pid: B1
     poids: 268
-    prix: 77
+    prix: ""
     type: Bloc
   - description: grandes plaquettes d'ERABLE ONDE stabilisé bleu - forte densité 1,13
     dimensions: 201 x 72 x 6,4 mm
@@ -43,7 +43,7 @@ produits:
       - /img/uploads/p2c.jpg
     pid: P2
     poids: 94
-    prix: 32
+    prix: ""
     type: Plaquette
   - description: très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées
       violet, 1 petit défaut au dos de chaque plaquette bouché avec de la poudre
@@ -63,7 +63,7 @@ produits:
       - /img/uploads/p4c.jpg
     pid: P4
     poids: 93
-    prix: 37
+    prix: ""
     type: Plaquette
   - description: "très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées
       violet sans défaut - origine : USA - densité 0,98"
@@ -72,7 +72,7 @@ produits:
       - /img/uploads/p5c.jpg
     pid: P5
     poids: 110
-    prix: 50
+    prix: ""
     type: Plaquette
   - description: "très belles plaquettes de LOUPE DE PAVIER (buckeye) stabilisées
       turquoise - origine : USA - densité 1,06"
@@ -99,7 +99,7 @@ produits:
       - /img/uploads/p8c.jpg
     pid: P8
     poids: 155
-    prix: 48
+    prix: ""
     type: Plaquette
   - description: "très belles plaquettes de LOUPE DE NOYER CAUCASIEN stabilisées
       naturel - origine : Europe de l'Est - densité 0,98"
