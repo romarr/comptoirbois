@@ -58,7 +58,7 @@ produits:
       - /img/uploads/108p1c.jpg
     pid: P1
     poids: 166
-    prix: 45.1
+    prix: ""
     type: Plaquette
   - description: très belles et grandes plaquettes bicolores calibrées grain 120
       faces bookmatched - présence de quelques micro-fissures sans incidence -
@@ -68,7 +68,7 @@ produits:
       - /img/uploads/108p2c.jpg
     pid: P2
     poids: 178
-    prix: 47.5
+    prix: ""
     type: Plaquette
   - description: très belles et grandes plaquettes bicolores calibrées grain 120
       faces bookmatched - présence d'une micro-fissure sur largeur - densité
