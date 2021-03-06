@@ -31,7 +31,7 @@ produits:
       - /img/uploads/146b2bisc.jpg
     pid: B2
     poids: 410
-    prix: "53.40"
+    prix: ""
     type: Bloc
   - description: très beau bloc  - présence d'une toute petite fissure sur arête en
       bout - qualité A+ - densité 0,83
