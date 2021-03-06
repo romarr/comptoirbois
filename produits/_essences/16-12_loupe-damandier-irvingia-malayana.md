@@ -28,7 +28,7 @@ produits:
       - /img/uploads/113p2c.jpg
     pid: P2
     poids: 83
-    prix: 21
+    prix: ""
     type: Plaquette
   - description: très belles plaquettes, présence de petites fissures de loupe -
       densité 0,83
