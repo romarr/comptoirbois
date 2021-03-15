@@ -218,7 +218,7 @@ produits:
       - /img/uploads/132p21c.jpg
     pid: P21
     poids: 78
-    prix: 31.4
+    prix: ""
     type: Plaquette
   - description: paire de plaquettes en loupe d'érable stabilisée bleu&gris -
       calibration grain 120 faces bookmatched - densité 0,96
