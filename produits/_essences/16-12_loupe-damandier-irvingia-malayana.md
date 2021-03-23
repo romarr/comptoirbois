@@ -74,7 +74,7 @@ produits:
       - /img/uploads/113b4bisc.jpg
     pid: B4
     poids: 170
-    prix: 23
+    prix: ""
     type: Bloc
   - description: joli petit quillon, 1 petit éclat en angle (voir photo) - densité 0,91
     dimensions: 116 x 36 x 40 mm
