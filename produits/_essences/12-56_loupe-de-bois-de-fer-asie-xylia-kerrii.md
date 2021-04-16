@@ -30,7 +30,7 @@ produits:
       - /img/uploads/108b2bisc.jpg
     pid: B2
     poids: "185"
-    prix: 28.9
+    prix: ""
     type: Bloc
   - description: très beau quillon, 1 petit trou dans la zone noire en bout - densité 1,11
     dimensions: 19 x 33,5 x 39 mm
@@ -39,7 +39,7 @@ produits:
       - /img/uploads/108b3bisc.jpg
     pid: B3
     poids: "201"
-    prix: 28.9
+    prix: ""
     type: Bloc
   - description: très beau quillon, présence d'une petite fissure sur 1 bout - densité 1,09
     dimensions: 139 x 35 x 39 mm
