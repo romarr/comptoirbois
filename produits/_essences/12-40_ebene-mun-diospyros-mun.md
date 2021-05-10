@@ -37,7 +37,7 @@ produits:
       - /img/uploads/109p1c.jpg
     pid: P1
     poids: "236"
-    prix: 30.8
+    prix: ""
     type: Plaquette
   - description: belles et grandes plaquettes sans défaut - densité 1,10
     dimensions: 307 x 60 x 4,3 - 4,7 mm
@@ -45,6 +45,6 @@ produits:
       - /img/uploads/109p2c.jpg
     pid: P2
     poids: "179"
-    prix: 25.9
+    prix: ""
     type: Plaquette
 ---
