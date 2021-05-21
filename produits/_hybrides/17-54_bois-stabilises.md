@@ -266,7 +266,7 @@ produits:
       - /img/uploads/132p26c.jpg
     pid: P26
     poids: 91
-    prix: 31.5
+    prix: ""
     type: Plaquette
   - description: très belle paire rare de plaquettes en camphrier ondé stabilisé
       naturel - calibration grain 120 faces bookmatched - densité 1,07
