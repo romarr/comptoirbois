@@ -44,7 +44,7 @@ produits:
       - /img/uploads/128p4c.jpg
     pid: P4
     poids: 171
-    prix: 29
+    prix: ""
     type: Plaquette
   - description: belles plaquettes de loupe de buis échauffé, présence d'une
       micro-fissure longitudinale - densité 0,94
