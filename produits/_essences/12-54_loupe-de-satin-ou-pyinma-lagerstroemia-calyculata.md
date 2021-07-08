@@ -20,7 +20,7 @@ produits:
       - /img/uploads/105b1bisc.jpg
     pid: B1
     poids: "290"
-    prix: 34.1
+    prix: ""
     type: Bloc
   - description: très belles plaquettes sans défaut - densité 0,67
     dimensions: 317 x 41 x 7 - 7,3 mm
