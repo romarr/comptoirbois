@@ -93,7 +93,7 @@ produits:
       - /img/uploads/100b10bis.jpg
     pid: B10
     poids: "224"
-    prix: 26
+    prix: ""
     type: Bloc
   - description: magnifique bloc sans défaut, ponçage au grain 120 sur les 4 faces -
       densité 1,13
