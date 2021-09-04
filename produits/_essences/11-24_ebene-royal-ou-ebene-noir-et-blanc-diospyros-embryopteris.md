@@ -84,7 +84,7 @@ produits:
       - /img/uploads/100b9bis.jpg
     pid: B9
     poids: "229"
-    prix: 34
+    prix: ""
     type: Bloc
   - description: bois sans défaut, légèrement échauffé - densité 0,97
     dimensions: 147,5 x 39,5 x 40
