@@ -83,7 +83,7 @@ produits:
       - /img/uploads/116p5c.jpg
     pid: P5
     poids: 114
-    prix: 20
+    prix: ""
     type: Plaquette
   - description: belle paire de plaquettes loupées calibrées au grain 120 faces
       bookmatched - densité 1,28
@@ -118,7 +118,7 @@ produits:
       - /img/uploads/116p9c.jpg
     pid: P9
     poids: 134
-    prix: 32
+    prix: ""
     type: Plaquette
   - description: magnifique paire de plaquettes loupées calibrées au grain 120 faces
       bookmatched, présence d'une petite fissure visible sur la photo - densité
@@ -128,7 +128,7 @@ produits:
       - /img/uploads/116p11c.jpg
     pid: P11
     poids: 115
-    prix: 32
+    prix: ""
     type: Plaquette
   - description: belle paire de plaquettes calibrées au grain 120 faces bookmatched,
       présence d'un petit trou en bout sur une plaquette visible sur la photo -
@@ -138,7 +138,7 @@ produits:
       - /img/uploads/116p12c.jpg
     pid: P12
     poids: 116
-    prix: 27
+    prix: ""
     type: Plaquette
   - description: magnifique paire de plaquettes loupées calibrées au grain 120 faces
       bookmatched, présence de micro-fissures de loupe visibles sur la photo -
@@ -156,7 +156,7 @@ produits:
       - /img/uploads/116p14c.jpg
     pid: P14
     poids: 115
-    prix: 34.3
+    prix: ""
     type: Plaquette
   - description: belle paire sans défaut calibré à la JET 22/44 grain 100, faces
       bookmatched finies au grain 120 - densité 1,28
@@ -405,7 +405,7 @@ produits:
       - /img/uploads/116p43c.jpg
     pid: P43
     poids: 130
-    prix: 22
+    prix: ""
     type: Plaquette
   - description: très belle paire sans défaut calibrée à la JET 22/44 grain 80,
       application d'un film de finishing oil sur faces bookmatched  - forte
