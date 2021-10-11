@@ -135,7 +135,7 @@ produits:
       - /img/uploads/p12c.jpg
     pid: P12
     poids: 80
-    prix: 27
+    prix: ""
     type: Plaquette
   - description: "belles plaquettes de LOUPE D'ERABLE stabilisées bleu - origine :
       Europe de l'Est - densité 1,01"
@@ -144,7 +144,7 @@ produits:
       - /img/uploads/p13c.jpg
     pid: P13
     poids: 82
-    prix: 27
+    prix: ""
     type: Plaquette
   - description: "belles plaquettes de LOUPE D'ERABLE stabilisées rouge - origine :
       Europe de l'Est - densité 1,02"
