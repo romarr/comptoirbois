@@ -2,58 +2,15 @@
     <script src="{{"/js/jquery.min.js" | prepend: site.baseurl}}"></script>
     <script src="{{"/js/jquery.lazy.min.js" | prepend: site.baseurl}}"></script>
     <script src="{{"/js/bootstrap.min.js" | prepend: site.baseurl}}"></script>
-    <script>
-    $(function() {
-        $('.lazy').lazy({
-        });
-    });
-    </script>
-    {% if page.shop %}
-    <script src="{{"/js/jplist.min.js" | prepend: site.baseurl}}"></script>
-    <script src="{{"/js/magnify.min.js" | prepend: site.baseurl}}"></script>
-    <script>
-    jplist.init({
-        storage: 'localStorage',
-        storageName: 'jplist'
-    });
-    </script>
-    {%endif%}
-    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YzAxMGY5ODMtYjI0MS00MDk1LWI3MWYtMTMyZDM1ZWQ4NjQxNjM2ODQzNzU1NDQyNDA4MTE4"></script>
-    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
     <div id="page-footer">
         <div class="container">
-            <div class="row text-center pt-4">
-                <div class="col-6 text-left">
+            <div class="row text-center pt-4 justify-content-md-center">
+                <div class="col-6 text-center">
                     <h6>{{site.title}}</h6>
                     <p>{{site.description}}</p>
                 </div>
-                <div class="col-3">
-                    <h6>Services</h6>
-                    <ul class="nav flex-column">
-                        {%- for p in site.pages -%}
-                        {%- if p.place == "services" -%}
-                        <li class="nav-item w-100">
-                            <a class="nav-link active text-light" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
-                        </li>
-                        {%- endif -%}
-                        {%- endfor -%}
-                    </ul>
-                </div>
-
-                <div class="col-3">
-                    <h6>Conditions</h6>
-                    <ul class="nav flex-column">
-                        {%- for p in site.pages -%}
-                        {%- if p.place == "conditions" -%}
-                        <li class="nav-item w-100">
-                            <a class="nav-link active text-light" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
-                        </li>
-                        {%- endif -%}
-                        {%- endfor -%}
-                    </ul>
-                </div>
                 <div class="col-12 text-center">
-                    <pre class="bg-footer">{{site.title}} | Powered by <a href="https://jekyllrb.com">Jekyll</a> & <a href="https://snipcart.com">Snipcart</a> | Site par <a href="mailto:co%6e&#116;%61&#99;t%40%61&#114;&#114;%61%69&#111;&#108;&#111;%73%2eo%76&#104;">A. Romain</a>| CC BY-SA</pre>
+                    <pre class="bg-footer">{{site.title}} | Powered by <a href="https://jekyllrb.com">Jekyll</a> | Site par <a href="mailto:co%6e&#116;%61&#99;t%40%61&#114;&#114;%61%69&#111;&#108;&#111;%73%2eo%76&#104;">A. Romain</a>| CC BY-SA</pre>
                 </div>
                 <div class="col-12 text-center">
                     <p><small>Subtle patterns by <a href="https://www.toptal.com/designers/subtlepatterns">Toptal

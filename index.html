@@ -1,12 +1,51 @@
 ---
-layout: default
+layout: eol
 title: Vente d'essences de bois
 description: Choix variés d'essences de bois en blocs, quillons ou carrelets. En vente directe pour coutellerie, outillages et consommables.
 place: none
 pos: 0
 home: true
 ---
+
 <div class="col-12">
+    <div class="row justify-content-around text-center">
+        <div class="col-8">
+            <h3>La gestion de notre site devient trop chronophage, c'est pourquoi nous avons décidé de le supprimer</h3>
+            <h3>Dorénavant vous pouvez nous suivre sur <a href="https://www.facebook.com/Jeff.foliguet">Facebook</a></h3>
+            <h3>En vous remerciant pour votre soutien, cordialement.</h3>
+            <h3>JF Foliguet & F Juge</h3>
+            <h3> <a href="https://www.facebook.com/Jeff.foliguet"><i class="text-dark fa-lg fab fa-facebook"></i></a> </h3>
+            <hr>
+            <h4 class="mt-4">Contact</h4>
+
+            <form class="text-left" action="https://formspree.io/contact@lecomptoirdesboisdu83.fr" method="POST">
+                <div class="form-group">
+                    <label for="formEmail">Adresse e-mail</label>
+                    <input type="email" class="form-control" name="formEmail" placeholder="nom@exemple.com">
+                </div>
+                <div class="form-group">
+                    <label for="formName">Nom</label>
+                    <input type="text" class="form-control" name="formName" placeholder="Nom">
+                </div>
+                <div class="form-group">
+                    <label for="formSurname">Prenom</label>
+                    <input type="text" class="form-control" name="formSurname" placeholder="Prenom">
+                </div>
+                <div class="form-group">
+                    <label for="formMsg">Message</label>
+                    <textarea class="form-control" name="formMsg" rows="3"></textarea>
+                </div>
+                <input class="btn btn-primary" type="submit" value="Envoyer">
+            </form>
+        </div>
+    </div>
+    <div class="row parallax-bg my-4">
+        <div class="col-12">
+            <div class="separator parallax-bg">
+                <h1>{{site.subtitle}}</h1>
+            </div>
+        </div>
+    </div>
     <div class="row justify-content-around text-center">
         {% for item in site.data.features.items %}
         <div class="col-6 col-md-3">
@@ -19,45 +58,4 @@ home: true
         </div>
         {% endfor %}
     </div>
-    <div class="row parallax-bg my-4">
-        <div class="col-12">
-            <div class="separator parallax-bg">
-                <h1>{{site.subtitle}}</h1>
-            </div>
-        </div>
-    </div>
-    <div class="row justify-content-center">
-            <div class="col-11">
-                <blockquote class="blockquote text-center">
-                    <p class="mb-0">Depuis l’origine du monde, l’homme a entretenu une relation particulière à l’arbre et au
-                        bois dans son appellation la plus noble.</p>
-                </blockquote>
-                <div class="text-justify">
-                    <img src="img/creation-de-dice-bois-wood.jpg" class="img-fluid w-25 py-4 mr-4 rounded float-left" alt="...">
-                    <p>Comme lui, l’homme est enraciné à la terre ; il naît, grandit, se reproduit et meurt ; de ce lien
-                        indéfectible, il semble naturel d’être fasciné par cette matière vivante qui a façonné depuis la nuit
-                        des temps notre univers.</p>
-                    <p>Curieux de l’imagination sans limite de notre mère nature, nous vous proposons de découvrir notre
-                        <em>passion du bois</em> à travers une <em>multitude d’essences</em> du monde entier sous forme de blocs, quillons,
-                        plaquettes et planchettes calibrées pour des utilisations multiples (<em>coutellerie</em>, bijouterie, tournage,
-                        etc…..) ; les provenances sont diverses : ONF, sites dédiés, petites annonces, fin d’activité de PME,
-                        bouscatiers,…..tout en étant respectueux de la ressource et des mesures de protection engagées.</p>
-                </div>
-            </div>
-            <div class="col-11">
-                <div class="text-justify">
-                    <div class="separator parallax-bg my-3">
-                        <h1>Produits & créations</h1>
-                    </div>
-                    <img src="img/presentoir-stylo-bois-wood.jpg" class="img-fluid w-25 py-4 ml-4 rounded float-right" alt="...">
-                    <p>En parallèle et afin d’élargir notre activité, nous avons également développé une production de <em>bois
-                        stabilisés</em> - pour la plupart échauffés – et d’hybrides.</p>
-                    <p>Nous sommes conscients de la valeur de ce matériau intemporel et nous nous efforçons de pratiquer le
-                        meilleur <em>rapport qualité/prix.</em></p>
-                    <p>Nous sommes aussi à l’écoute de vos demandes ou projets particuliers ; vous pouvez nous contacter par
-                        mail pour nous les présenter ; nous vous informerons le plus rapidement possible de la faisabilité.</p>
-                    <p>Passionnément bois, JF.F & F.J</p>
-                </div>
-            </div>
-        </div>
 </div>
